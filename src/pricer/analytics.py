@@ -72,3 +72,19 @@ def brc_price(s0, barrier, coupon, r, q, sigma, T, nominal=100.0, monitoring="ma
         raise ValueError("monitoring must be 'maturity' or 'continuous'")
     df = np.exp(-r * T)
     return nominal * df * (1.0 + coupon) - (nominal / s0) * dip
+
+
+def bs_greeks(s0, K, r, q, sigma, T, option="call"):
+    """Black-Scholes delta, gamma, vega (per vol point) and rho (per basis point)."""
+    sqrt_T = np.sqrt(T)
+    d1 = (np.log(s0 / K) + (r - q + 0.5 * sigma**2) * T) / (sigma * sqrt_T)
+    d2 = d1 - sigma * sqrt_T
+    gamma = np.exp(-q * T) * norm.pdf(d1) / (s0 * sigma * sqrt_T)
+    vega = s0 * np.exp(-q * T) * norm.pdf(d1) * sqrt_T * 0.01
+    if option == "call":
+        delta = np.exp(-q * T) * norm.cdf(d1)
+        rho = K * T * np.exp(-r * T) * norm.cdf(d2) * 0.0001
+    else:
+        delta = -np.exp(-q * T) * norm.cdf(-d1)
+        rho = -K * T * np.exp(-r * T) * norm.cdf(-d2) * 0.0001
+    return {"delta": delta, "gamma": gamma, "vega": vega, "rho": rho}
