@@ -49,3 +49,45 @@ def brc_payoff(paths, s0, barrier, coupon, nominal=100.0, monitoring="maturity")
         raise ValueError("monitoring must be 'maturity' or 'continuous'")
     redemption = np.where(knocked_in, nominal * np.minimum(perf, 1.0), nominal)
     return redemption + nominal * coupon
+
+
+def phoenix_pv(perf, obs_times, r, coupon, coupon_barrier=0.70, autocall_barrier=1.00,
+               protection_barrier=0.60, nominal=100.0, memory=True):
+    """Present value, path by path, of a Phoenix autocall with memory coupon.
+
+    Parameters
+    ----------
+    perf : array (n_paths, n_obs)  Performance S(t_i)/S0 at each observation date.
+                                   For a worst-of, pass the minimum performance across assets.
+    obs_times : array (n_obs,)     Observation dates in years (e.g. 0.25, 0.5, ..., 3.0).
+    coupon : float                 Coupon per observation period, as a fraction of nominal.
+    memory : bool                  If True, missed coupons are paid later when the barrier is met.
+
+    At each date t_i, for paths still alive:
+      1. coupon test: perf >= coupon_barrier -> pay coupon * (1 + missed coupons)
+      2. autocall test (all dates but the last): perf >= autocall_barrier -> repay nominal, stop
+      3. last date: repay nominal if perf >= protection_barrier, else nominal * perf
+    Each cash flow is discounted from its own payment date.
+    """
+    n_paths, n_obs = perf.shape
+    pv = np.zeros(n_paths)
+    alive = np.ones(n_paths, dtype=bool)
+    missed = np.zeros(n_paths)
+
+    for i in range(n_obs):
+        p = perf[:, i]
+        df = np.exp(-r * obs_times[i])
+
+        coupon_paid = alive & (p >= coupon_barrier)
+        n_coupons = (missed + 1) if memory else 1.0
+        pv += df * nominal * coupon * n_coupons * coupon_paid
+        missed = np.where(coupon_paid, 0.0, missed + alive)
+
+        if i < n_obs - 1:
+            called = alive & (p >= autocall_barrier)
+            pv += df * nominal * called
+            alive &= ~called
+        else:
+            redemption = np.where(p >= protection_barrier, nominal, nominal * p)
+            pv += df * redemption * alive
+    return pv
