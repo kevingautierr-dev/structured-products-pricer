@@ -57,3 +57,18 @@ def bgk_shift(H, sigma, dt, barrier="down"):
     beta = 0.5826  # = -zeta(1/2) / sqrt(2*pi)
     factor = np.exp(beta * sigma * np.sqrt(dt))
     return H * factor if barrier == "down" else H / factor
+
+
+def brc_price(s0, barrier, coupon, r, q, sigma, T, nominal=100.0, monitoring="maturity"):
+    """Closed-form BRC price via its decomposition:
+    zero-coupon bond + discounted coupon - (nominal / s0) down-and-in puts struck at s0.
+    """
+    H = barrier * s0
+    if monitoring == "maturity":
+        dip = down_and_in_put_european(s0, s0, H, r, q, sigma, T)
+    elif monitoring == "continuous":
+        dip = down_and_in_put_continuous(s0, s0, H, r, q, sigma, T)
+    else:
+        raise ValueError("monitoring must be 'maturity' or 'continuous'")
+    df = np.exp(-r * T)
+    return nominal * df * (1.0 + coupon) - (nominal / s0) * dip
