@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-03",
+  "carnet": {
+    "date_label": "Nov 3, 2026",
+    "six": [
+      {"label": "S&P 500", "niveau": "7 541,40", "variation": "−0,5 % (lun.)", "plus_gros": "non", "commentaire": "Nasdaq −1,1 % ; le Nasdaq 100 est en correction technique (−10 % du sommet). Dow +0,4 %. Contrats à terme en léger recul ce matin."},
+      {"label": "Euro Stoxx 50", "niveau": "6 176,06", "variation": "+0,7 % (lun.)", "plus_gros": "non", "commentaire": "Rebond après −1,2 % vendredi. Contrats à terme européens −0,9 % ce matin."},
+      {"label": "EUR/USD", "niveau": "1,119", "variation": "+0,5 % (lun.)", "plus_gros": "non", "commentaire": "Au-dessus de 1,12 hier soir, léger repli ce matin. Dollar index au plus bas depuis un mois."},
+      {"label": "Taux US 10 ans", "niveau": "4,91 %", "variation": "−4 pb (lun.), +2 pb ce matin", "plus_gros": "non", "commentaire": "Prix payés de l'ISM toujours à 75,2."},
+      {"label": "Brent", "niveau": "104,77 $", "variation": "−7,6 % (lun.)", "plus_gros": "oui", "commentaire": "Plus forte baisse depuis juillet. Environ 105,3 $ ce matin (+0,5 %) après la frappe américaine sur Qeshm."},
+      {"label": "VIX", "niveau": "18,73", "variation": "−3,6 % (lun.)", "plus_gros": "non", "commentaire": "Sources en désaccord : certains écrans affichent 21,15 ce matin. À vérifier avant le pitch."}
+    ],
+    "titres": [
+      {"titre": "Le Brent chute de 7,6 % à 104,77 $, sa plus forte baisse depuis juillet.", "contexte": "Espoir d'un accord pour mettre fin à la guerre entre les États-Unis et l'Iran : le président iranien dit avoir reçu le mandat de négocier, et un projet d'accord circule via le Qatar.", "effet": "Bonne nouvelle pour l'inflation et les taux. Pour un client sur un autocall adossé à des pétrolières (TotalEnergies, Eni), la baisse rapproche le sous-jacent de sa barrière. La volatilité du pétrole reste extrême, donc les coupons sur l'énergie restent élevés.", "source": "Marinelink (Reuters), JKN"},
+      {"titre": "Apple bat les attentes (CA de 114,5 Md$, +12 % ; BPA de 2,10 $ contre 2,00 $), mais l'action recule de 1 à 3 % après la clôture selon les sources.", "contexte": "Marge brute prévue à 45-46 % ce trimestre, contre 47,9 %, à cause du coût des puces mémoire et de l'IA de Siri. Les services ne croîtraient que de 8 à 9 %.", "effet": "Avec le Nasdaq 100 en correction, les paniers tech « worst-of » perdent de la valeur et leurs clients doivent surveiller les barrières. À l'émission, la volatilité implicite plus haute permet de proposer de meilleurs coupons.", "source": "MacRumors, Reuters, Saxo"},
+      {"titre": "L'ISM manufacturier américain monte à 55,5 en octobre (54,5 en septembre), 10e mois d'expansion.", "contexte": "La production atteint son plus haut depuis novembre 2021 grâce à la demande intérieure. L'indice des prix payés reste très élevé à 75,2.", "effet": "Une inflation industrielle tenace maintient les taux longs près de 4,9 %. Des taux hauts rendent attractifs les produits à capital garanti et les reverse convertibles en dollars, avec un risque de change pour un client en euros.", "source": "ISM (PR Newswire)"}
+    ],
+    "geopolitique": "Les États-Unis ont mené lundi des frappes limitées, qualifiées de « défensives », sur l'île iranienne de Qeshm, dans le détroit d'Ormuz. Selon Saxo, elles visaient des défenses aériennes, des radars côtiers et des centres de commandement de drones, après que les Gardiens de la révolution ont affirmé avoir abattu des drones américains. Donald Trump juge un accord avec Téhéran possible et dit qu'il ne frappera pas l'Iran après les élections. Les pourparlers via le Qatar continuent.",
+    "rendez_vous": "Aujourd'hui, élections de mi-mandat aux États-Unis et offres d'emploi JOLTS. Résultats de Ferrari, Intesa Sanpaolo, Bayer et Lufthansa en Europe, de Pfizer, AMD, Shopify et Super Micro aux États-Unis. La banque centrale australienne a relevé cette nuit son taux de 25 pb à 4,85 % (vote à 6 contre 3). Demain : inflation de la zone euro et annonce du refinancement trimestriel du Trésor américain.",
+    "heure_impact": "16 h (heure de Paris), JOLTS : des offres d'emploi solides renforceraient l'idée d'une hausse de taux de la Fed en décembre. Vers 22 h, après la clôture américaine, AMD : nouveau test pour les semi-conducteurs après Intel. À partir de 0 h-1 h, fermeture des premiers bureaux de vote. Les sondages donnent les démocrates favoris à la Chambre, et les marchés de prédiction leur accordent environ 3 chances sur 4 au Sénat ; un résultat inattendu ferait bouger le dollar et les taux.",
+    "pitch": [
+      {"etape": "The market this morning (15 s)", "en": "Markets are cautious on US midterm election day. Asia is lower, European futures are down almost 1 %, and oil is stabilising after a fall of more than 7 %.", "fr": "Les marchés sont prudents le jour des élections de mi-mandat américaines. L'Asie recule, les contrats à terme européens perdent près de 1 %, et le pétrole se stabilise après une chute de plus de 7 %."},
+      {"etape": "The two key moves (30 s)", "en": "Yesterday Brent lost 7.6 % to 104.8 dollars, its biggest drop since July. On Wall Street the S&P 500 fell 0.5 % to 7,541 and the Nasdaq 1.1 %, while the Euro Stoxx 50 gained 0.7 %.", "fr": "Hier, le Brent a perdu 7,6 % à 104,8 dollars, sa plus forte baisse depuis juillet. À Wall Street, le S&P 500 a cédé 0,5 % à 7 541 points et le Nasdaq 1,1 %, alors que l'Euro Stoxx 50 avait gagné 0,7 %."},
+      {"etape": "Why (20 s)", "en": "Oil is falling on hopes of a deal between Iran and the United States through Qatar, despite the US strike on Qeshm island. Tech remains under pressure: Apple expects a lower margin because of memory costs, and the stock slipped after the close.", "fr": "Le pétrole recule sur l'espoir d'un accord entre l'Iran et les États-Unis via le Qatar, malgré la frappe américaine sur l'île de Qeshm. La tech reste sous pression : Apple prévoit une marge en baisse à cause du coût des mémoires, et l'action recule après la clôture."},
+      {"etape": "What it changes (15 s)", "en": "The options market is paying a premium for the election, which makes coupons on new autocalls more generous. Clients exposed to tech baskets should watch their barriers, with the Nasdaq 100 in a 10 % correction.", "fr": "Le marché des options paie une prime pour l'élection, ce qui rend les coupons des nouveaux autocalls plus généreux. Les clients exposés à des paniers tech doivent en revanche surveiller leurs barrières, avec un Nasdaq 100 en correction de 10 %."},
+      {"etape": "What we watch today (10 s)", "en": "JOLTS job openings at 4 pm, AMD results tonight, then the first election results overnight.", "fr": "Les offres d'emploi JOLTS à 16 h, les résultats d'AMD ce soir, puis les premiers résultats des élections dans la nuit."}
+    ],
+    "a_verifier": "VIX : une source donne une clôture à 18,73, mais certains écrans affichent 21,15 ce matin.",
+    "sources": [
+      "Yahoo Finance (AP), clôtures américaines du 2 novembre : finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-212103580.html",
+      "Ad-hoc-news, clôture de l'Euro Stoxx 50 du 2 novembre : ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-schliesst-0-73-prozent-hoeher-bei-6-176-06-punkten/70447280",
+      "Saxo, Asia Market Quick Take du 3 novembre : home.saxo/en-sg/content/articles/macro/asia-market-quick-take-03-november-2026-03112026",
+      "MacRumors, résultats d'Apple : macrumors.com/2026/11/02/apple-4q-2026-earnings/",
+      "PR Newswire, ISM manufacturier d'octobre : prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html"
+    ]
+  },
+  "slides": {
+    "cover": {"kicker": "Brent · lundi", "figure": "−7,6 %", "title": "Jour d'élection", "subtitle": "Les marchés retiennent leur souffle."},
+    "pages": [
+      {"kicker": "Ce matin", "title": "Prudence", "title_size": 120, "gap": 72, "blocks": [
+        {"type": "rows", "rows": [
+          {"label": "Asie", "dir": "down", "value": "En baisse"},
+          {"label": "Europe", "dir": "down", "value": "−0,9 %"},
+          {"label": "Pétrole", "dir": "flat", "value": "Stable"}]},
+        {"type": "note", "text": "Contrats à terme · élections US aujourd'hui"}]},
+      {"kicker": "Clôtures de lundi", "title": "Les 6 chiffres", "gap": 52, "blocks": [
+        {"type": "table6", "rows": [
+          {"label": "S&P 500", "level": "7 541", "change": "−0,5 %", "dir": "down"},
+          {"label": "Euro Stoxx 50", "level": "6 176", "change": "+0,7 %", "dir": "up"},
+          {"label": "EUR/USD", "level": "1,119", "change": "+0,5 %", "dir": "up"},
+          {"label": "Taux US 10 ans", "level": "4,91 %", "change": "−4 pb", "dir": "down"},
+          {"label": "Brent", "level": "104,77 $", "change": "−7,6 %", "dir": "down", "highlight": true},
+          {"label": "VIX", "level": "18,73", "change": "−3,6 %", "dir": "down"}]}]},
+      {"kicker": "Le mouvement du jour", "title": "Le pétrole décroche", "title_size": 100, "gap": 48, "blocks": [
+        {"type": "figure", "value": "−7,6 %", "dir": "down", "subtitle": "Pire séance depuis juillet"},
+        {"type": "range", "dir": "down", "unit": "$", "points": [
+          {"label": "Vendredi", "value": 113.43, "display": "113,43 $", "role": "before"},
+          {"label": "Lundi", "value": 104.77, "display": "104,77 $", "role": "main"},
+          {"label": "Ce matin", "value": 105.3, "display": "105,3 $", "role": "now"}]}]},
+      {"kicker": "Les actions", "title": "L'Europe résiste", "gap": 64, "blocks": [
+        {"type": "bars", "bars": [
+          {"label": "Euro Stoxx 50", "pct": 0.7},
+          {"label": "S&P 500", "pct": -0.5},
+          {"label": "Nasdaq", "pct": -1.1}]},
+        {"type": "note", "text": "Nasdaq 100 : −10 % depuis son sommet"}]},
+      {"kicker": "Pourquoi le pétrole baisse", "title": "Espoir de paix", "gap": 72, "block_gap": 72, "blocks": [
+        {"type": "nodes", "nodes": [{"label": "États-Unis"}, {"label": "Qatar", "sub": "Médiateur", "highlight": true}, {"label": "Iran"}], "line": "Un projet d'accord circule"},
+        {"type": "box", "style": "alert", "label": "Malgré", "text": "La frappe américaine sur l'île de Qeshm"}]},
+      {"kicker": "Pourquoi Wall Street recule", "title": "Apple prévient", "gap": 64, "blocks": [
+        {"type": "metrics", "metrics": [
+          {"small": "Marge brute", "label": "Trimestre écoulé", "value": "47,9 %"},
+          {"small": "Marge brute", "label": "Prévue", "value": "45-46 %", "tone": "down"}]},
+        {"type": "box", "style": "dark", "label": "Cause", "text": "Le coût des puces mémoire"}]},
+      {"kicker": "Ce que ça change", "title": "Coupons en hausse", "title_size": 104, "gap": 64, "blocks": [
+        {"type": "steps", "steps": ["Incertitude électorale", "Volatilité plus chère", "Autocalls mieux rémunérés"]}]},
+      {"kicker": "Aujourd'hui", "title": "À surveiller", "title_size": 104, "gap": 72, "blocks": [
+        {"type": "agenda", "rows": [
+          {"time": "16 h", "label": "Emplois US (JOLTS)"},
+          {"time": "22 h", "label": "Résultats d'AMD"},
+          {"time": "Nuit", "label": "Résultats des élections"}]},
+        {"type": "note", "text": "Heures de Paris"}]}
+    ],
+    "outro": {"sources": "Reuters, AP, Saxo, MacRumors"}
+  },
+  "post": {
+    "hook": "Jour d'élection aux États-Unis : les marchés retiennent leur souffle. Le Brent a perdu 7,6 % lundi sur l'espoir d'un accord avec l'Iran, Wall Street recule et l'Europe résiste.",
+    "jour_cloture": "lundi",
+    "rendez_vous_court": "16 h : offres d'emploi JOLTS. Vers 22 h : résultats d'AMD. Dans la nuit : premiers résultats des élections de mi-mandat.",
+    "hashtags": "#bourse #marchésfinanciers #pétrole #finance #macro"
+  }
+}
