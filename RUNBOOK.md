@@ -1,6 +1,6 @@
 # Daily run: briefing, pitch and @newsmacro115 carousel
 
-Owner: Kevin Gautier. Runs Monday to Friday, starting around 7:35 Paris time.
+Owner: Kevin Gautier. Runs Monday to Friday, starting around 7:25 Paris time.
 Goal: the carnet "Briefing et pitch" is ready by 8:00, and the Instagram
 carousel goes out on @newsmacro115 at **8:30 Paris time**, with no action from
 Kevin. Work silently and quickly; Kevin is usually not watching.
