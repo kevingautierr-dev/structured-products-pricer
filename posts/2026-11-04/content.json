@@ -1,0 +1,386 @@
+{
+ "date": "2026-11-04",
+ "carnet": {
+  "date_label": "Nov 4, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 568,92",
+    "variation": "+0,36 % (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Nasdaq +0,83 % à 25 372, semi-conducteurs (SOX) +2,63 %, Dow −0,38 %. Contrats à terme nettement en baisse cette nuit après la victoire démocrate."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "6 144,56",
+    "variation": "−0,51 % (mar.)",
+    "plus_gros": "non",
+    "commentaire": "CAC 40 −0,34 % à 8 020,31. Tech et matières premières en recul. Contrats à terme sur l'Euro Stoxx 50 −0,7 % ce matin à 6 h."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "1,1194",
+    "variation": "+0,07 % (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Le dollar recule cette nuit avec les résultats des élections : l'euro est à 1,1241-1,1249 ce matin."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "4,95 %",
+    "variation": "+4 pb (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Hausse après des offres d'emploi JOLTS bien supérieures aux attentes. Les sources donnent 4,94 à 4,96 % en clôture. Environ 4,94 % ce matin."
+   },
+   {
+    "label": "Brent",
+    "niveau": "103,60 $",
+    "variation": "−1,1 % (mar.)",
+    "plus_gros": "oui",
+    "commentaire": "Plus bas niveau de clôture depuis le 7 octobre, après une séance de plus de 6 $ d'amplitude. 103,14 $ ce matin (−0,5 %)."
+   },
+   {
+    "label": "VIX",
+    "niveau": "20,83",
+    "variation": "−1,5 % (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Clôture de lundi confirmée à 21,15. Une source donne 20,51 pour mardi : à vérifier."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "Les démocrates reprennent la Chambre des représentants et le Sénat lors des élections de mi-mandat.",
+    "contexte": "ABC, CNN et CBS projettent la Chambre aux démocrates et l'AP leur donne le Sénat, avec des gains en Caroline du Nord et dans l'Ohio. Le Nikkei perd 3,6 %, le Kospi 3,2 %, et le dollar recule.",
+    "effet": "Un Congrès d'opposition limite les marges de manœuvre de Donald Trump. Pour les clients en euros détenant des produits en dollars, la baisse du dollar pèse sur la performance. La volatilité plus haute améliore les coupons des nouveaux autocalls et Phoenix.",
+    "source": "AP (Euronews), ABC, The National"
+   },
+   {
+    "titre": "AMD publie un chiffre d'affaires record de 13,4 Md$ (+45 %) et vise environ 17 Md$ au 4e trimestre.",
+    "contexte": "Le data center double presque (+97 %, à 8,5 Md$). L'action gagnait de 6,6 % à 7,3 % après la clôture selon les relevés, après une hausse de 2,63 % des semi-conducteurs mardi.",
+    "effet": "Bonne nouvelle pour les paniers « worst-of » sur les semi-conducteurs, mais la tech asiatique chute ce matin : les clients doivent garder un œil sur les barrières. À l'émission, une volatilité tech élevée permet de meilleurs coupons.",
+    "source": "AMD (formulaire 8-K), Stocktitan, Capp Notes"
+   },
+   {
+    "titre": "Les offres d'emploi JOLTS montent à 7,523 millions en septembre, contre 7,15 millions attendus, plus haut depuis quatre mois.",
+    "contexte": "Les démissions remontent à 3,36 millions et les licenciements reculent à 1,64 million. Le taux à 10 ans américain remonte vers 4,95 %.",
+    "effet": "Un marché du travail solide entretient l'idée d'une Fed plus restrictive. Des taux hauts rendent attractifs les produits à capital garanti et les reverse convertibles en dollars, avec un risque de change pour un client en euros.",
+    "source": "Capp Notes, AP"
+   }
+  ],
+  "geopolitique": "Les États-Unis ont frappé l'île iranienne de Qeshm, près du détroit d'Ormuz, en visant des missiles sol-air ; Washington parle de frappes limitées et assure que le trafic dans le détroit n'est pas touché. Un haut responsable iranien juge les deux pays « loin d'un accord ». Le Qatar, médiateur, dit que les deux camps restent engagés dans la médiation. Donald Trump a menacé de reprendre les frappes après les élections.",
+  "rendez_vous": "Aujourd'hui, inflation de la zone euro (3,8 % en septembre), emplois privés ADP, ISM des services et annonce du refinancement trimestriel du Trésor américain. Décision de la Riksbank (hausse probable selon les marchés). Résultats de Novo Nordisk, BMW, Leonardo et Vonovia en Europe, de McDonald's, Uber et CVS aux États-Unis, puis de Qualcomm et Arm après la clôture. Demain : décision de la Banque d'Angleterre. Vendredi : emploi américain d'octobre.",
+  "heure_impact": "11 h (heure de Paris), inflation de la zone euro : une hausse au-delà de 3,8 % relancerait les paris sur la BCE et l'euro. 14 h 15, ADP (consensus +67 000) : test avant l'emploi de vendredi. 16 h, ISM des services (consensus 54,9) : un chiffre fort pousserait les taux. Vers 22 h, Qualcomm et Arm : nouveau test pour les semi-conducteurs après AMD.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "Democrats have taken back Congress, and markets are reacting. Tokyo is down 3.6 %, Seoul 3.2 %, US futures are lower and the dollar is slipping, with the euro at 1.124.",
+    "fr": "Les démocrates reprennent le Congrès, et les marchés réagissent. Tokyo perd 3,6 %, Séoul 3,2 %, les contrats à terme américains reculent et le dollar glisse, avec un euro à 1,124."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "Yesterday chip stocks rebounded: the semiconductor index gained 2.6 % and the Nasdaq 0.8 %, while the Euro Stoxx 50 lost 0.5 %. Brent fell 1.1 % to 103.6 dollars, its lowest close since early October.",
+    "fr": "Hier, les semi-conducteurs ont rebondi : leur indice a pris 2,6 % et le Nasdaq 0,8 %, alors que l'Euro Stoxx 50 a perdu 0,5 %. Le Brent a cédé 1,1 % à 103,6 dollars, sa plus basse clôture depuis début octobre."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "A Democratic Congress limits Donald Trump's room for manoeuvre and adds uncertainty for tech and the dollar. AMD reassured with record sales and a strong outlook, and strong US job openings pushed the 10-year yield back to about 4.95 %.",
+    "fr": "Un Congrès démocrate limite les marges de manœuvre de Donald Trump et ajoute de l'incertitude pour la tech et le dollar. AMD a rassuré avec un chiffre d'affaires record et de bonnes prévisions, et des offres d'emploi solides ont fait remonter le taux à 10 ans vers 4,95 %."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "Higher volatility makes coupons on new autocalls more generous. Clients holding tech baskets should watch their barriers, and euro investors in dollar products face a weaker dollar.",
+    "fr": "Une volatilité plus haute rend les coupons des nouveaux autocalls plus généreux. Les clients exposés à des paniers tech doivent surveiller leurs barrières, et les investisseurs en euros sur des produits en dollars subissent la baisse du dollar."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "Euro area inflation at 11 am, ADP at 2.15 pm, the ISM services index at 4 pm, and Qualcomm tonight.",
+    "fr": "L'inflation de la zone euro à 11 h, ADP à 14 h 15, l'ISM des services à 16 h, et Qualcomm ce soir."
+   }
+  ],
+  "a_verifier": "VIX : 20,83 (−1,5 %) selon deux sources, 20,51 (−3,0 %) selon une autre. Taux à 10 ans : 4,95 % (+4 pb) selon deux sources, 4,96 % (+5 pb) selon l'AP. Euro Stoxx 50 : −0,51 % à 6 144,56 en clôture, mais Reuters indiquait −0,37 % en fin de séance. Sénat : contrôle démocrate annoncé par l'AP, à confirmer sur les autres médias. Note : le VIX de lundi était bien à 21,15, le 18,73 du carnet d'hier était faux.",
+  "sources": [
+   "Capp Notes, Closing Look du 3 novembre : cappnotes.substack.com/p/closing-look-tuesday-november-3-2026",
+   "TradingKey, clôtures américaines du 3 novembre : tradingkey.com/analysis/stocks/us-stocks/262269485-us-stocks-today-close-nasdaq-rises-midterm-elections-tradingkey",
+   "Ad-hoc-news, clôture de l'Euro Stoxx 50 du 3 novembre : ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-closes-at-6-144-56-after-technology-led-retreat/70452892",
+   "Boursorama (Reuters), clôtures européennes et américaines du 3 novembre",
+   "AP (News4Jax), marchés asiatiques du 4 novembre : news4jax.com/business/2026/11/04/asian-shares-fall-on-selling-of-tech-shares-as-markets-watch-for-results-of-us-midterm-elections/",
+   "Euronews, marchés et élections du 4 novembre : euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms",
+   "The National, contrats à terme et élections : thenationalnews.com/business/markets/2026/11/04/asian-equities-and-us-stocks-futures-slump-amid-blue-sweep-in-us-polls/",
+   "AMD, formulaire 8-K du 3e trimestre 2026 : sec.gov",
+   "Rigzone et AsiaOne (Reuters), pétrole du 3 novembre",
+   "ZeroHedge et IC Markets, agenda de la semaine"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "Nikkei · ce matin",
+   "figure": "−3,6 %",
+   "title": "Vague bleue",
+   "subtitle": "Les démocrates reprennent le Congrès."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "Repli",
+    "title_size": 120,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Tokyo",
+        "dir": "down",
+        "value": "−3,6 %"
+       },
+       {
+        "label": "Séoul",
+        "dir": "down",
+        "value": "−3,2 %"
+       },
+       {
+        "label": "Dollar",
+        "dir": "down",
+        "value": "En baisse"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Contrats à terme US et européens en baisse"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de mardi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 569",
+        "change": "+0,36 %",
+        "dir": "up"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "6 145",
+        "change": "−0,51 %",
+        "dir": "down"
+       },
+       {
+        "label": "EUR/USD",
+        "level": "1,1194",
+        "change": "+0,07 %",
+        "dir": "up"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "4,95 %",
+        "change": "+4 pb",
+        "dir": "up"
+       },
+       {
+        "label": "Brent",
+        "level": "103,60 $",
+        "change": "−1,1 %",
+        "dir": "down",
+        "highlight": true
+       },
+       {
+        "label": "VIX",
+        "level": "20,83",
+        "change": "−1,5 %",
+        "dir": "down"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "L'Asie décroche",
+    "title_size": 104,
+    "gap": 56,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Nikkei",
+        "pct": -3.6
+       },
+       {
+        "label": "Kospi",
+        "pct": -3.2
+       },
+       {
+        "label": "Taïwan",
+        "pct": -2.3
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Nikkei au plus bas depuis début mai"
+     }
+    ]
+   },
+   {
+    "kicker": "Les actions mardi",
+    "title": "Les puces rebondissent",
+    "title_size": 96,
+    "gap": 56,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Semi-conducteurs",
+        "pct": 2.63,
+        "decimals": 2
+       },
+       {
+        "label": "Nasdaq",
+        "pct": 0.83,
+        "decimals": 2
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "pct": -0.51,
+        "decimals": 2
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Apple −1,9 %"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi le marché recule",
+    "title": "Congrès bleu",
+    "gap": 72,
+    "block_gap": 72,
+    "blocks": [
+     {
+      "type": "nodes",
+      "nodes": [
+       {
+        "label": "Chambre",
+        "sub": "Démocrates",
+        "highlight": true
+       },
+       {
+        "label": "Sénat",
+        "sub": "Démocrates",
+        "highlight": true
+       },
+       {
+        "label": "Trump",
+        "sub": "Maison-Blanche"
+       }
+      ],
+      "line": "Fin du contrôle républicain"
+     },
+     {
+      "type": "box",
+      "style": "alert",
+      "label": "Effet",
+      "text": "La tech et le dollar reculent"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi les puces montent",
+    "title": "AMD rassure",
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "metrics",
+      "metrics": [
+       {
+        "small": "Chiffre d'affaires",
+        "label": "3e trimestre",
+        "value": "13,4 Md$",
+        "tone": "up"
+       },
+       {
+        "small": "Chiffre d'affaires",
+        "label": "Prévision 4e trimestre",
+        "value": "≈ 17 Md$"
+       }
+      ]
+     },
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Moteur",
+      "text": "Data center : +97 %"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Coupons en hausse",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "Congrès d'opposition",
+       "Volatilité plus chère",
+       "Autocalls mieux rémunérés"
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "11 h",
+        "label": "Inflation zone euro"
+       },
+       {
+        "time": "14 h 15",
+        "label": "Emplois privés (ADP)"
+       },
+       {
+        "time": "16 h",
+        "label": "ISM des services"
+       },
+       {
+        "time": "22 h",
+        "label": "Qualcomm et Arm"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "AP, Reuters, AMD, Capp Notes"
+  }
+ },
+ "post": {
+  "hook": "Vague bleue aux élections de mi-mandat : les démocrates reprennent le Congrès. Tokyo perd 3,6 %, le dollar recule, et AMD soutient les semi-conducteurs.",
+  "jour_cloture": "mardi",
+  "rendez_vous_court": "11 h : inflation de la zone euro. 14 h 15 : emplois privés ADP. 16 h : ISM des services. Vers 22 h : Qualcomm et Arm.",
+  "hashtags": "#bourse #marchésfinanciers #midterms #finance #macro"
+ }
+}
