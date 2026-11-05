@@ -1,0 +1,401 @@
+{
+ "date": "2026-11-05",
+ "carnet": {
+  "date_label": "Nov 5, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 688,62",
+    "variation": "+1,58 % (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Dow +3,03 % à 53 356,12, meilleure séance depuis avril 2025. Nasdaq +1,44 % à 25 736,51. Apple +5,31 %, Nvidia −3,17 %. Qualcomm recule de 6 à 9 % après la clôture selon les relevés. Contrats à terme de ce matin non confirmés."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "6 265,71",
+    "variation": "+1,97 % (mer.)",
+    "plus_gros": "non",
+    "commentaire": "CAC 40 +1,96 % à 8 177,89, DAX +2,22 %. Stoxx 600 +1,82 % à 657,40, plus haut depuis le 26 août. Banques de la zone euro +4,6 %, pétrolières −2,4 %. Une source donne 6 252,64 (+1,76 %) : à vérifier."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "1,1233",
+    "variation": "+0,37 % (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Les sources donnent 1,1228 à 1,1235 en clôture. Dollar index −0,34 % à 101,53. L'euro est à 1,1256 ce matin."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "4,89 %",
+    "variation": "−6 pb (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Baisse avec le pétrole. Taux à 2 ans à 4,58 %. Les sources donnent −5 à −8 pb : à vérifier."
+   },
+   {
+    "label": "Brent",
+    "niveau": "94,62 $",
+    "variation": "−8,7 % (mer.)",
+    "plus_gros": "oui",
+    "commentaire": "WTI −8,29 % à 88,12 $. Le Brent est à 93,91 $ ce matin (−0,8 %)."
+   },
+   {
+    "label": "VIX",
+    "niveau": "16,61",
+    "variation": "−20,3 % (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Une autre source donne 16,78 (−19,4 %) : à vérifier. Dans les deux cas, plus bas que mardi (20,83)."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "Wall Street s'envole après la victoire démocrate au Congrès : le Dow gagne 3,03 %, sa meilleure séance depuis avril 2025, et le S&P 500 1,58 %.",
+    "contexte": "Un Washington divisé est vu comme un frein aux projets fiscaux et réglementaires de Donald Trump. Financières, consommation et santé mènent la hausse ; les valeurs des centres de données pour l'IA reculent par crainte d'une régulation (Nvidia −3,17 %).",
+    "effet": "Le VIX passe sous 17 : bonne nouvelle pour les autocalls en cours, qui se rapprochent de leur seuil de rappel, mais les nouvelles émissions offrent des coupons moins généreux. Les produits sur banques européennes profitent du rebond de 4,6 % du secteur.",
+    "source": "Capp Notes, StockTitan, Reuters"
+   },
+   {
+    "titre": "Le Brent plonge de 8,7 % à 94,62 $, le WTI de 8,29 % à 88,12 $.",
+    "contexte": "Le vice-président JD Vance attribue la défaite républicaine à la guerre en Iran. Un Congrès démocrate pourrait limiter le financement militaire au Moyen-Orient, ce qui nourrit l'espoir d'une fin plus rapide du conflit.",
+    "effet": "Bonne nouvelle pour l'inflation et les taux : le 10 ans américain recule vers 4,89 %. Pour un client sur un autocall adossé à des pétrolières, la baisse rapproche le sous-jacent de sa barrière ; le secteur pétrolier européen a perdu 2,4 %.",
+    "source": "AP, Saxo, Capp Notes"
+   },
+   {
+    "titre": "L'inflation de la zone euro monte à 4,0 % en octobre, contre 3,8 % en septembre, plus haut depuis trois ans.",
+    "contexte": "L'inflation de l'énergie atteint 20,8 %. Les indices PMI des services faiblissent, ce qui complique la tâche de la BCE.",
+    "effet": "Une inflation haute maintient la pression sur les taux européens. Des taux élevés rendent attractifs les produits à capital protégé en euros, mais une BCE plus restrictive pèserait sur les sous-jacents actions.",
+    "source": "Eurostat (Boursorama, Ad-hoc-news), Reuters"
+   }
+  ],
+  "geopolitique": "JD Vance attribue la défaite républicaine au conflit avec l'Iran, et Donald Trump la relie au conflit et au prix de l'essence, sans annoncer de nouvelle escalade. Chuck Schumer promet de pousser pour mettre fin au conflit, et un Congrès démocrate pourrait limiter le financement militaire au Moyen-Orient. Le pétrole parie sur une fin plus rapide de la guerre, rien n'est acquis.",
+  "rendez_vous": "Aujourd'hui, commandes industrielles allemandes et production industrielle française, décision de la Norges Bank (maintien attendu à 4,50 %), puis de la Banque d'Angleterre (hausse attendue de 25 pb à 4 %, la première depuis plus de trois ans, avec une inflation britannique à 3,5 % en septembre). Aux États-Unis, inscriptions au chômage, productivité du 3e trimestre et discours de Beth Hammack et Tom Barkin (Fed). Résultats de Toyota et Sony en Asie, de ConocoPhillips et Cigna avant l'ouverture américaine, d'Airbnb et Cloudflare après la clôture. Demain : emploi américain d'octobre.",
+  "heure_impact": "13 h (heure de Paris), Banque d'Angleterre : la hausse à 4 % est largement anticipée ; la répartition des votes et le discours sur la suite feront bouger la livre et les taux britanniques (10 ans vers 5,31 %). 14 h 30, inscriptions au chômage (consensus vers 196 000) : dernier test avant l'emploi de vendredi. Vers 22 h, Airbnb et Cloudflare.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "Markets are digesting the Democratic sweep. Asia is mixed: Seoul is falling on chip stocks, Hong Kong is higher, and Brent is slipping again, below 94 dollars.",
+    "fr": "Les marchés digèrent la vague démocrate. L'Asie est partagée : Séoul recule avec les semi-conducteurs, Hong Kong monte, et le Brent glisse encore, sous 94 dollars."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "Yesterday the Dow jumped 3 %, its best day since April 2025, the S&P 500 gained 1.6 % and the Euro Stoxx 50 almost 2 %. Brent plunged 8.7 % to 94.6 dollars.",
+    "fr": "Hier, le Dow a bondi de 3 %, sa meilleure séance depuis avril 2025, le S&P 500 a pris 1,6 % et l'Euro Stoxx 50 près de 2 %. Le Brent a plongé de 8,7 % à 94,6 dollars."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "Investors see a divided Washington as a check on the White House, and Vice President Vance blamed the Iran war for the defeat, raising hopes the conflict ends sooner. Lower oil pulled the US 10-year yield down to 4.89 %, while chips fell on fears of AI regulation.",
+    "fr": "Les investisseurs voient un Washington divisé comme un contre-pouvoir, et le vice-président Vance a attribué la défaite à la guerre en Iran, ce qui nourrit l'espoir d'une fin plus rapide du conflit. Le pétrole en baisse a ramené le taux à 10 ans américain à 4,89 %, tandis que les puces ont reculé par crainte d'une régulation de l'IA."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "The VIX fell about 20 %, below 17. Good news for existing autocalls moving towards their call levels, but coupons on new issues will be less generous.",
+    "fr": "Le VIX a chuté d'environ 20 %, sous 17. Bonne nouvelle pour les autocalls en cours qui se rapprochent de leur seuil de rappel, mais les coupons des nouvelles émissions seront moins généreux."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "The Bank of England at 1 pm, expected to hike to 4 %, US jobless claims at 2.30 pm, and Airbnb tonight.",
+    "fr": "La Banque d'Angleterre à 13 h, avec une hausse à 4 % attendue, les inscriptions au chômage américaines à 14 h 30, et Airbnb ce soir."
+   }
+  ],
+  "a_verifier": "Euro Stoxx 50 : 6 265,71 (+1,97 %) selon deux sources, 6 252,64 (+1,76 %) selon une autre. VIX : 16,61 (−20,3 %) ou 16,78 (−19,4 %) selon les sources ; les slides affichent « < 17 » et « ≈ −20 % ». Taux à 10 ans : 4,89 % (−6 pb) selon deux sources, 4,90 % (−5 pb) ou −7,9 pb selon d'autres. Brent : 94,62 $ selon trois sources, 94,14 $ (Boursorama, sans doute à la clôture européenne) et 95,08 $ ailleurs. Qualcomm : −6,2 % à plus de −9 % après la clôture selon l'heure du relevé. Kospi : −2 % à −3,5 % selon l'heure, chiffre non affiché sur les slides. Contrats à terme américains et européens de ce matin : non trouvés.",
+  "sources": [
+   "Capp Notes, Closing Look du 4 novembre : cappnotes.substack.com/p/closing-look-wednesday-november-4",
+   "StockTitan, marchés américains du 4 novembre : stocktitan.net/articles/stock-market-today-live-november-4-2026",
+   "Strategitz, Global Markets Close du 4 novembre : strategitz.substack.com/p/global-markets-close-november-4-2026",
+   "Ad-hoc-news, clôture de l'Euro Stoxx 50 du 4 novembre : ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-closes-1-97-prozent-higher-at-6-265-71/70459886",
+   "Boursorama (Reuters), clôtures européennes du 4 novembre",
+   "Reuters (Lufkin Daily News), actions européennes du 4 novembre",
+   "Saxo, Asia Market Quick Take du 5 novembre : home.saxo/en-sg/content/articles/macro/asia-market-quick-take-05-november-2026-05112026",
+   "AP (News4Jax), marchés asiatiques du 5 novembre : news4jax.com/business/2026/11/05/asian-shares-mostly-advance-following-us-midterms-though-kospi-falls-on-selling-of-chipmakers/",
+   "Investing.com (Finwire), Qualcomm, Arm et puces asiatiques",
+   "JournalArta, clôture de Wall Street du 4 novembre",
+   "IG, aperçu de la Banque d'Angleterre ; TraderFactor et Zonebourse, agenda du 5 novembre"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "Brent · mercredi",
+   "figure": "−8,7 %",
+   "title": "Le Dow s'envole",
+   "subtitle": "Le pétrole plonge après les midterms."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "Mitigé",
+    "title_size": 120,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Séoul",
+        "dir": "down",
+        "value": "En baisse"
+       },
+       {
+        "label": "Hong Kong",
+        "dir": "up",
+        "value": "En hausse"
+       },
+       {
+        "label": "Brent",
+        "dir": "down",
+        "value": "93,9 $"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Les puces asiatiques sous pression"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de mercredi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 689",
+        "change": "+1,58 %",
+        "dir": "up"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "6 266",
+        "change": "+1,97 %",
+        "dir": "up"
+       },
+       {
+        "label": "EUR/USD",
+        "level": "1,123",
+        "change": "+0,4 %",
+        "dir": "up"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "4,89 %",
+        "change": "−6 pb",
+        "dir": "down"
+       },
+       {
+        "label": "Brent",
+        "level": "94,62 $",
+        "change": "−8,7 %",
+        "dir": "down",
+        "highlight": true
+       },
+       {
+        "label": "VIX",
+        "level": "< 17",
+        "change": "≈ −20 %",
+        "dir": "down"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "Le pétrole plonge",
+    "title_size": 100,
+    "gap": 48,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "−8,7 %",
+      "dir": "down",
+      "subtitle": "Espoir d'une fin de guerre"
+     },
+     {
+      "type": "range",
+      "dir": "down",
+      "unit": "$",
+      "points": [
+       {
+        "label": "Mardi",
+        "value": 103.6,
+        "display": "103,60 $",
+        "role": "before"
+       },
+       {
+        "label": "Mercredi",
+        "value": 94.62,
+        "display": "94,62 $",
+        "role": "main"
+       },
+       {
+        "label": "Ce matin",
+        "value": 93.91,
+        "display": "93,9 $",
+        "role": "now"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Les actions mercredi",
+    "title": "Euphorie",
+    "title_size": 120,
+    "gap": 56,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Dow Jones",
+        "pct": 3.03,
+        "decimals": 2
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "pct": 1.97,
+        "decimals": 2
+       },
+       {
+        "label": "S&P 500",
+        "pct": 1.58,
+        "decimals": 2
+       },
+       {
+        "label": "Nasdaq",
+        "pct": 1.44,
+        "decimals": 2
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Dow : meilleure séance depuis avril 2025"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi le pétrole baisse",
+    "title": "Effet Congrès",
+    "gap": 72,
+    "block_gap": 72,
+    "blocks": [
+     {
+      "type": "nodes",
+      "nodes": [
+       {
+        "label": "Congrès",
+        "sub": "Démocrate",
+        "highlight": true
+       },
+       {
+        "label": "Trump",
+        "sub": "Maison-Blanche"
+       },
+       {
+        "label": "Iran"
+       }
+      ],
+      "line": "Pression pour finir la guerre"
+     },
+     {
+      "type": "box",
+      "style": "alert",
+      "label": "Selon Vance",
+      "text": "La guerre a coûté l'élection"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi les puces reculent",
+    "title": "Peur de l'IA",
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "metrics",
+      "metrics": [
+       {
+        "small": "Mercredi",
+        "label": "Nvidia",
+        "value": "−3,17 %",
+        "tone": "down"
+       },
+       {
+        "small": "Ce matin",
+        "label": "SK Hynix",
+        "value": "−7,4 %",
+        "tone": "down"
+       }
+      ]
+     },
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Crainte",
+      "text": "Une régulation plus stricte"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Volatilité en repli",
+    "title_size": 100,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "VIX sous 17",
+       "Autocalls proches du rappel",
+       "Nouveaux coupons plus bas"
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "10 h",
+        "label": "Norges Bank"
+       },
+       {
+        "time": "13 h",
+        "label": "Banque d'Angleterre"
+       },
+       {
+        "time": "14 h 30",
+        "label": "Chômage US"
+       },
+       {
+        "time": "22 h",
+        "label": "Airbnb et Cloudflare"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "AP, Reuters, Saxo, Capp Notes"
+  }
+ },
+ "post": {
+  "hook": "Le Dow s'envole de 3 % après la victoire démocrate au Congrès, et le Brent plonge de 8,7 % sur l'espoir d'une fin de la guerre en Iran. Ce matin, les puces asiatiques reculent.",
+  "jour_cloture": "mercredi",
+  "rendez_vous_court": "10 h : Norges Bank. 13 h : Banque d'Angleterre (hausse à 4 % attendue). 14 h 30 : inscriptions au chômage aux États-Unis. Vers 22 h : Airbnb et Cloudflare.",
+  "hashtags": "#bourse #marchésfinanciers #pétrole #finance #macro"
+ }
+}
