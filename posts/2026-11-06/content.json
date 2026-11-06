@@ -1,0 +1,380 @@
+{
+ "date": "2026-11-06",
+ "carnet": {
+  "date_label": "Nov 6, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 353,73",
+    "variation": "−4,36 % (jeu.)",
+    "plus_gros": "oui",
+    "commentaire": "Pire séance depuis début 2025. Nasdaq −5,52 % à 24 315,00, en correction (−11,9 % depuis son record du 6 octobre) ; Nasdaq 100 −6,36 %. Dow −3,44 % à 51 523,06. Indice des semi-conducteurs (SOX) environ −12 %, sa pire séance depuis mars 2020. Contrats à terme américains partagés ce matin, sans chiffre confirmé."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "6 231,54",
+    "variation": "−0,55 % (jeu.)",
+    "plus_gros": "non",
+    "commentaire": "Gains du matin effacés par la tech (ASML, Infineon, Soitec) et Rheinmetall. CAC 40 +0,34 % à 8 205,37, DAX −0,43 %, Stoxx 600 −0,38 % à 654,87. Une source donne 6 219,70 (−1,58 %) : à vérifier."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "environ 1,122",
+    "variation": "léger repli (jeu.)",
+    "plus_gros": "non",
+    "commentaire": "Reuters donne 1,1222 ce matin, stable ; une autre source affiche 1,1193 (−0,25 %) : à vérifier. Dollar index vers 101,6."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "4,84 %",
+    "variation": "−6 pb (jeu.)",
+    "plus_gros": "non",
+    "commentaire": "Achat de valeurs refuges. Taux à 2 ans à 4,46 %. Une source donne 4,90 % (−5 pb) : à vérifier."
+   },
+   {
+    "label": "Brent",
+    "niveau": "98,29 $",
+    "variation": "+3,88 % (jeu.)",
+    "plus_gros": "non",
+    "commentaire": "Rebond après −8,7 % mercredi, sur des attaques de pétroliers dans le Golfe. WTI +2,72 % à 90,52 $. Environ 99 $ ce matin selon les relevés, certains titres évoquent 100 $ : à vérifier."
+   },
+   {
+    "label": "VIX",
+    "niveau": "28,18",
+    "variation": "+69,7 % (jeu.)",
+    "plus_gros": "non",
+    "commentaire": "Plus forte hausse depuis avril 2025 (« Liberation Day »), contre 16,61 mercredi."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "La tech s'effondre à Wall Street : le Nasdaq perd 5,52 % et entre en correction, le S&P 500 recule de 4,36 %, sa pire séance depuis début 2025.",
+    "contexte": "Les investisseurs craignent un ralentissement de la construction de centres de données après la victoire démocrate ; selon UBS, environ 30 % des ajouts prévus pour 2028 sont menacés. Micron −17,5 %, AMD −17,3 %, Nvidia −9,3 %, Qualcomm −9,5 % après des ventes décevantes.",
+    "effet": "Les autocalls et Phoenix sur paniers tech « worst-of » se rapprochent de leurs barrières : à surveiller client par client. Avec un VIX à 28, les nouvelles émissions offrent des coupons nettement plus élevés.",
+    "source": "Yahoo Finance, StockTitan, Saxo, Motley Fool"
+   },
+   {
+    "titre": "Le Brent rebondit de 3,88 % à 98,29 $ après des attaques de pétroliers dans le Golfe.",
+    "contexte": "Au moins cinq navires touchés depuis le 1er novembre selon l'UKMTO ; les Gardiens de la révolution disent que deux pétroliers ont pris feu près du détroit d'Ormuz.",
+    "effet": "La volatilité du pétrole reste extrême : coupons élevés sur les produits adossés à l'énergie, mais risque de barrière accru pour les clients déjà investis sur les pétrolières après la chute de mercredi.",
+    "source": "Reuters (Nation Thailand), Saxo"
+   },
+   {
+    "titre": "La Banque d'Angleterre relève son taux de 25 pb à 4 %, à 8 voix contre 1, et n'exclut pas une nouvelle hausse si le conflit avec l'Iran dure.",
+    "contexte": "Aux États-Unis, les inscriptions au chômage tombent à 189 000 et la productivité progresse de 3,6 % ; la probabilité d'une hausse de la Fed en décembre recule à environ 70 %, contre plus de 80 % mercredi.",
+    "effet": "Des taux courts élevés soutiennent les produits à capital protégé et les reverse convertibles en livres et en dollars, avec un risque de change pour un client en euros.",
+    "source": "CNBC, Ad-hoc-news, Saxo, Reuters"
+   }
+  ],
+  "geopolitique": "Les attaques de navires dans le Golfe continuent à un rythme proche du record d'octobre (35 navires touchés). Les Gardiens de la révolution disent que deux pétroliers et un remorqueur ont pris feu en tentant de franchir le détroit d'Ormuz. Donald Trump n'annonce pas de nouvelles frappes ; les démocrates promettent de finir un conflit qui dure depuis neuf mois.",
+  "rendez_vous": "Aujourd'hui, rapport sur l'emploi américain d'octobre (consensus : 65 000 créations après 29 000, chômage à 4,2 %, salaire horaire +0,3 % sur un mois), confiance des consommateurs de l'Université du Michigan (47,8 attendu), discours de John Williams et Michelle Bowman (Fed). Résultats d'OCBC, Macquarie et HKEX en Asie. Après la clôture d'hier, Airbnb a gagné environ 11 % et Cloudflare près de 15 %, DraftKings a perdu plus de 20 %.",
+  "heure_impact": "10 h 30 (heure de Paris), John Williams (Fed de New York). 14 h 30, emploi américain : un chiffre solide relancerait l'idée d'une hausse de la Fed en décembre, un chiffre faible amplifierait la baisse des taux. 16 h, Université du Michigan, avec les anticipations d'inflation. 18 h 15, Michelle Bowman.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "The tech rout is spreading to Asia. Tokyo is in a bear market, Seoul triggered a circuit breaker, and oil is holding near 99 dollars ahead of the US jobs report.",
+    "fr": "La déroute de la tech gagne l'Asie. Tokyo entre en marché baissier, Séoul a déclenché un coupe-circuit, et le pétrole se maintient près de 99 dollars avant le rapport sur l'emploi américain."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "Yesterday the Nasdaq lost 5.5 % and entered a correction, the S&P 500 fell 4.4 %, its worst day since early 2025, and the VIX jumped 70 % to 28. Brent rebounded almost 4 % to 98.3 dollars.",
+    "fr": "Hier, le Nasdaq a perdu 5,5 % et est entré en correction, le S&P 500 a reculé de 4,4 %, sa pire séance depuis début 2025, et le VIX a bondi de 70 % à 28. Le Brent a rebondi de près de 4 % à 98,3 dollars."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "Investors fear a slower data centre buildout after the Democratic win, and chip stocks collapsed: Micron and AMD lost 17 %, Nvidia 9 %. Oil rose after new tanker attacks in the Gulf.",
+    "fr": "Les investisseurs craignent un ralentissement des centres de données après la victoire démocrate, et les puces se sont effondrées : Micron et AMD ont perdu 17 %, Nvidia 9 %. Le pétrole est remonté après de nouvelles attaques de pétroliers dans le Golfe."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "Clients on tech worst-of autocalls should check their barriers today. On the other hand, with the VIX at 28, new issues pay much higher coupons.",
+    "fr": "Les clients sur des autocalls « worst-of » tech doivent vérifier leurs barrières aujourd'hui. En revanche, avec un VIX à 28, les nouvelles émissions paient des coupons bien plus élevés."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "US October payrolls at 2.30 pm, expected at 65,000, then Michigan sentiment at 4 pm.",
+    "fr": "L'emploi américain d'octobre à 14 h 30, avec 65 000 créations attendues, puis la confiance du Michigan à 16 h."
+   }
+  ],
+  "a_verifier": "Euro Stoxx 50 : 6 231,54 (−0,55 %) selon deux sources, 6 219,70 (−1,58 %) selon une autre. EUR/USD : 1,1222 (Reuters, ce matin) ou 1,1193 (Boursorama) ; les slides affichent « ≈ 1,12 » et « repli ». Taux à 10 ans : 4,84 % (−6 pb) selon trois sources, 4,90 % (−5 pb) selon une autre. Brent ce matin : environ 99 $ selon deux relevés, certains titres évoquent 100 $ ; chiffre non affiché sur les slides. Nikkei ce matin : −5,3 % à −7,6 % selon l'heure du relevé ; Kospi : jusqu'à −8,55 % en séance avec coupe-circuit, puis environ −4 % ; chiffres non affichés sur les slides. Contrats à terme américains « partagés » sans chiffre, contrats européens non trouvés. « Pire séance depuis début 2025 » pour le S&P 500 : une seule source (Motley Fool), mention absente des slides.",
+  "sources": [
+   "Yahoo Finance, clôtures américaines du 5 novembre : finance.yahoo.com/markets/stocks/articles/nasdaq-plunges-1-421-points-211503123.html",
+   "StockTitan, marchés américains du 5 novembre : stocktitan.net/articles/stock-market-today-live-november-5-2026",
+   "Motley Fool, Stock Market Today du 5 novembre : fool.com/coverage/stock-market-today/2026/11/05/",
+   "Ad-hoc-news, clôtures de l'Euro Stoxx 50 du 5 novembre (deux versions)",
+   "Boursorama (Reuters), « La chute des valeurs technologiques n'est pas un signal d'achat », 5 novembre",
+   "Reuters (Nation Thailand), pétrole du 5 novembre : nationthailand.com/news/world/40073162",
+   "Saxo, Asia Market Quick Take du 6 novembre : home.saxo/en-sg/content/articles/macro/asia-market-quick-take-06-november-2026-06112026",
+   "Reuters (Freedom 96.9), changes du 6 novembre ; HDFC Sky et JournalArta, Asie du 6 novembre",
+   "Investing.com, agenda économique du 6 novembre ; Rio Times, briefing du 6 novembre"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "Nasdaq · jeudi",
+   "figure": "−5,5 %",
+   "title": "La tech s'effondre",
+   "subtitle": "La peur de l'IA gagne Wall Street."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "Onde de choc",
+    "title_size": 112,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Tokyo",
+        "dir": "down",
+        "value": "Marché baissier"
+       },
+       {
+        "label": "Séoul",
+        "dir": "down",
+        "value": "Coupe-circuit"
+       },
+       {
+        "label": "Pétrole",
+        "dir": "up",
+        "value": "En hausse"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Emploi américain à 14 h 30"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de jeudi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 354",
+        "change": "−4,36 %",
+        "dir": "down",
+        "highlight": true
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "6 232",
+        "change": "−0,55 %",
+        "dir": "down"
+       },
+       {
+        "label": "EUR/USD",
+        "level": "≈ 1,12",
+        "change": "repli",
+        "dir": "down"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "4,84 %",
+        "change": "−6 pb",
+        "dir": "down"
+       },
+       {
+        "label": "Brent",
+        "level": "98,29 $",
+        "change": "+3,9 %",
+        "dir": "up"
+       },
+       {
+        "label": "VIX",
+        "level": "28,18",
+        "change": "+69,7 %",
+        "dir": "up"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "Nasdaq en correction",
+    "title_size": 96,
+    "gap": 48,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "−5,52 %",
+      "dir": "down"
+     },
+     {
+      "type": "note",
+      "text": "Nasdaq 100 : −6,36 %"
+     }
+    ]
+   },
+   {
+    "kicker": "Les actions jeudi",
+    "title": "Tout rouge",
+    "title_size": 104,
+    "gap": 40,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Nasdaq",
+        "pct": -5.52,
+        "decimals": 2
+       },
+       {
+        "label": "S&P 500",
+        "pct": -4.36,
+        "decimals": 2
+       },
+       {
+        "label": "Dow Jones",
+        "pct": -3.44,
+        "decimals": 2
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "pct": -0.55,
+        "decimals": 2
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Puces : pire séance depuis mars 2020"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi la tech chute",
+    "title": "Peur de l'IA",
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "metrics",
+      "metrics": [
+       {
+        "small": "Jeudi",
+        "label": "Micron",
+        "value": "−17,5 %",
+        "tone": "down"
+       },
+       {
+        "small": "Jeudi",
+        "label": "Nvidia",
+        "value": "−9,3 %",
+        "tone": "down"
+       }
+      ]
+     },
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Crainte",
+      "text": "Moins de centres de données"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi le pétrole remonte",
+    "title": "Ormuz sous tension",
+    "title_size": 100,
+    "gap": 48,
+    "blocks": [
+     {
+      "type": "range",
+      "dir": "up",
+      "unit": "$",
+      "points": [
+       {
+        "label": "Mardi",
+        "value": 103.6,
+        "display": "103,60 $",
+        "role": "before"
+       },
+       {
+        "label": "Mercredi",
+        "value": 94.62,
+        "display": "94,62 $",
+        "role": "before"
+       },
+       {
+        "label": "Jeudi",
+        "value": 98.29,
+        "display": "98,29 $",
+        "role": "main"
+       }
+      ]
+     },
+     {
+      "type": "box",
+      "style": "alert",
+      "label": "Golfe",
+      "text": "Des pétroliers attaqués"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "La peur paie",
+    "title_size": 112,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "VIX à 28",
+       "Barrières tech sous pression",
+       "Nouveaux coupons plus hauts"
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "14 h 30",
+        "label": "Emploi US d'octobre"
+       },
+       {
+        "time": "16 h",
+        "label": "Confiance Michigan"
+       },
+       {
+        "time": "18 h 15",
+        "label": "Bowman (Fed)"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "Reuters, Saxo, Yahoo Finance, Boursorama"
+  }
+ },
+ "post": {
+  "hook": "La tech s'effondre à Wall Street : le Nasdaq perd 5,5 % et entre en correction, le VIX bondit de 70 %. Ce matin, l'onde de choc frappe Tokyo et Séoul avant l'emploi américain.",
+  "jour_cloture": "jeudi",
+  "rendez_vous_court": "14 h 30 : emploi américain d'octobre (65 000 créations attendues). 16 h : confiance du Michigan. 18 h 15 : Michelle Bowman (Fed).",
+  "hashtags": "#bourse #marchésfinanciers #tech #finance #macro"
+ }
+}
