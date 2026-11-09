@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-09",
+  "carnet": {
+    "date_label": "Nov 9, 2026",
+    "six": [
+      {"label": "S&P 500", "niveau": "7 376,86", "variation": "+0,31 % (ven.)", "plus_gros": "non", "commentaire": "Rebond après la chute de jeudi. Nasdaq +1,09 % à 24 579,42, Nasdaq 100 +1,35 %, Dow −0,46 %. Sur la semaine : S&P 500 −2,68 %, Nasdaq −3,37 %. Contrats à terme américains en hausse ce matin (+0,6 % selon Reuters)."},
+      {"label": "Euro Stoxx 50", "niveau": "6 170,49", "variation": "−0,98 % (ven.)", "plus_gros": "non", "commentaire": "La vente de la tech a gagné l'Europe avant le rebond de Wall Street. Stoxx 600 environ −1 %, Teleperformance −18 %. Une seule source pour le niveau. Contrats à terme européens non trouvés ce matin."},
+      {"label": "EUR/USD", "niveau": "environ 1,114", "variation": "−0,8 % (ven.)", "plus_gros": "non", "commentaire": "Plus forte hausse du dollar en une séance depuis cinq mois après l'emploi américain. 1,1148 ce matin, stable (Reuters). Clôture de vendredi selon une seule source."},
+      {"label": "Taux US 10 ans", "niveau": "4,86 %", "variation": "+2 pb (ven.)", "plus_gros": "non", "commentaire": "Remontée après l'emploi. Taux à 2 ans à 4,51 % (+5 pb), selon une seule source."},
+      {"label": "Brent", "niveau": "environ 98 $", "variation": "stable (ven.)", "plus_gros": "non", "commentaire": "Sources en désaccord : 98,32 $ (+0,03 %) ou 97,79 $ (−0,51 %). Plus de 16 % de baisse sur la semaine selon plusieurs sources. Environ 98,2 $ ce matin."},
+      {"label": "VIX", "niveau": "25,64", "variation": "−9,01 % (ven.)", "plus_gros": "oui", "commentaire": "Reflux après le bond de 70 % de jeudi (28,18), mais toujours bien au-dessus des 16,61 de mercredi."}
+    ],
+    "titres": [
+      {"titre": "L'emploi américain surprend : 165 000 créations en octobre, contre 59 000 attendues, et un chômage à 4,1 %.", "contexte": "Salaire horaire +0,4 % sur un mois. Le marché voit près de 80 % de chances d'une hausse de la Fed en décembre ; le dollar signe sa plus forte hausse en cinq mois.", "effet": "Des taux courts plus hauts plus longtemps soutiennent les produits à capital protégé et les reverse convertibles en dollars, avec un risque de change pour un client en euros.", "source": "The Closing Print, StockTitan, Reuters"},
+      {"titre": "Wall Street rebondit : Nasdaq +1,09 %, AMD +11 %, Nvidia +2,8 % ; l'Euro Stoxx 50 perd 0,98 %.", "contexte": "Les puces récupèrent une partie de la chute de jeudi, mais la semaine reste négative. Le VIX reflue à 25,64.", "effet": "Les autocalls sur paniers tech « worst-of » restent près de leurs barrières. Avec un VIX à 25, les coupons des nouvelles émissions restent élevés.", "source": "StockTitan, TradingKey, Ad-hoc-news"},
+      {"titre": "Le Brent perd plus de 16 % sur la semaine, autour de 98 $, sa plus forte baisse hebdomadaire depuis 2020.", "contexte": "Les marchés parient sur un accord entre Washington et Téhéran après la victoire démocrate ; le détroit d'Ormuz reste perturbé.", "effet": "Les autocalls sur les pétrolières se rapprochent de leurs barrières ; la volatilité du pétrole garde les coupons sur l'énergie élevés.", "source": "FinanceFeeds, Business Recorder (Reuters)"}
+    ],
+    "geopolitique": "Donald Trump a jugé dimanche de nouvelles frappes contre l'Iran très improbables tant que les discussions progressent. Téhéran aurait transmis une proposition via le Qatar et réclame la fin du blocus naval et la levée des sanctions. Les attaques de pétroliers continuent ; le détroit d'Ormuz tourne sous 60 % de sa capacité.",
+    "rendez_vous": "Aujourd'hui, journée de banquiers centraux américains : Michelle Bowman, Austan Goolsbee et Thomas Barkin, puis les anticipations d'inflation de la Fed de New York et une adjudication de titres à 3 ans. Cette nuit, l'Asie a fortement rebondi (Nikkei environ +3,5 %, Taïwan environ +6 %), et les prix à la production chinois ont accéléré à leur rythme le plus rapide depuis plus de quatre ans selon Reuters. Cette semaine : inflation américaine mardi, perspectives de l'EIA mardi, rapport mensuel de l'OPEP mercredi, résultats de CoreWeave, Applied Materials et Cisco. Selon Reuters, l'action Nvidia recule d'environ 3,5 % hors séance, liée à une enquête interne sur une tentative d'espionnage visant son PDG.",
+    "heure_impact": "14 h 40 (heure de Paris), Michelle Bowman (Fed) : premier commentaire après l'emploi. 16 h, Austan Goolsbee. 17 h, anticipations d'inflation à un an de la Fed de New York. 18 h 15, Thomas Barkin. Un ton dur renforcerait la hausse de décembre et le dollar. Demain 14 h 30, inflation américaine d'octobre, le grand test de la semaine.",
+    "pitch": [
+      {"etape": "The market this morning (15 s)", "en": "Asia is bouncing back strongly: Tokyo is up about 3.5 % and Taiwan about 6 %. US futures are higher and oil is steady near 98 dollars.", "fr": "L'Asie rebondit nettement : Tokyo gagne environ 3,5 % et Taïwan environ 6 %. Les contrats à terme américains montent et le pétrole se stabilise près de 98 dollars."},
+      {"etape": "The two key moves (30 s)", "en": "On Friday the US added 165,000 jobs in October, almost three times the forecast, and unemployment fell to 4.1 %. Wall Street rebounded, the Nasdaq up 1.1 %, and the VIX fell 9 % to 25.6, while the Euro Stoxx 50 lost 1 %.", "fr": "Vendredi, les États-Unis ont créé 165 000 emplois en octobre, près de trois fois la prévision, et le chômage est tombé à 4,1 %. Wall Street a rebondi, le Nasdaq de 1,1 %, et le VIX a reculé de 9 % à 25,6, alors que l'Euro Stoxx 50 a perdu 1 %."},
+      {"etape": "Why (20 s)", "en": "A strong job market brings back a Fed hike in December, now priced at almost 80 %, and the dollar had its best day in five months. Chip stocks recovered part of Thursday's losses, with AMD up 11 %.", "fr": "Un marché de l'emploi solide relance une hausse de la Fed en décembre, désormais vue à près de 80 %, et le dollar a signé sa meilleure séance depuis cinq mois. Les puces ont repris une partie des pertes de jeudi, avec AMD en hausse de 11 %."},
+      {"etape": "What it changes (15 s)", "en": "Higher short rates for longer support capital protected notes in dollars. With the VIX still at 25, new autocalls keep paying high coupons.", "fr": "Des taux courts plus hauts plus longtemps soutiennent les produits à capital protégé en dollars. Avec un VIX encore à 25, les nouveaux autocalls continuent de payer des coupons élevés."},
+      {"etape": "What we watch today (10 s)", "en": "Fed speakers from 2.40 pm, Bowman, Goolsbee and Barkin, ahead of US inflation tomorrow at 2.30 pm.", "fr": "Les membres de la Fed à partir de 14 h 40, Bowman, Goolsbee et Barkin, avant l'inflation américaine demain à 14 h 30."}
+    ],
+    "a_verifier": "Brent vendredi : 98,32 $ (+0,03 %) selon FinanceFeeds et The Closing Print, 97,79 $ (−0,51 %) ou 97,98 $ selon d'autres ; les slides affichent « ≈ 98 $ » et « stable ». Baisse du Brent sur la semaine : plus de 16 % selon trois sources, environ 20 % selon une autre ; chiffre non affiché sur les slides. EUR/USD vendredi : 1,1143 (−0,82 %) selon une seule source ; les slides affichent « ≈ 1,115 » et « repli ». Euro Stoxx 50 : 6 170,49 (−0,98 %) selon une seule source (Ad-hoc-news). Nikkei ce matin : +3,4 % ou +3,5 % ; Taïwan : +5,7 % ou plus de 6 % ; chiffres non affichés sur les slides. Contrats S&P 500 +0,6 % : une seule source ; contrats européens non trouvés. Nvidia −3,5 % hors séance et l'enquête interne : une seule source (Reuters via Business Recorder), absent des slides. Taux à 2 ans 4,51 % : une seule source. Dates exactes des résultats de CoreWeave, Applied Materials et Cisco non confirmées.",
+    "sources": [
+      "The Closing Print, Post-Market & Weekly Summary du 6 novembre : theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-06/",
+      "Capp Notes, Closing Look du 6 novembre : cappnotes.substack.com/p/closing-look-friday-november-6-2026",
+      "StockTitan, marchés américains du 6 novembre : stocktitan.net/articles/stock-market-today-live-november-6-2026",
+      "TradingKey, emploi et rebond de l'IA du 6 novembre",
+      "Ad-hoc-news, clôture de l'Euro Stoxx 50 du 6 novembre : ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-closes-at-6-170-49-down-0-98-percent-on-ai-concerns/70471729",
+      "The Private Banker, Europe du 6 novembre : leprivatebanker.com/2026/11/06/",
+      "FinanceFeeds, Brent du 6 novembre et semaine à venir",
+      "Business Recorder (Reuters), Asie du 9 novembre : brecorder.com/news/40448089",
+      "HDFC Sky, marchés mondiaux du 9 novembre",
+      "Investing.com, agenda économique du 9 novembre"
+    ]
+  },
+  "slides": {
+    "cover": {"kicker": "Emploi US · octobre", "figure": "165 000", "title": "L'emploi surprend", "subtitle": "La Fed pourrait encore monter."},
+    "pages": [
+      {"kicker": "Ce matin", "title": "L'Asie rebondit", "title_size": 104, "gap": 72, "blocks": [
+        {"type": "rows", "rows": [
+          {"label": "Tokyo", "dir": "up", "value": "En hausse"},
+          {"label": "Taïwan", "dir": "up", "value": "Fort rebond"},
+          {"label": "Pétrole", "dir": "flat", "value": "≈ 98 $"}]},
+        {"type": "note", "text": "Contrats américains en hausse"}]},
+      {"kicker": "Clôtures de vendredi", "title": "Les 6 chiffres", "gap": 52, "blocks": [
+        {"type": "table6", "rows": [
+          {"label": "S&P 500", "level": "7 377", "change": "+0,31 %", "dir": "up"},
+          {"label": "Euro Stoxx 50", "level": "6 170", "change": "−0,98 %", "dir": "down"},
+          {"label": "EUR/USD", "level": "≈ 1,115", "change": "repli", "dir": "down"},
+          {"label": "Taux US 10 ans", "level": "4,86 %", "change": "+2 pb", "dir": "up"},
+          {"label": "Brent", "level": "≈ 98 $", "change": "stable", "dir": "flat"},
+          {"label": "VIX", "level": "25,64", "change": "−9,0 %", "dir": "down", "highlight": true}]}]},
+      {"kicker": "Le mouvement du jour", "title": "La peur reflue", "title_size": 104, "gap": 48, "blocks": [
+        {"type": "figure", "value": "−9,0 %", "dir": "down", "subtitle": "VIX, indice de la peur"},
+        {"type": "range", "dir": "down", "points": [
+          {"label": "Mercredi", "value": 16.61, "display": "16,61", "role": "before"},
+          {"label": "Jeudi", "value": 28.18, "display": "28,18", "role": "before"},
+          {"label": "Vendredi", "value": 25.64, "display": "25,64", "role": "main"}]}]},
+      {"kicker": "Les actions vendredi", "title": "La tech respire", "title_size": 104, "gap": 40, "blocks": [
+        {"type": "bars", "bars": [
+          {"label": "Nasdaq", "pct": 1.09, "decimals": 2},
+          {"label": "S&P 500", "pct": 0.31, "decimals": 2},
+          {"label": "Dow Jones", "pct": -0.46, "decimals": 2},
+          {"label": "Euro Stoxx 50", "pct": -0.98, "decimals": 2}]},
+        {"type": "note", "text": "AMD +11 % · Nvidia +2,8 %"}]},
+      {"kicker": "Pourquoi le dollar monte", "title": "Emploi solide", "gap": 64, "blocks": [
+        {"type": "metrics", "metrics": [
+          {"small": "Octobre", "label": "Attendu", "value": "59 000"},
+          {"small": "Octobre", "label": "Publié", "value": "165 000", "tone": "up"}]},
+        {"type": "box", "style": "dark", "label": "Chômage", "text": "4,1 %, contre 4,2 %"}]},
+      {"kicker": "La Fed en décembre", "title": "Hausse probable", "title_size": 100, "gap": 56, "blocks": [
+        {"type": "figure", "value": "≈ 80 %", "dir": "neutral", "subtitle": "Chances d'une hausse de taux"},
+        {"type": "box", "style": "blue", "label": "Dollar", "text": "Meilleure séance depuis cinq mois"}]},
+      {"kicker": "Pourquoi le pétrole baisse", "title": "Pari sur la paix", "title_size": 104, "gap": 72, "block_gap": 72, "blocks": [
+        {"type": "nodes", "nodes": [{"label": "États-Unis"}, {"label": "Qatar", "sub": "Médiateur", "highlight": true}, {"label": "Iran"}], "line": "Trump : frappes « très improbables »"},
+        {"type": "box", "style": "alert", "label": "Ormuz", "text": "Flux sous 60 % de la capacité"}]},
+      {"kicker": "Ce que ça change", "title": "Taux hauts", "title_size": 112, "gap": 64, "blocks": [
+        {"type": "steps", "steps": ["Fed plus restrictive", "Taux courts élevés", "Capital protégé mieux payé"]}]},
+      {"kicker": "Aujourd'hui", "title": "À surveiller", "title_size": 104, "gap": 64, "blocks": [
+        {"type": "agenda", "rows": [
+          {"time": "14 h 40", "label": "Bowman (Fed)"},
+          {"time": "16 h", "label": "Goolsbee (Fed)"},
+          {"time": "18 h 15", "label": "Barkin (Fed)"}]},
+        {"type": "note", "text": "Heures de Paris · Inflation US mardi 14 h 30"}]}
+    ],
+    "outro": {"sources": "Reuters, StockTitan, Ad-hoc-news, FinanceFeeds"}
+  },
+  "post": {
+    "hook": "L'emploi américain surprend : 165 000 créations en octobre, près de trois fois la prévision. Wall Street rebondit, le VIX reflue de 9 %, et une hausse de la Fed en décembre redevient le scénario central.",
+    "jour_cloture": "vendredi",
+    "rendez_vous_court": "14 h 40 : Michelle Bowman (Fed). 16 h : Austan Goolsbee. 18 h 15 : Thomas Barkin. Demain 14 h 30 : inflation américaine d'octobre.",
+    "hashtags": "#bourse #marchésfinanciers #fed #finance #macro"
+  }
+}
