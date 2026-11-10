@@ -1,0 +1,421 @@
+{
+ "date": "2026-11-10",
+ "carnet": {
+  "date_label": "Nov 10, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 549,94",
+    "variation": "+2,35 % (lun.)",
+    "plus_gros": "non",
+    "commentaire": "Meilleure séance depuis le 8 avril. Nasdaq +2,74 % à 25 253,14, Dow +2,15 % à 52 389,75, Nasdaq 100 environ +3,4 %. Les 11 secteurs montent, les semi-conducteurs en tête. Nvidia −4,27 %. Contrats à terme américains à peu près stables ce matin."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "6 290,45",
+    "variation": "+1,94 % (lun.)",
+    "plus_gros": "non",
+    "commentaire": "Rebond de la tech (ASML +4,7 %) et des banques, aidé par la baisse du pétrole. Une seule source pour la clôture. Contrats à terme européens environ +0,7 % ce matin (Reuters)."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "environ 1,12",
+    "variation": "hausse (lun.)",
+    "plus_gros": "non",
+    "commentaire": "Sources en désaccord : 1,1227 (+0,76 %) ou 1,1197 (+0,48 %). Dollar index en baisse d'environ 0,6 %. Dollar stable ce matin."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "environ 4,87 %",
+    "variation": "quasi stable (lun.)",
+    "plus_gros": "non",
+    "commentaire": "4,88 % (+2 pb) selon deux sources, 4,864 % selon une autre. Taux à 2 ans à 4,56 %. Les taux n'ont pas suivi le rebond des actions avant l'inflation de cet après-midi."
+   },
+   {
+    "label": "Brent",
+    "niveau": "environ 92,6 à 92,9 $",
+    "variation": "−5,5 à −5,9 % (lun.)",
+    "plus_gros": "non",
+    "commentaire": "Règlement à 92,57 $ (−5,85 %) selon Reuters, 92,91 $ (−5,5 %) selon d'autres sources. Plus bas depuis fin août ; la baisse a dépassé 7 $ après le règlement. 91,56 $ ce matin (−1 %), plus bas depuis début septembre."
+   },
+   {
+    "label": "VIX",
+    "niveau": "19,92",
+    "variation": "−22,3 % (lun.)",
+    "plus_gros": "oui",
+    "commentaire": "Retour sous 20 pour la première fois depuis le bond de jeudi (28,18). Une source donne 20,02 (−21,9 %)."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "Wall Street signe sa meilleure séance depuis avril : S&P 500 +2,35 % à 7 549,94, Nasdaq +2,74 %, Euro Stoxx 50 +1,94 %.",
+    "contexte": "Rebond de la tech après la vente de la semaine dernière, semi-conducteurs en tête. Exception : Nvidia perd 4,27 % après l'ouverture par son conseil d'une enquête sur une possible opération de renseignement étrangère visant son PDG.",
+    "effet": "Les paniers tech « worst-of » s'éloignent de leurs barrières. Avec un VIX sous 20, les coupons des nouveaux autocalls baissent : mieux vaut ne pas trop attendre.",
+    "source": "StockTitan, The Weekend Spread, CappNotes, Ad-hoc-news"
+   },
+   {
+    "titre": "Le Brent chute de près de 6 %, autour de 92,6 $, au plus bas depuis fin août.",
+    "contexte": "Donald Trump juge de nouvelles frappes contre l'Iran « très improbables » si les discussions progressent. Les flux reprennent dans le détroit d'Ormuz et l'OPEP a produit plus en octobre.",
+    "effet": "Bonne nouvelle pour l'inflation. Les autocalls sur les pétrolières se rapprochent de leurs barrières, mais les coupons sur l'énergie restent élevés.",
+    "source": "Nation Thailand (Reuters), CappNotes"
+   },
+   {
+    "titre": "Inflation américaine d'octobre à 14 h 30 : le consensus attend +0,3 % sur un mois (+0,6 % en septembre) et +0,2 % hors énergie et alimentation.",
+    "contexte": "Sur un an, environ 3,9 % selon les économistes : le BLS ne publiera pas de taux annuel, faute de données d'octobre 2025. Le marché voit 84 à 85 % de chances d'une hausse de la Fed en décembre.",
+    "effet": "Un chiffre élevé pousserait les taux courts et le dollar : bon pour le capital protégé et les reverse convertibles en dollars, avec un risque de change pour un client en euros.",
+    "source": "Reuters (Yahoo Finance), Investing.com, CME FedWatch via Reuters"
+   }
+  ],
+  "geopolitique": "Donald Trump juge de nouvelles frappes contre l'Iran « très improbables » tant que les discussions progressent. Téhéran maintient ses sept conditions, dont la levée du blocus et des sanctions ; Marco Rubio en juge certaines « pas réalistes ». L'Iran signale de nouvelles frappes américaines sur Qeshm, sans dégâts. Le Qatar reste le médiateur.",
+  "rendez_vous": "Aujourd'hui, inflation américaine d'octobre et salaires réels, enquête NFIB des petites entreprises, adjudication de titres du Trésor à 10 ans et perspectives de l'EIA sur l'énergie. Membres de la Fed : Christopher Waller, Lorie Logan, Jeff Schmid et Michelle Bowman. Résultats de Vodafone en Europe, de TransDigm, Sea et On Holding avant l'ouverture américaine, puis de CoreWeave, Petrobras et Alcon après la clôture. Cette nuit, l'Asie a poursuivi son rebond (Nikkei environ +2,5 à +3 %, Kospi environ +4 à +5 %) et le Brent a reculé vers 91,6 $. Cette semaine : rapport mensuel de l'OPEP, résultats de Cisco et Applied Materials jeudi.",
+  "heure_impact": "10 h (heure de Paris), Christopher Waller (Fed). 14 h 30, inflation américaine d'octobre : le grand test de la semaine ; au-dessus de +0,3 %, la hausse de décembre serait quasi acquise et le dollar monterait. 15 h 35, Lorie Logan. 19 h, adjudication à 10 ans. 21 h 30, Michelle Bowman. Après 22 h, résultats de CoreWeave, nouveau test pour l'IA.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "The rebound continues. Asia is sharply higher, with Seoul and Tokyo leading, European futures are up and oil keeps sliding, just above 91 dollars.",
+    "fr": "Le rebond se poursuit. L'Asie monte nettement, Séoul et Tokyo en tête, les contrats à terme européens progressent et le pétrole continue de glisser, juste au-dessus de 91 dollars."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "Yesterday the S&P 500 jumped 2.35 % to 7,550, its best day since April, and the Nasdaq 2.7 %. The Euro Stoxx 50 gained almost 2 %. The VIX fell 22 % to just under 20.",
+    "fr": "Hier, le S&P 500 a bondi de 2,35 % à 7 550 points, sa meilleure séance depuis avril, et le Nasdaq de 2,7 %. L'Euro Stoxx 50 a gagné près de 2 %. Le VIX a chuté de 22 %, juste sous 20."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "Brent fell almost 6 % after Donald Trump said new strikes on Iran were highly unlikely while talks progress. Chip stocks led the rally, but Nvidia fell 4 % on a board investigation.",
+    "fr": "Le Brent a perdu près de 6 % après que Donald Trump a jugé de nouvelles frappes contre l'Iran très improbables tant que les discussions avancent. Les puces ont mené la hausse, mais Nvidia a reculé de 4 % à cause d'une enquête de son conseil."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "Tech baskets move away from their barriers. With volatility back under 20, coupons on new autocalls are falling, so it is a good moment to lock in today's terms.",
+    "fr": "Les paniers tech s'éloignent de leurs barrières. Avec une volatilité revenue sous 20, les coupons des nouveaux autocalls baissent : c'est le moment de figer les conditions actuelles."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "US inflation at 2.30 pm, expected at 0.3 % over the month, then Fed speakers and CoreWeave results tonight.",
+    "fr": "L'inflation américaine à 14 h 30, attendue à 0,3 % sur un mois, puis les membres de la Fed et les résultats de CoreWeave ce soir."
+   }
+  ],
+  "a_verifier": "Brent lundi : règlement à 92,57 $ (−5,85 %) selon Reuters et CappNotes, 92,91 $ (−5,5 %) selon The Weekend Spread et JournalArta ; les slides affichent « ≈ 93 $ » et « ≈ −6 % ». EUR/USD : 1,1227 (+0,76 %) selon deux sources, 1,1197 (+0,48 %) selon une autre ; les slides affichent « ≈ 1,12 » et « hausse ». Taux à 10 ans : 4,88 % (+2 pb) selon deux sources, 4,864 % selon une autre ; les slides affichent « ≈ 4,87 % » et « stable ». VIX : 19,92 (−22,31 %) selon trois sources, 20,02 (−21,92 %) selon une autre ; les slides affichent « ≈ 20 » et « −22 % ». Euro Stoxx 50 : 6 290,45 (+1,94 %) selon une seule source (Ad-hoc-news). Nikkei ce matin : +2,5 % ou environ +3 % ; Kospi : +4 % ou plus de 5 % ; chiffres non affichés sur les slides. Contrats européens +0,7 % : une seule source (Reuters). Probabilité d'une hausse de la Fed : 84 % ou 85 % selon les sources ; non chiffrée sur les slides. Heures des membres de la Fed tirées d'un seul agenda (Investing.com).",
+  "sources": [
+   "The Weekend Spread, The Close du 9 novembre : theweekendspread.substack.com/p/the-close-monday-november-9-2026",
+   "CappNotes, Closing Look du 9 novembre : cappnotes.substack.com/p/closing-look-monday-november-9-2026",
+   "StockTitan, marchés américains du 9 novembre : stocktitan.net/articles/stock-market-today-live-november-9-2026",
+   "TheStreet, marchés du 9 novembre : thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-09-202",
+   "Ad-hoc-news, clôture de l'Euro Stoxx 50 du 9 novembre : ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-closes-at-6-290-45-up-1-94-percent/70483290",
+   "Ad-hoc-news, clôture du VIX du 9 novembre : ad-hoc-news.de/boerse/news/marktberichte/vix-closes-at-19-92-after-22-31-prozent-slide/70483293",
+   "Nation Thailand (Reuters), règlement du pétrole du 9 novembre : nationthailand.com/news/world/40073309",
+   "JournalArta, marchés du 9 novembre : journalarta.com/en/2026/11/10/",
+   "Kontan et ChinaTechNews (Reuters), Asie du 10 novembre",
+   "Yahoo Finance (Reuters), avant-première de l'inflation américaine d'octobre",
+   "Investing.com, agenda économique du 10 novembre",
+   "Al Jazeera, Iran et États-Unis du 9 novembre : aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "S&P 500 · lundi",
+   "figure": "+2,35 %",
+   "title": "Le grand rebond",
+   "subtitle": "Meilleure séance depuis avril."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "L'Asie suit",
+    "title_size": 112,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Séoul",
+        "dir": "up",
+        "value": "Fort rebond"
+       },
+       {
+        "label": "Tokyo",
+        "dir": "up",
+        "value": "En hausse"
+       },
+       {
+        "label": "Pétrole",
+        "dir": "down",
+        "value": "En repli"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Contrats européens en hausse"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de lundi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 550",
+        "change": "+2,35 %",
+        "dir": "up"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "6 290",
+        "change": "+1,94 %",
+        "dir": "up"
+       },
+       {
+        "label": "EUR/USD",
+        "level": "≈ 1,12",
+        "change": "hausse",
+        "dir": "up"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "≈ 4,87 %",
+        "change": "stable",
+        "dir": "flat"
+       },
+       {
+        "label": "Brent",
+        "level": "≈ 93 $",
+        "change": "≈ −6 %",
+        "dir": "down"
+       },
+       {
+        "label": "VIX",
+        "level": "≈ 20",
+        "change": "−22 %",
+        "dir": "down",
+        "highlight": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "Sous les 20",
+    "title_size": 112,
+    "gap": 48,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "−22 %",
+      "dir": "down",
+      "subtitle": "VIX, indice de la peur"
+     },
+     {
+      "type": "range",
+      "dir": "down",
+      "points": [
+       {
+        "label": "Mercredi",
+        "value": 16.61,
+        "display": "16,61",
+        "role": "before"
+       },
+       {
+        "label": "Jeudi",
+        "value": 28.18,
+        "display": "28,18",
+        "role": "before"
+       },
+       {
+        "label": "Vendredi",
+        "value": 25.64,
+        "display": "25,64",
+        "role": "before"
+       },
+       {
+        "label": "Lundi",
+        "value": 19.92,
+        "display": "≈ 20",
+        "role": "main"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Les actions lundi",
+    "title": "Tout monte",
+    "title_size": 112,
+    "gap": 28,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Nasdaq",
+        "pct": 2.74,
+        "decimals": 2
+       },
+       {
+        "label": "S&P 500",
+        "pct": 2.35,
+        "decimals": 2
+       },
+       {
+        "label": "Dow Jones",
+        "pct": 2.15,
+        "decimals": 2
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "pct": 1.94,
+        "decimals": 2
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Exception : Nvidia −4,3 %"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi le pétrole baisse",
+    "title": "Moins de risque",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "box",
+      "style": "blue",
+      "label": "Trump",
+      "text": "Nouvelles frappes sur l'Iran « très improbables »"
+     },
+     {
+      "type": "box",
+      "style": "plain",
+      "label": "Ormuz",
+      "text": "Les flux de pétrole reprennent"
+     },
+     {
+      "type": "box",
+      "style": "alert",
+      "label": "Mais",
+      "text": "Téhéran maintient ses conditions"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi Nvidia recule",
+    "title": "Enquête interne",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "−4,3 %",
+      "dir": "down",
+      "subtitle": "Nvidia, à contre-courant"
+     },
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Cause",
+      "text": "Son PDG visé par un service étranger ?"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Coupons en baisse",
+    "title_size": 100,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "Peur en recul",
+       "Volatilité moins chère",
+       "Coupons des nouveaux autocalls en baisse"
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Inflation US d'octobre",
+    "title": "Le test",
+    "title_size": 120,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "metrics",
+      "metrics": [
+       {
+        "small": "Sur un mois",
+        "label": "Septembre",
+        "value": "+0,6 %"
+       },
+       {
+        "small": "Sur un mois",
+        "label": "Attendu octobre",
+        "value": "+0,3 %",
+        "tone": "neutral"
+       }
+      ]
+     },
+     {
+      "type": "box",
+      "style": "blue",
+      "label": "Fed",
+      "text": "Une hausse en décembre largement anticipée"
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 56,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "10 h",
+        "label": "Waller (Fed)"
+       },
+       {
+        "time": "14 h 30",
+        "label": "Inflation US"
+       },
+       {
+        "time": "21 h 30",
+        "label": "Bowman (Fed)"
+       },
+       {
+        "time": "Soir",
+        "label": "Résultats de CoreWeave"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "Reuters, StockTitan, Ad-hoc-news, CappNotes"
+  }
+ },
+ "post": {
+  "hook": "Le grand rebond : le S&P 500 bondit de 2,35 %, sa meilleure séance depuis avril, porté par la chute du pétrole. Le VIX repasse sous 20. Cet après-midi, l'inflation américaine dira si le rebond tient.",
+  "jour_cloture": "lundi",
+  "rendez_vous_court": "10 h : Christopher Waller (Fed). 14 h 30 : inflation américaine d'octobre, attendue à +0,3 % sur un mois. 21 h 30 : Michelle Bowman (Fed). Après 22 h : résultats de CoreWeave.",
+  "hashtags": "#bourse #marchésfinanciers #inflation #finance #macro"
+ }
+}
