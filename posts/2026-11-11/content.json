@@ -1,0 +1,397 @@
+{
+ "date": "2026-11-11",
+ "carnet": {
+  "date_label": "Nov 11, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 520,93",
+    "variation": "−0,38 % (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Nasdaq −0,74 % à 25 065,88, Dow −0,30 % à 52 231,89. La tech est le secteur le plus faible ; Nvidia −5,47 %. Contrats sur le Nasdaq environ +1,3 % ce matin (Reuters)."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "environ 6 330",
+    "variation": "hausse (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Sources en désaccord : 6 327,87 (+0,59 %) ou 6 336,79 (+0,74 %). Plus haut depuis le 8 septembre, porté par les banques et Infineon. Contrats européens environ +0,6 % ce matin (Reuters)."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "environ 1,117",
+    "variation": "baisse (mar.)",
+    "plus_gros": "non",
+    "commentaire": "1,1163 (−0,53 %) selon une source ; 1,1167 ce matin (AP). Le dollar se renforce avec la hausse des taux."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "environ 5 %",
+    "variation": "+10 à +14 pb (mar.)",
+    "plus_gros": "oui",
+    "commentaire": "Sources en désaccord sur la clôture : 4,98 %, 4,99 % ou 5,00 %. Le seuil de 5 % a été franchi en séance. Marché obligataire américain fermé aujourd'hui (Veterans Day)."
+   },
+   {
+    "label": "Brent",
+    "niveau": "91,49 $",
+    "variation": "−1,17 % (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Plus bas règlement depuis le 31 août. Rebond ce matin vers 92,4-92,5 $ (environ +1 %)."
+   },
+   {
+    "label": "VIX",
+    "niveau": "19,46",
+    "variation": "−2,31 % (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Une seule source pour la clôture ; une autre parle seulement d'un léger repli. Toujours sous 20."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "L'inflation américaine d'octobre surprend à la hausse : +0,4 % sur un mois contre +0,3 % attendu, et le taux à 10 ans touche 5 %.",
+    "contexte": "L'inflation hors énergie et alimentation progresse de 0,3 % (0,2 % attendu selon plusieurs sources). Christopher Waller (Fed) juge qu'une hausse de 50 pb devrait être envisagée en décembre ; le marché voit 86 à 88 % de chances d'une hausse de 25 pb.",
+    "effet": "Des taux longs à 5 % rendent plus attractifs les produits à capital protégé et les reverse convertibles en dollars, avec un risque de change pour un client en euros.",
+    "source": "CappNotes, Eurasia Business News, StockTitan, AP"
+   },
+   {
+    "titre": "Nvidia perd encore 5,47 %, soit environ 430 Md$ de capitalisation effacés en deux séances.",
+    "contexte": "Le conseil enquête sur des informations visant son PDG. CoreWeave rassure après la clôture (CA de 3,66 Md$ contre 1,37 Md$ un an plus tôt) et l'Asie suit le rebond des contrats sur le Nasdaq.",
+    "effet": "Les paniers tech « worst-of » avec Nvidia se rapprochent de leurs barrières. La volatilité élevée sur le titre gonfle les coupons à l'émission.",
+    "source": "CappNotes, StockTitan, Reuters"
+   },
+   {
+    "titre": "L'Europe résiste : l'Euro Stoxx 50 progresse et atteint son plus haut depuis le 8 septembre.",
+    "contexte": "Le Brent recule sous 92 $ sur l'espoir d'une désescalade avec l'Iran. Banques et Infineon (croissance prévue de plus de 20 % en 2027) mènent la hausse ; Eni et Siemens Energy sont parmi les plus faibles.",
+    "effet": "Les autocalls sur l'Euro Stoxx 50 se rapprochent de leur niveau de rappel. Ceux adossés aux pétrolières se rapprochent de leurs barrières.",
+    "source": "Ad-hoc-news, Eurasia Business News"
+   }
+  ],
+  "geopolitique": "Donald Trump estime que la guerre avec l'Iran pourrait se terminer « assez vite » et que de nouvelles frappes ne seraient pas nécessaires. Les négociations restent bloquées : Téhéran exige la levée du blocus naval et des sanctions, Washington veut des concessions nucléaires. Le détroit d'Ormuz fonctionne sous sa capacité normale et l'agence Tasnim signale trois pétroliers visés cette nuit.",
+  "rendez_vous": "Aujourd'hui, 11 Novembre : la Bourse de Paris est ouverte. Aux États-Unis, Veterans Day : Wall Street ouvre mais le marché obligataire est fermé. Inflation allemande définitive d'octobre, intervention de Christine Lagarde au Forum de Paris sur la paix et rapport mensuel de l'OPEP. Résultats de Siemens Energy, E.ON, RWE, ABN AMRO, Poste Italiane, Swiss Life et Vestas en Europe, de Corteva et Franco-Nevada après la clôture américaine. Cette nuit, Taïwan et Séoul ont progressé avec la tech (TSMC +3,1 %), Hong Kong a reculé et SoftBank a publié une lourde perte. Demain : inscriptions au chômage et prix à la production américains.",
+  "heure_impact": "8 h (heure de Paris), inflation allemande définitive : sans surprise, peu d'impact. 10 h 45, Christine Lagarde : tout signal sur les taux ferait bouger l'euro. Dans la journée, rapport de l'OPEP : un relèvement de l'offre pèserait encore sur le Brent. 15 h 30, ouverture de Wall Street sans marché obligataire : volumes réduits, rebond de la tech à confirmer.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "Tech is bouncing back. Taiwan and Seoul are higher, Nasdaq futures are up and European futures are pointing higher. Oil is slightly up, around 92 dollars.",
+    "fr": "La tech rebondit. Taïwan et Séoul montent, les contrats sur le Nasdaq progressent et les contrats européens annoncent une hausse. Le pétrole remonte légèrement, autour de 92 dollars."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "Yesterday the US 10-year yield touched 5 % after a hot inflation report. The S&P 500 fell 0.4 % and the Nasdaq 0.7 %, dragged by Nvidia, down 5.5 %. Europe held up, at its highest since September.",
+    "fr": "Hier, le taux américain à 10 ans a touché 5 % après une inflation plus forte que prévu. Le S&P 500 a cédé 0,4 % et le Nasdaq 0,7 %, plombés par Nvidia, en baisse de 5,5 %. L'Europe a tenu, à son plus haut depuis septembre."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "US prices rose 0.4 % in October, above the 0.3 % expected. A Fed hike in December now looks almost certain, and Christopher Waller even opened the door to half a point.",
+    "fr": "Les prix américains ont progressé de 0,4 % en octobre, au-dessus des 0,3 % attendus. Une hausse de la Fed en décembre paraît presque acquise, et Christopher Waller a même ouvert la porte à un demi-point."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "With long rates near 5 %, capital protected notes and dollar reverse convertibles look attractive, with a currency risk for euro clients. Tech baskets with Nvidia should watch their barriers.",
+    "fr": "Avec des taux longs proches de 5 %, les produits à capital protégé et les reverse convertibles en dollars deviennent attractifs, avec un risque de change pour un client en euros. Les paniers tech avec Nvidia doivent surveiller leurs barrières."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "Christine Lagarde in Paris this morning, the OPEC report, and a Wall Street session without the bond market.",
+    "fr": "Christine Lagarde à Paris ce matin, le rapport de l'OPEP, et une séance à Wall Street sans marché obligataire."
+   }
+  ],
+  "a_verifier": "Taux à 10 ans : clôture à 4,98 % (+10 pb, CappNotes), 4,99 % (contre 4,88 %, AP) ou 5,00 % (+13,8 pb, TheStreet) ; les slides affichent « ≈ 5 % » et « hausse ». Euro Stoxx 50 : 6 327,87 (+0,59 %) ou 6 336,79 (+0,74 %) selon deux dépêches Ad-hoc-news ; les slides affichent « ≈ 6 330 » et « hausse ». VIX : 19,46 (−2,31 %) selon une seule source ; les slides affichent « < 20 ». EUR/USD : 1,1163 (−0,53 %) selon une seule source ; les slides affichent « ≈ 1,117 ». Inflation hors énergie et alimentation : +0,3 % contre 0,2 % attendu selon CappNotes et Eurasia, « conforme » selon Reuters ; non affichée sur les slides. Ce matin : Taïwan +2,1 % (AP) ou +2,7 % (Reuters), Séoul +1,6 % ou +2,1 % ; contrats Nasdaq +1,3 % et contrats européens +0,6 % selon Reuters seul ; non chiffrés sur les slides. Heure de Christine Lagarde (10 h 45) tirée d'une seule source. CoreWeave après la clôture : +2,6 % (StockTitan) ou environ +8 % (Reuters).",
+  "sources": [
+   "CappNotes, Closing Look du 10 novembre : cappnotes.substack.com/p/closing-look-tuesday-november-10",
+   "Eurasia Business News, marchés du 10 novembre : eurasiabusinessnews.com/2026/11/11/stock-market-today-dow-jones-nasdaq-sp-500-fall-on-november-10-2026-oil-and-gold-retreat/",
+   "StockTitan, marchés américains du 10 novembre : stocktitan.net/articles/stock-market-today-live-november-10-2026",
+   "TheStreet, marchés du 10 novembre : thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026",
+   "Ad-hoc-news, clôtures de l'Euro Stoxx 50 du 10 novembre : ad-hoc-news.de (articles 70488709 et 70487937)",
+   "AP (WSLS), Asie du 11 novembre : wsls.com/business/2026/11/11/asian-shares-mostly-rise-on-ai-chip-demand-despite-wall-streets-retreat-on-inflation-data/",
+   "Reuters, Morning Bid du 11 novembre : investing.com/news/economy-news/morning-bid-everyone-loves-coreweave-5017720",
+   "Daniel Hynes, Commodities Wrap du 11 novembre : danielhynes.substack.com/p/commodities-wrap-oil-extends-losses-2be",
+   "ABC Bourse, agenda du 9 au 13 novembre ; Zonebourse (Boursorama), résultats du 11 novembre"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "Taux US 10 ans · mardi",
+   "figure": "5 %",
+   "title": "Inflation tenace",
+   "subtitle": "Le 10 ans américain touche 5 %."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "La tech rebondit",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Taïwan",
+        "dir": "up",
+        "value": "En hausse"
+       },
+       {
+        "label": "Séoul",
+        "dir": "up",
+        "value": "En hausse"
+       },
+       {
+        "label": "Pétrole",
+        "dir": "up",
+        "value": "≈ 92 $"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Contrats européens en hausse"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de mardi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 521",
+        "change": "−0,38 %",
+        "dir": "down"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "≈ 6 330",
+        "change": "hausse",
+        "dir": "up"
+       },
+       {
+        "label": "EUR/USD",
+        "level": "≈ 1,117",
+        "change": "baisse",
+        "dir": "down"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "≈ 5 %",
+        "change": "hausse",
+        "dir": "up",
+        "highlight": true
+       },
+       {
+        "label": "Brent",
+        "level": "91,49 $",
+        "change": "−1,17 %",
+        "dir": "down"
+       },
+       {
+        "label": "VIX",
+        "level": "< 20",
+        "change": "repli",
+        "dir": "down"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "Les taux bondissent",
+    "title_size": 100,
+    "gap": 48,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "5 %",
+      "dir": "up",
+      "subtitle": "Taux US 10 ans, touché mardi"
+     },
+     {
+      "type": "range",
+      "dir": "up",
+      "unit": "%",
+      "tick_decimals": 2,
+      "points": [
+       {
+        "label": "Lundi",
+        "value": 4.88,
+        "display": "4,88 %",
+        "role": "before"
+       },
+       {
+        "label": "Mardi",
+        "value": 4.99,
+        "display": "≈ 5 %",
+        "role": "main"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Les actions mardi",
+    "title": "Wall Street recule",
+    "title_size": 100,
+    "gap": 56,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Dow Jones",
+        "pct": -0.3,
+        "decimals": 2
+       },
+       {
+        "label": "S&P 500",
+        "pct": -0.38,
+        "decimals": 2
+       },
+       {
+        "label": "Nasdaq",
+        "pct": -0.74,
+        "decimals": 2
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "L'Euro Stoxx 50 progresse"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi les taux montent",
+    "title": "Inflation chaude",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "metrics",
+      "metrics": [
+       {
+        "small": "Prix US sur un mois",
+        "label": "Attendu",
+        "value": "+0,3 %"
+       },
+       {
+        "small": "Prix US sur un mois",
+        "label": "Publié",
+        "value": "+0,4 %",
+        "tone": "down"
+       }
+      ]
+     },
+     {
+      "type": "box",
+      "style": "blue",
+      "label": "Fed",
+      "text": "Une hausse en décembre quasi acquise"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi le Nasdaq recule",
+    "title": "Nvidia chute",
+    "title_size": 112,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "−5,5 %",
+      "dir": "down",
+      "subtitle": "Deuxième séance de baisse"
+     },
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Cause",
+      "text": "L'enquête visant son PDG"
+     }
+    ]
+   },
+   {
+    "kicker": "Pendant ce temps",
+    "title": "L'Europe tient",
+    "title_size": 112,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "box",
+      "style": "good",
+      "label": "Euro Stoxx 50",
+      "text": "Au plus haut depuis le 8 septembre"
+     },
+     {
+      "type": "box",
+      "style": "blue",
+      "label": "Brent",
+      "text": "Plus bas depuis fin août"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Taux à 5 %",
+    "title_size": 112,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "Inflation tenace",
+       "Taux longs à 5 %",
+       "Capital protégé plus attractif"
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 56,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "8 h",
+        "label": "Inflation allemande"
+       },
+       {
+        "time": "Matin",
+        "label": "Lagarde (BCE) à Paris"
+       },
+       {
+        "time": "Journée",
+        "label": "Rapport de l'OPEP"
+       },
+       {
+        "time": "15 h 30",
+        "label": "Wall Street, sans marché obligataire"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "Reuters, AP, CappNotes, Ad-hoc-news"
+  }
+ },
+ "post": {
+  "hook": "Inflation tenace : le taux américain à 10 ans touche 5 % après des prix plus forts que prévu, Nvidia entraîne Wall Street, l'Europe résiste. Ce matin, la tech rebondit en Asie.",
+  "jour_cloture": "mardi",
+  "rendez_vous_court": "8 h : inflation allemande définitive. Matinée : Christine Lagarde au Forum de Paris sur la paix. Dans la journée : rapport mensuel de l'OPEP. 15 h 30 : Wall Street ouvre, marché obligataire fermé (Veterans Day).",
+  "hashtags": "#bourse #marchésfinanciers #inflation #taux #finance #macro"
+ }
+}
