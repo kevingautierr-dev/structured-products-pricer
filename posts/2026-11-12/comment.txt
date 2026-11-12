@@ -1,0 +1,13 @@
+TROIS TITRES ÉCONOMIQUES
+
+1. Wall Street rebondit : le S&P 500 gagne 1,31 % à 7 619,38 et le Nasdaq 1,60 %, portés par CoreWeave (+24,71 %). CoreWeave publie un chiffre d'affaires trimestriel de 3,66 Md$ et relève sa prévision 2026 à 13-13,3 Md$. Micron (+11,89 %) mène les semi-conducteurs. Le VIX recule de 10,12 % à 17,49.
+Effet pour un client ou un produit structuré : Volatilité plus basse, options moins chères : les coupons des nouveaux autocalls sur indices baissent un peu. Le rebond éloigne les sous-jacents tech de leurs barrières.
+
+2. Nvidia chute de plus de 8 % après la clôture : le conseil d'administration se réunit pour décider de l'avenir de Jensen Huang. Selon le Wall Street Journal et Reuters, le conseil envisage d'écarter son PDG après des informations sur sa vie privée. Bernstein abaisse son objectif de 400 à 200 $, après Baird. Aucune décision connue ce matin.
+Effet pour un client ou un produit structuré : Les paniers « worst-of » avec Nvidia se rapprochent de leurs barrières. La volatilité du titre gonfle les coupons, mais un sous-jacent indiciel est plus prudent.
+
+3. La Fed reste offensive : une hausse de taux en décembre est entièrement anticipée et le dollar monte au plus haut depuis le printemps 2025. Austan Goolsbee juge l'inflation d'octobre « limite inquiétante », Lorie Logan voit encore deux hausses. L'euro recule vers 1,108 dollar.
+Effet pour un client ou un produit structuré : Des taux longs proches de 5 % rendent attractifs le capital protégé et les reverse convertibles en dollars ; pour un client en euros, le risque de change augmente.
+
+GÉOPOLITIQUE
+L'Iran affirme qu'il ne laissera sortir aucune matière nucléaire enrichie et dément toute négociation avec les États-Unis. Téhéran exige la levée des sanctions et du blocus naval avant de rouvrir le détroit d'Ormuz ; 37 navires ont été attaqués en octobre, un record depuis février. Le Brent regagne 1,39 % à 92,76 $.

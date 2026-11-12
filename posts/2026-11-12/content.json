@@ -1,0 +1,389 @@
+{
+ "date": "2026-11-12",
+ "carnet": {
+  "date_label": "Nov 12, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 619,38",
+    "variation": "+1,31 % (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Nasdaq +1,60 % à 25 466,19, Dow +0,49 % à 52 486,49. Rebond mené par CoreWeave et les fabricants de mémoires ; Apple à un record. Ce matin, contrats S&P 500 −0,4 % et Nasdaq environ −1 % après la chute de Nvidia après la clôture."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "environ 6 391",
+    "variation": "+1,0 % (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Sources en désaccord : 6 390,90 (+1,00 %) ou 6 393,39 (+1,04 %). Clôture près du plus haut de la séance, portée par Siemens Energy, Infineon et Eni. Contrats européens environ +0,4 % ce matin (Reuters)."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "environ 1,108",
+    "variation": "baisse (mer.)",
+    "plus_gros": "non",
+    "commentaire": "1,1088 (−0,67 %) selon une source, 1,1077 selon une autre. Le dollar index monte à 103,08 ce matin, au plus haut depuis le printemps 2025 : les marchés parient sur des hausses de taux de la Fed."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "environ 5 %",
+    "variation": "marché fermé (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Marché obligataire américain fermé mercredi (Veterans Day). Dernière clôture officielle à 4,98 % mardi ; environ 4,99 % ce matin."
+   },
+   {
+    "label": "Brent",
+    "niveau": "92,76 $",
+    "variation": "+1,39 % (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Rebond après le plus bas de deux mois : l'Iran refuse de laisser sortir son uranium enrichi. Environ 92,4 $ ce matin (léger repli)."
+   },
+   {
+    "label": "VIX",
+    "niveau": "17,49",
+    "variation": "−10,12 % (mer.)",
+    "plus_gros": "oui",
+    "commentaire": "Plus forte variation de la séance. La peur reflue avec le rebond de la tech, avant la chute de Nvidia après la clôture."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "Wall Street rebondit : le S&P 500 gagne 1,31 % à 7 619,38 et le Nasdaq 1,60 %, portés par CoreWeave (+24,71 %).",
+    "contexte": "CoreWeave publie un chiffre d'affaires trimestriel de 3,66 Md$ et relève sa prévision 2026 à 13-13,3 Md$. Micron (+11,89 %) mène les semi-conducteurs. Le VIX recule de 10,12 % à 17,49.",
+    "effet": "Volatilité plus basse, options moins chères : les coupons des nouveaux autocalls sur indices baissent un peu. Le rebond éloigne les sous-jacents tech de leurs barrières.",
+    "source": "CappNotes, TheStreet, Eurasia Business News"
+   },
+   {
+    "titre": "Nvidia chute de plus de 8 % après la clôture : le conseil d'administration se réunit pour décider de l'avenir de Jensen Huang.",
+    "contexte": "Selon le Wall Street Journal et Reuters, le conseil envisage d'écarter son PDG après des informations sur sa vie privée. Bernstein abaisse son objectif de 400 à 200 $, après Baird. Aucune décision connue ce matin.",
+    "effet": "Les paniers « worst-of » avec Nvidia se rapprochent de leurs barrières. La volatilité du titre gonfle les coupons, mais un sous-jacent indiciel est plus prudent.",
+    "source": "Reuters (Morning Bid), Saxo, Eurasia Business News, TheStreet"
+   },
+   {
+    "titre": "La Fed reste offensive : une hausse de taux en décembre est entièrement anticipée et le dollar monte au plus haut depuis le printemps 2025.",
+    "contexte": "Austan Goolsbee juge l'inflation d'octobre « limite inquiétante », Lorie Logan voit encore deux hausses. L'euro recule vers 1,108 dollar.",
+    "effet": "Des taux longs proches de 5 % rendent attractifs le capital protégé et les reverse convertibles en dollars ; pour un client en euros, le risque de change augmente.",
+    "source": "CappNotes, Reuters, Saxo"
+   }
+  ],
+  "geopolitique": "L'Iran affirme qu'il ne laissera sortir aucune matière nucléaire enrichie et dément toute négociation avec les États-Unis. Téhéran exige la levée des sanctions et du blocus naval avant de rouvrir le détroit d'Ormuz ; 37 navires ont été attaqués en octobre, un record depuis février. Le Brent regagne 1,39 % à 92,76 $.",
+  "rendez_vous": "Aujourd'hui, PIB britannique du troisième trimestre et production industrielle. Résultats de Siemens, Allianz, Merck KGaA et Burberry en Europe, de Cisco et Applied Materials après la clôture américaine. Aux États-Unis, inscriptions au chômage, ventes de logements anciens et interventions de plusieurs membres de la Fed (Beth Hammack, Michael Barr, Austan Goolsbee). Décision attendue du conseil de Nvidia sur Jensen Huang ; résultats de Nvidia le 17 novembre.",
+  "heure_impact": "8 h (heure de Paris), PIB britannique : une croissance faible pèserait sur la livre. 14 h 30, inscriptions au chômage américaines (195 000 attendues) : un marché du travail solide conforterait la hausse de taux de décembre. 16 h, ventes de logements anciens et Michael Barr (Fed). Après la clôture américaine, Cisco et Applied Materials : nouveau test pour la tech. À tout moment, une annonce du conseil de Nvidia ferait bouger le Nasdaq.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "Tech is under pressure again. Nvidia fell more than 8 % after the close, Taiwan and Tokyo are lower and Nasdaq futures are down about 1 %. Europe should open higher.",
+    "fr": "La tech est de nouveau sous pression. Nvidia a chuté de plus de 8 % après la clôture, Taïwan et Tokyo reculent et les contrats sur le Nasdaq perdent environ 1 %. L'Europe devrait ouvrir en hausse."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "Yesterday Wall Street bounced: the S&P 500 gained 1.3 % to 7,619 and the Nasdaq 1.6 %, led by CoreWeave, up almost 25 %. The VIX fell 10 % to 17.5. Then, after the bell, Nvidia's board met to decide the future of its CEO, Jensen Huang.",
+    "fr": "Hier, Wall Street a rebondi : le S&P 500 a gagné 1,3 % à 7 619 points et le Nasdaq 1,6 %, menés par CoreWeave, en hausse de près de 25 %. Le VIX a reculé de 10 % à 17,5. Puis, après la clôture, le conseil de Nvidia s'est réuni pour décider de l'avenir de son PDG, Jensen Huang."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "CoreWeave raised its revenue outlook, a sign that AI demand is still strong. But Nvidia faces a governance crisis and two brokers have slashed their targets. Meanwhile the Fed sounds hawkish and the dollar is at its highest since spring 2025.",
+    "fr": "CoreWeave a relevé sa prévision de chiffre d'affaires, signe que la demande d'IA reste forte. Mais Nvidia traverse une crise de gouvernance et deux courtiers ont fortement réduit leur objectif. En parallèle, la Fed reste offensive et le dollar est au plus haut depuis le printemps 2025."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "Lower volatility means slightly less generous coupons on new index autocalls. Clients with Nvidia in a worst-of basket should watch their barriers, and rates near 5 % keep capital protected notes attractive.",
+    "fr": "Une volatilité plus basse rend les coupons des nouveaux autocalls sur indices un peu moins généreux. Les clients avec Nvidia dans un panier worst-of doivent surveiller leurs barrières, et des taux proches de 5 % gardent les produits à capital protégé attractifs."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "UK growth at 8 am, US jobless claims at 2.30 pm, Cisco and Applied Materials tonight, and any news from Nvidia's board.",
+    "fr": "La croissance britannique à 8 h, les inscriptions au chômage américaines à 14 h 30, Cisco et Applied Materials ce soir, et toute annonce du conseil de Nvidia."
+   }
+  ],
+  "a_verifier": "Nvidia après la clôture : « plus de 8 % » (Reuters), environ 8 % (CNBC via Eurasia), 8,6 % (MacObserver), jusqu'à 10 % (Saxo) ; aucune décision du conseil connue à la rédaction, à vérifier avant le pitch. Euro Stoxx 50 : 6 390,90 (+1,00 %) ou 6 393,39 (+1,04 %) selon deux dépêches Ad-hoc-news ; les slides affichent « ≈ 6 391 » et « +1,0 % ». EUR/USD : 1,1088 (−0,67 %, CappNotes) ou 1,1077 (Rio Times) ; les slides affichent « ≈ 1,108 » et « baisse ». Taux à 10 ans : marché fermé mercredi, dernière clôture 4,98 % (CappNotes) ou 4,99 % (Saxo) ; les slides affichent « ≈ 5 % ». Asie ce matin : Nikkei −0,8 %, Taïwan −2,8 % selon Reuters seul (Saxo : Kospi +0,2 % à l'ouverture) ; non chiffrés sur les slides. Contrats européens +0,4 % selon Reuters seul. Dollar index au plus haut depuis avril 2025 (Reuters) ou mai 2025 (Saxo). Prix à la production américains : annoncés pour aujourd'hui dans le carnet d'hier, absents des agendas consultés ; à vérifier.",
+  "sources": [
+   "CappNotes, Closing Look du 11 novembre : cappnotes.substack.com/p/closing-look-wednesday-november-11",
+   "TheStreet, marchés du 11 novembre : thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026",
+   "Eurasia Business News, Nvidia après la clôture : eurasiabusinessnews.com/2026/11/12/stock-market-today-nvidia-stock-slides-8-after-hours-as-board-weighs-jensen-huangs-future/",
+   "Reuters, Morning Bid du 12 novembre : investing.com/news/economy-news/morning-bid-jensen-hangs-on-as-nvidia-tumbles-5020411",
+   "Saxo, Asia Market Quick Take du 12 novembre : home.saxo/en-mena/content/articles/macro/asia-market-quick-take--12-november-2026-12112026",
+   "Ad-hoc-news, clôtures de l'Euro Stoxx 50 du 11 novembre : ad-hoc-news.de (articles 70493734 et 70493881)",
+   "The Star (Reuters), pétrole du 11 novembre : thestar.com.my/business/2026/11/12/oil-rises-1-as-iran-vows-to-retain-enriched-uranium",
+   "Rio Times, briefing du 12 novembre ; TechFlow, agenda du 12 novembre"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "S&P 500 · mercredi",
+   "figure": "+1,3 %",
+   "title": "Nvidia rechute",
+   "subtitle": "La tech rebondit, puis décroche le soir."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "La tech recule",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Taïwan",
+        "dir": "down",
+        "value": "En baisse"
+       },
+       {
+        "label": "Tokyo",
+        "dir": "down",
+        "value": "En baisse"
+       },
+       {
+        "label": "Nasdaq",
+        "dir": "down",
+        "value": "≈ −1 %"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Contrats à terme · Europe en hausse"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de mercredi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 619",
+        "change": "+1,31 %",
+        "dir": "up"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "≈ 6 391",
+        "change": "+1,0 %",
+        "dir": "up"
+       },
+       {
+        "label": "EUR/USD",
+        "level": "≈ 1,108",
+        "change": "baisse",
+        "dir": "down"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "≈ 5 %",
+        "change": "fermé",
+        "dir": "flat"
+       },
+       {
+        "label": "Brent",
+        "level": "92,76 $",
+        "change": "+1,39 %",
+        "dir": "up"
+       },
+       {
+        "label": "VIX",
+        "level": "17,49",
+        "change": "−10,12 %",
+        "dir": "down",
+        "highlight": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "La peur reflue",
+    "title_size": 104,
+    "gap": 48,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "−10,1 %",
+      "dir": "down",
+      "subtitle": "VIX, mercredi"
+     },
+     {
+      "type": "range",
+      "dir": "down",
+      "unit": "",
+      "points": [
+       {
+        "label": "Mardi",
+        "value": 19.46,
+        "display": "19,46",
+        "role": "before"
+       },
+       {
+        "label": "Mercredi",
+        "value": 17.49,
+        "display": "17,49",
+        "role": "main"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Les actions mercredi",
+    "title": "La tech repart",
+    "title_size": 104,
+    "gap": 56,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Dow Jones",
+        "pct": 0.49,
+        "decimals": 2
+       },
+       {
+        "label": "S&P 500",
+        "pct": 1.31,
+        "decimals": 2
+       },
+       {
+        "label": "Nasdaq",
+        "pct": 1.6,
+        "decimals": 2
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Euro Stoxx 50 : +1,0 %"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi la tech monte",
+    "title": "CoreWeave rassure",
+    "title_size": 100,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "+24,7 %",
+      "dir": "up",
+      "subtitle": "CoreWeave, mercredi"
+     },
+     {
+      "type": "box",
+      "style": "good",
+      "label": "Signal",
+      "text": "La demande d'IA reste forte"
+     }
+    ]
+   },
+   {
+    "kicker": "Le soir, après la clôture",
+    "title": "Nvidia décroche",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "box",
+      "style": "alert",
+      "label": "Nvidia",
+      "text": "Plus de 8 % de baisse"
+     },
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Cause",
+      "text": "Le conseil discute de l'avenir du PDG"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi le dollar monte",
+    "title": "Fed offensive",
+    "title_size": 112,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "box",
+      "style": "blue",
+      "label": "Fed",
+      "text": "Hausse de décembre entièrement anticipée"
+     },
+     {
+      "type": "box",
+      "style": "plain",
+      "label": "Dollar",
+      "text": "Au plus haut depuis le printemps 2025"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Coupons en baisse",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "La peur reflue",
+       "Options moins chères",
+       "Autocalls sur indices moins rémunérés"
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Paniers avec Nvidia : surveiller les barrières"
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 56,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "8 h",
+        "label": "PIB britannique"
+       },
+       {
+        "time": "14 h 30",
+        "label": "Chômage US (inscriptions)"
+       },
+       {
+        "time": "Soir",
+        "label": "Cisco et Applied Materials"
+       },
+       {
+        "time": "Journée",
+        "label": "Décision du conseil de Nvidia"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "Reuters, Saxo, CappNotes, Ad-hoc-news"
+  }
+ },
+ "post": {
+  "hook": "La tech rebondit, puis Nvidia rechute : Wall Street a gagné 1,3 % mercredi grâce à CoreWeave, avant que Nvidia ne perde plus de 8 % après la clôture. Le conseil discute de l'avenir de Jensen Huang.",
+  "jour_cloture": "mercredi",
+  "rendez_vous_court": "8 h : PIB britannique. 14 h 30 : inscriptions au chômage américaines. Après la clôture américaine : Cisco et Applied Materials. Dans la journée : décision attendue du conseil de Nvidia.",
+  "hashtags": "#bourse #marchésfinanciers #nvidia #finance #macro"
+ }
+}
