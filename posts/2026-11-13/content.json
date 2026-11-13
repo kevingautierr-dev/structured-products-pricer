@@ -1,0 +1,352 @@
+{
+ "date": "2026-11-13",
+ "carnet": {
+  "date_label": "Nov 13, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 592,40",
+    "variation": "−0,35 % (jeu.)",
+    "plus_gros": "non",
+    "commentaire": "Nasdaq −0,39 % à 25 366,09, Dow −0,36 % à 52 297,09, Russell 2000 −1,66 %. Nvidia −4,34 % après avoir perdu jusqu'à 14 % en séance. Ce matin, contrats S&P 500 entre +0,3 % et +0,4 %, Nasdaq 100 entre +0,4 % et +0,6 % selon les sources."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "6 398,98",
+    "variation": "+0,09 % (jeu.)",
+    "plus_gros": "non",
+    "commentaire": "Quatrième hausse d'affilée, plus haut de deux mois. Burberry +8 % après ses résultats ; le secteur tech européen recule de 0,5 % (ASML, BE Semiconductor) avec Nvidia. Une seule source pour la clôture."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "1,1054",
+    "variation": "−0,32 % (jeu.)",
+    "plus_gros": "non",
+    "commentaire": "Plus bas depuis avril 2025. Dollar index à 103,19 (+0,27 %), au plus haut depuis 18 à 19 mois selon les sources. Environ 1,1059 ce matin."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "environ 5,1 %",
+    "variation": "+12 à +14 pb (jeu.)",
+    "plus_gros": "non",
+    "commentaire": "Sources en désaccord : 5,10 % (CappNotes) ou 5,13 % (Yahoo Finance). De retour au-dessus de 5 % pour la première fois depuis le 22 octobre. Le 2 ans monte d'environ 15 pb."
+   },
+   {
+    "label": "Brent",
+    "niveau": "95,82 $",
+    "variation": "+3,30 % (jeu.)",
+    "plus_gros": "oui",
+    "commentaire": "Plus forte variation des 6 chiffres hors VIX, confirmée par deux sources : attaques houthistes sur des sites pétroliers saoudiens. Environ 95,7 $ ce matin (−0,1 %)."
+   },
+   {
+    "label": "VIX",
+    "niveau": "18,70",
+    "variation": "+6,92 % (jeu.)",
+    "plus_gros": "non",
+    "commentaire": "Rebond de la peur après la démission du PDG de Nvidia, mais loin des niveaux de stress."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "Jensen Huang quitte la direction de Nvidia ; l'action perd jusqu'à 14 % en séance et termine à −4,34 %.",
+    "contexte": "Colette Kress, directrice financière, assure l'intérim. Le départ suit une enquête du conseil sur sa vie privée ; le Sénat veut l'entendre. AMD (+5,86 %) et Broadcom (+5,54 %) en profitent.",
+    "effet": "Les paniers « worst-of » avec Nvidia se rapprochent de leurs barrières. La volatilité du titre gonfle les coupons, mais un sous-jacent indiciel reste plus prudent.",
+    "source": "CappNotes, Yahoo Finance, Eurasia Business News, Reuters (Morning Bid)"
+   },
+   {
+    "titre": "Le taux américain à 10 ans repasse au-dessus de 5 % et l'euro tombe à 1,1054 dollar, au plus bas depuis avril 2025.",
+    "contexte": "Une hausse de la Fed en décembre est entièrement anticipée et une hausse de 50 pb est discutée après une inflation d'octobre plus forte que prévu. L'or perd 2,9 %.",
+    "effet": "Des taux au-dessus de 5 % rendent attractifs le capital protégé et les reverse convertibles en dollars ; pour un client en euros, prévoir une couverture du change.",
+    "source": "CappNotes, Saxo, TPFx, Reuters (Morning Bid)"
+   },
+   {
+    "titre": "Le Brent bondit de 3,3 % à 95,82 $ après des attaques houthistes contre des installations pétrolières saoudiennes.",
+    "contexte": "Les Houthis revendiquent des frappes sur l'oléoduc Est-Ouest, à Yanbu et à Riyad. L'Iran signale quatre pétroliers touchés dans le détroit d'Ormuz.",
+    "effet": "La volatilité du pétrole reste forte : les coupons des autocalls sur pétrolières (TotalEnergies, Eni) restent élevés.",
+    "source": "Nation Thailand (Reuters), Eurasia Business News, CappNotes"
+   }
+  ],
+  "geopolitique": "Donald Trump affirme que les États-Unis n'ont « pas besoin d'un accord avec l'Iran ». Téhéran exige la fin du blocus naval et des sanctions. Les Houthis visent des sites pétroliers saoudiens. À Washington, le Congrès penche vers des limites plus strictes aux exportations de puces vers la Chine.",
+  "rendez_vous": "Aujourd'hui, inflation française d'octobre (chiffre définitif), PIB de la zone euro au troisième trimestre (première estimation) et emploi, rapport mensuel de l'AIE sur le pétrole. Aux États-Unis, prix à la production d'octobre et cinq interventions de membres de la Fed (Susan Collins, Lorie Logan, Michelle Bowman, Mary Daly, Philip Jefferson). Résultats de Generali en Europe et des grandes banques japonaises (MUFG, Sumitomo Mitsui, Mizuho). Toute nouvelle sur la succession à la tête de Nvidia.",
+  "heure_impact": "10 h (heure de Paris), rapport de l'AIE : une demande révisée à la baisse calmerait le pétrole. 11 h, PIB de la zone euro (+0,4 % attendu sur le trimestre) : un chiffre solide soutiendrait l'euro. 14 h 30, prix à la production américains (+0,4 % attendu sur un mois, +0,3 % hors éléments volatils) : un chiffre fort renforcerait le scénario d'une hausse de 50 pb en décembre et pousserait les taux. De 15 h 10 à 18 h, Susan Collins, Lorie Logan, Michelle Bowman et Mary Daly ; vers 1 h, Philip Jefferson.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "Markets are steadier this morning after Nvidia's leadership shock. Tokyo is higher, US futures are up a few tenths of a percent, and oil is flat near 96 dollars.",
+    "fr": "Les marchés se stabilisent ce matin après le choc à la tête de Nvidia. Tokyo monte, les contrats à terme américains gagnent quelques dixièmes de pour cent, et le pétrole est stable près de 96 dollars."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "Yesterday Jensen Huang resigned as Nvidia's CEO. The stock fell as much as 14 % before closing down 4.3 %, and the S&P 500 lost 0.35 % to 7,592. At the same time, the US 10-year yield climbed back above 5 %, and Brent jumped 3.3 % to 95.8 dollars.",
+    "fr": "Hier, Jensen Huang a quitté la direction de Nvidia. L'action a perdu jusqu'à 14 % avant de terminer en baisse de 4,3 %, et le S&P 500 a cédé 0,35 % à 7 592 points. Dans le même temps, le taux américain à 10 ans est repassé au-dessus de 5 %, et le Brent a bondi de 3,3 % à 95,8 dollars."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "Nvidia's board investigated Huang's private life, and Washington now wants answers. Rates are rising because markets fully price a Fed hike in December, maybe 50 basis points. Oil rose on Houthi attacks on Saudi energy sites.",
+    "fr": "Le conseil de Nvidia enquêtait sur la vie privée de Jensen Huang, et Washington demande maintenant des comptes. Les taux montent car les marchés anticipent entièrement une hausse de la Fed en décembre, peut-être de 50 points de base. Le pétrole a monté après des attaques houthistes contre des sites saoudiens."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "With yields above 5 %, capital protected notes and dollar reverse convertibles look very attractive, with a euro hedge for euro clients. Clients holding Nvidia in a worst-of basket should check their barriers.",
+    "fr": "Avec des taux au-dessus de 5 %, les produits à capital protégé et les reverse convertibles en dollars sont très attractifs, avec une couverture en euros pour les clients en euros. Les clients avec Nvidia dans un panier worst-of doivent vérifier leurs barrières."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "Euro zone growth at 11 am, US producer prices at 2.30 pm, then five Fed speakers.",
+    "fr": "La croissance de la zone euro à 11 h, les prix à la production américains à 14 h 30, puis cinq membres de la Fed."
+   }
+  ],
+  "a_verifier": "Taux US à 10 ans : 5,10 % (CappNotes, +12 pb) ou 5,13 % (Yahoo Finance, contre 4,99 %) ; les slides affichent « ≈ 5,1 % » et « hausse ». Euro Stoxx 50 : clôture de 6 398,98 (+0,09 %) selon une seule source (dpa-AFX via Ariva), cohérente avec la clôture de mercredi (6 393,39). VIX : 18,70 (+6,92 %) selon CappNotes et le bandeau non daté de Yahoo Finance ; une autre source donne +8,52 % en séance. Asie ce matin : Nikkei +0,8 %, +1,5 % ou +1,6 % et Kospi −0,5 % ou +1,3 % selon les sources ; non chiffrés sur les slides. Contrats européens ce matin : aucune source trouvée. Inflation française : annoncée par Reuters, heure non confirmée. Dollar au plus haut depuis 18 ou 19 mois selon les sources.",
+  "sources": [
+   "CappNotes, Closing Look du 12 novembre : cappnotes.substack.com/p/closing-look-thursday-november-12",
+   "Yahoo Finance, marchés du 12 novembre : finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-131805045.html",
+   "Eurasia Business News, clôtures du 12 novembre : eurasiabusinessnews.com/2026/11/13/stock-market-today-november-12-2026-dow-sp-500-and-nasdaq-fall-after-jensen-huang-resigns/",
+   "Ariva (dpa-AFX), clôture européenne du 12 novembre : ariva.de/news/roundup-aktien-europa-schluss-boersen-verhalten-im-12205679",
+   "Nation Thailand (Reuters), pétrole du 12 novembre : nationthailand.com/news/world/40073442",
+   "Saxo, Asia Market Quick Take du 13 novembre : home.saxo/en-sg/content/articles/macro/asia-market-quick-take--13-november-2026-13112026",
+   "Reuters, Morning Bid du 13 novembre (Global Banking and Finance) : globalbankingandfinance.com/morning-bid-scandal-topples-ai-star/",
+   "AP, Asie du 13 novembre (News4Jax) ; TPFx, Market Highlights du 13 novembre ; HDFC Sky ; ActionForex, agenda du 13 novembre"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "Nvidia · jeudi",
+   "figure": "−4,3 %",
+   "title": "Choc Nvidia",
+   "subtitle": "Jensen Huang part. L'action a perdu jusqu'à 14 % en séance."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "Ça se stabilise",
+    "title_size": 100,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Tokyo",
+        "dir": "up",
+        "value": "En hausse"
+       },
+       {
+        "label": "Contrats US",
+        "dir": "up",
+        "value": "En hausse"
+       },
+       {
+        "label": "Brent",
+        "dir": "flat",
+        "value": "≈ 95,7 $"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Après le choc Nvidia"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de jeudi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 592",
+        "change": "−0,35 %",
+        "dir": "down"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "6 399",
+        "change": "+0,1 %",
+        "dir": "up"
+       },
+       {
+        "label": "EUR/USD",
+        "level": "1,105",
+        "change": "−0,3 %",
+        "dir": "down"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "≈ 5,1 %",
+        "change": "hausse",
+        "dir": "up"
+       },
+       {
+        "label": "Brent",
+        "level": "95,82 $",
+        "change": "+3,3 %",
+        "dir": "up",
+        "highlight": true
+       },
+       {
+        "label": "VIX",
+        "level": "18,70",
+        "change": "+6,9 %",
+        "dir": "up"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "Nvidia vacille",
+    "title_size": 104,
+    "gap": 48,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "−4,3 %",
+      "dir": "down",
+      "subtitle": "Clôture, après −14 % en séance"
+     },
+     {
+      "type": "box",
+      "style": "alert",
+      "label": "Départ",
+      "text": "Jensen Huang quitte la direction"
+     }
+    ]
+   },
+   {
+    "kicker": "Les gagnants",
+    "title": "Les rivaux montent",
+    "title_size": 100,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "AMD",
+        "pct": 5.86,
+        "decimals": 1
+       },
+       {
+        "label": "Broadcom",
+        "pct": 5.54,
+        "decimals": 1
+       },
+       {
+        "label": "Nvidia",
+        "pct": -4.34,
+        "decimals": 1
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Intérim : Colette Kress"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi les taux montent",
+    "title": "Fed offensive",
+    "title_size": 112,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "> 5 %",
+      "dir": "up",
+      "subtitle": "Taux américain à 10 ans"
+     },
+     {
+      "type": "box",
+      "style": "blue",
+      "label": "Décembre",
+      "text": "Hausse de taux entièrement anticipée"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi le pétrole monte",
+    "title": "Golfe sous tension",
+    "title_size": 100,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "+3,3 %",
+      "dir": "up",
+      "subtitle": "Brent, à 95,82 $"
+     },
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Cause",
+      "text": "Attaques houthistes sur l'Arabie saoudite"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Taux à 5 %",
+    "title_size": 112,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "Taux au-dessus de 5 %",
+       "Capital protégé attractif",
+       "Couvrir le dollar"
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Paniers avec Nvidia : vérifier les barrières"
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 56,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "11 h",
+        "label": "PIB zone euro"
+       },
+       {
+        "time": "14 h 30",
+        "label": "Prix à la production US"
+       },
+       {
+        "time": "15 h-18 h",
+        "label": "Quatre membres de la Fed"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "Reuters, AP, Saxo, CappNotes, dpa-AFX"
+  }
+ },
+ "post": {
+  "hook": "Séisme chez Nvidia : Jensen Huang quitte la direction, l'action a perdu jusqu'à 14 % jeudi avant de limiter la baisse à 4,3 %. Le taux américain à 10 ans repasse au-dessus de 5 % et le Brent bondit de 3,3 %.",
+  "jour_cloture": "jeudi",
+  "rendez_vous_court": "11 h : PIB de la zone euro. 14 h 30 : prix à la production américains. De 15 h 10 à 18 h : Susan Collins, Lorie Logan, Michelle Bowman et Mary Daly (Fed).",
+  "hashtags": "#bourse #marchésfinanciers #nvidia #finance #macro"
+ }
+}
