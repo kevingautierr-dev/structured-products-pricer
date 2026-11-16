@@ -1,0 +1,374 @@
+{
+ "date": "2026-11-16",
+ "carnet": {
+  "date_label": "Nov 16, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 561,67",
+    "variation": "−0,40 % (ven.)",
+    "plus_gros": "non",
+    "commentaire": "Nasdaq −0,91 % à 25 136,27, Dow +0,10 % à 52 347,55, Russell 2000 −0,31 %. Sur la semaine : S&P 500 +2,51 %, Nasdaq +2,27 %, Dow +2,07 %. Ce matin, contrats américains hésitants : de −0,2 % à +0,5 % selon les sources et l'heure."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "6 386,86",
+    "variation": "−0,19 % (ven.)",
+    "plus_gros": "non",
+    "commentaire": "Pause après un plus haut depuis fin août jeudi ; +3,5 % sur la semaine, la meilleure depuis avril. Richemont près de −4 %, AMS-Osram −9 %, Aviva +3,4 %, Enel en hausse."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "1,1020",
+    "variation": "−0,30 % (ven.)",
+    "plus_gros": "non",
+    "commentaire": "Dollar index à 103,43 (+0,25 %), au plus haut depuis avril 2025 ; environ +1 % sur la semaine. Environ 1,1017 ce matin."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "5,15 %",
+    "variation": "+5 pb (ven.)",
+    "plus_gros": "non",
+    "commentaire": "Jusqu'à 5,17 % en séance. Environ +30 pb sur la semaine, le plus fort bond hebdomadaire depuis avril 2025. Taux à 2 ans à 4,88 % (+2 pb). Environ 5,14 % ce matin."
+   },
+   {
+    "label": "Brent",
+    "niveau": "95,84 $",
+    "variation": "+0,02 % (ven.)",
+    "plus_gros": "non",
+    "commentaire": "Deuxième baisse hebdomadaire d'affilée (environ −2,5 %), l'AIE voyant un premier surplus mondial depuis la guerre avec l'Iran. Ce matin entre 94,9 $ et 95,7 $ selon les sources, en baisse."
+   },
+   {
+    "label": "VIX",
+    "niveau": "19,30",
+    "variation": "+3,21 % (ven.)",
+    "plus_gros": "oui",
+    "commentaire": "Plus forte variation des 6 chiffres en pourcentage, sur une séance par ailleurs calme. Le marché des options prévoit un mouvement d'environ 7 % pour Nvidia le jour des résultats."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "Les semi-conducteurs rechutent avant les résultats de Nvidia mardi : AMD −8,75 %, Nvidia −2,01 %, Nasdaq −0,91 %.",
+    "contexte": "Sixième baisse hebdomadaire d'affilée pour Nvidia (environ −12 %), dégradée par HSBC et Truist. Colette Kress assure l'intérim ; le FT évoque un possible retour de Jensen Huang. Chiffre d'affaires attendu mardi : environ 109 Md$.",
+    "effet": "Mouvement implicite d'environ 7 % sur les résultats : coupons tech plus généreux à l'émission, mais les clients en « worst-of » avec Nvidia ou AMD doivent surveiller leurs barrières.",
+    "source": "CappNotes, Yahoo Finance, Stocktitan, Reuters"
+   },
+   {
+    "titre": "Le taux américain à 10 ans termine à 5,15 % (+5 pb), après environ +30 pb sur la semaine ; l'euro recule à 1,1020 dollar.",
+    "contexte": "Prix à la production d'octobre : +0,3 % sur un mois (0,4 % attendu), +6,5 % sur un an, un record depuis novembre 2022. Une hausse de 25 pb en décembre est quasi entièrement anticipée.",
+    "effet": "Capital protégé et reverse convertibles en dollars restent attractifs ; pour un client en euros, couvrir le change.",
+    "source": "CappNotes, Yahoo Finance, Reuters, Admiral Markets"
+   },
+   {
+    "titre": "Le Brent termine stable à 95,84 $ mais aligne une deuxième baisse hebdomadaire, d'environ 2,5 %.",
+    "contexte": "L'AIE prévoit un retour au surplus mondial au quatrième trimestre, le premier depuis la guerre avec l'Iran.",
+    "effet": "Bon pour l'inflation. Les autocalls sur pétrolières (TotalEnergies, Eni) s'éloignent du rappel, mais leurs coupons restent élevés à l'émission.",
+    "source": "EnergyNow, CappNotes, Nation Thailand (Reuters), Invezz"
+   }
+  ],
+  "geopolitique": "Selon les Gardiens de la révolution, deux pétroliers ont heurté des mines dans le détroit d'Ormuz. Des drones houthistes ont été interceptés au-dessus de Riyad. Jeudi, Donald Trump rencontre Xi Jinping et Vladimir Putin à l'APEC (Shenzhen) : désarmement nucléaire et guerre avec l'Iran. Ce matin, contraction de l'économie japonaise et données chinoises décevantes.",
+  "rendez_vous": "Aujourd'hui, indice manufacturier de la Fed de New York (Empire State) et trois interventions de la Fed : Michael Barr, John Williams et le président Kevin Warsh, qui parle d'IA et de productivité à San Francisco. Résultats de Baidu et Tyson Foods avant l'ouverture. Cette semaine : ventes au détail américaines et résultats de Nvidia mardi, compte rendu de la Fed mercredi, introduction en Bourse d'Anthropic et résultats de Walmart jeudi.",
+  "heure_impact": "11 h (heure de Paris), Michael Barr (Fed). 14 h 30, Empire State (25,5 le mois dernier) : un repli confirmerait un ralentissement de l'industrie. 15 h 05, John Williams. 18 h, Kevin Warsh : il devrait peu parler de taux, mais tout mot sur l'inflation ou décembre ferait bouger le 10 ans et le dollar. Mardi après la clôture américaine, résultats de Nvidia, le grand test de la semaine pour la tech.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "A nervous start to a big week for tech. Asia is lower, with chipmakers under pressure in Tokyo, Seoul and Taipei, US futures are hesitant, and Brent is slipping towards 95 dollars.",
+    "fr": "Un début nerveux pour une grande semaine pour la tech. L'Asie recule, avec les fabricants de puces sous pression à Tokyo, Séoul et Taipei, les contrats à terme américains hésitent, et le Brent glisse vers 95 dollars."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "On Friday chip stocks fell again: AMD lost almost 9 % and Nvidia 2 %, so the Nasdaq dropped 0.9 % and the S&P 500 0.4 % to 7,562. At the same time the US 10-year yield closed at 5.15 %, about 30 basis points higher over the week.",
+    "fr": "Vendredi, les valeurs de puces ont encore reculé : AMD a perdu près de 9 % et Nvidia 2 %, si bien que le Nasdaq a cédé 0,9 % et le S&P 500 0,4 % à 7 562 points. Dans le même temps, le taux américain à 10 ans a terminé à 5,15 %, environ 30 points de base de plus sur la semaine."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "Nvidia has no permanent CEO and reports on Tuesday, so investors are cutting risk. Rates are rising because producer prices are up 6.5 % over a year and the Fed is expected to hike in December.",
+    "fr": "Nvidia n'a pas de PDG en titre et publie ses résultats mardi, donc les investisseurs réduisent leurs risques. Les taux montent car les prix à la production progressent de 6,5 % sur un an et la Fed devrait relever ses taux en décembre."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "Options price a 7 % move on Nvidia's results, so coupons on new tech autocalls are generous, but clients in worst-of baskets should watch their barriers. With yields above 5 %, capital protected notes stay attractive.",
+    "fr": "Les options anticipent un mouvement de 7 % sur les résultats de Nvidia : les coupons des nouveaux autocalls tech sont généreux, mais les clients en panier worst-of doivent surveiller leurs barrières. Avec des taux au-dessus de 5 %, le capital protégé reste attractif."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "The Empire State survey at 2.30 pm, Fed Chair Warsh at 6 pm, and Nvidia tomorrow night.",
+    "fr": "L'enquête Empire State à 14 h 30, le président de la Fed Kevin Warsh à 18 h, et Nvidia demain soir."
+   }
+  ],
+  "a_verifier": "Asie ce matin : Nikkei −1,6 % (AP, HDFC Sky) ou −0,6 % (Reuters, plus tôt), Kospi −2,8 % (AP) ou −2,2 % (HDFC Sky), Taiex −4,1 % (AP seul) ; non chiffrés sur les slides. Contrats américains ce matin : +0,3 % à +0,5 % (Reuters) contre −0,1 % à −0,2 % (HDFC Sky) ; « hésitants » sur les slides. Brent ce matin : 94,91 $ (AP), 95,69 $ (Reuters) ou environ 95 $ (HDFC Sky). Contrats européens ce matin : aucune source trouvée. EUR/USD vendredi : 1,1020 (CappNotes), 1,1023 (Forexuro) ou 1,1029 (AP, heure non précisée). Euro Stoxx 50 : 6 386,86 (−0,19 %) selon dpa-AFX et Ad-hoc-news. Heure de Michael Barr (11 h) et prévision de l'Empire State (17,6) : une seule source (FXEmpire). Contraction du PIB japonais : chiffre non trouvé.",
+  "sources": [
+   "CappNotes, Closing Look du 13 novembre : cappnotes.substack.com/p/closing-look-friday-november-13-2026",
+   "Yahoo Finance, marchés du 13 novembre : finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
+   "TheStreet et Eurasia Business News, clôtures du 13 novembre",
+   "Ariva (dpa-AFX), clôture européenne du 13 novembre : ariva.de/news/roundup-aktien-europa-schluss-aufwaertsdrang-erlahmt-nach-12207029",
+   "EnergyNow, pétrole du 13 novembre : energynow.com/2026/11/oil-prices-fall-for-second-straight-week-as-global-supply-surplus-emerges-wti-closes-at-88-56-brent-at-95-84/",
+   "Reuters (Yahoo Finance), Asie du 16 novembre : finance.yahoo.com/markets/stocks/articles/asian-shares-fall-nvidia-earnings-013536353.html",
+   "AP (WSLS), Asie du 16 novembre ; HDFC Sky, marchés du 16 novembre",
+   "FXEmpire, semaine du 16 au 20 novembre ; Admiral Markets, discours de Kevin Warsh ; Investing.com, agenda du 16 novembre ; Forexuro"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "Nasdaq · vendredi",
+   "figure": "−0,9 %",
+   "title": "Semaine Nvidia",
+   "subtitle": "Les puces rechutent avant les résultats de mardi."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "Asie en repli",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Tokyo",
+        "dir": "down",
+        "value": "En baisse"
+       },
+       {
+        "label": "Séoul",
+        "dir": "down",
+        "value": "En baisse"
+       },
+       {
+        "label": "Brent",
+        "dir": "down",
+        "value": "≈ 95 $"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Contrats US hésitants · Nvidia mardi"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de vendredi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 562",
+        "change": "−0,4 %",
+        "dir": "down"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "6 387",
+        "change": "−0,2 %",
+        "dir": "down"
+       },
+       {
+        "label": "EUR/USD",
+        "level": "1,102",
+        "change": "−0,3 %",
+        "dir": "down"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "5,15 %",
+        "change": "+5 pb",
+        "dir": "up"
+       },
+       {
+        "label": "Brent",
+        "level": "95,84 $",
+        "change": "0,0 %",
+        "dir": "flat"
+       },
+       {
+        "label": "VIX",
+        "level": "19,30",
+        "change": "+3,2 %",
+        "dir": "up",
+        "highlight": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "Les puces rechutent",
+    "title_size": 100,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "AMD",
+        "pct": -8.75,
+        "decimals": 1
+       },
+       {
+        "label": "Nvidia",
+        "pct": -2.01,
+        "decimals": 1
+       },
+       {
+        "label": "Nasdaq",
+        "pct": -0.91,
+        "decimals": 1
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Nvidia : 6e semaine de baisse d'affilée"
+     }
+    ]
+   },
+   {
+    "kicker": "Les indices",
+    "title": "Wall Street partagée",
+    "title_size": 96,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Dow Jones",
+        "pct": 0.1,
+        "decimals": 1
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "pct": -0.19,
+        "decimals": 1
+       },
+       {
+        "label": "S&P 500",
+        "pct": -0.4,
+        "decimals": 1
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Sur la semaine : S&P 500 +2,5 %"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi les taux montent",
+    "title": "Inflation tenace",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "5,15 %",
+      "dir": "up",
+      "subtitle": "Taux américain à 10 ans"
+     },
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Cause",
+      "text": "Prix à la production : +6,5 % sur un an"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi la tech hésite",
+    "title": "Nvidia mardi",
+    "title_size": 112,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "metrics",
+      "metrics": [
+       {
+        "small": "Chiffre d'affaires",
+        "label": "Attendu",
+        "value": "109 Md$"
+       },
+       {
+        "small": "Options",
+        "label": "Mouvement prévu",
+        "value": "± 7 %",
+        "tone": "down"
+       }
+      ]
+     },
+     {
+      "type": "box",
+      "style": "alert",
+      "label": "Sans PDG",
+      "text": "Intérim : Colette Kress"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Volatilité chère",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "Résultats de Nvidia",
+       "Volatilité plus chère",
+       "Coupons plus généreux"
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Paniers tech : surveiller les barrières"
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "14 h 30",
+        "label": "Industrie de New York"
+       },
+       {
+        "time": "18 h",
+        "label": "Kevin Warsh (Fed)"
+       },
+       {
+        "time": "Mardi",
+        "label": "Résultats de Nvidia"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "Reuters, AP, CappNotes, dpa-AFX, EnergyNow"
+  }
+ },
+ "post": {
+  "hook": "Semaine Nvidia : les valeurs de puces rechutent avant les résultats de mardi, AMD perd 8,75 % et le Nasdaq 0,9 % vendredi. Le taux américain à 10 ans termine à 5,15 %, environ 30 pb de plus sur la semaine.",
+  "jour_cloture": "vendredi",
+  "rendez_vous_court": "14 h 30 : indice manufacturier de New York (Empire State). 15 h 05 : John Williams. 18 h : Kevin Warsh, président de la Fed. Mardi soir : résultats de Nvidia.",
+  "hashtags": "#bourse #marchésfinanciers #nvidia #finance #macro"
+ }
+}
