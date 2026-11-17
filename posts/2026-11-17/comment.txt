@@ -1,0 +1,13 @@
+TROIS TITRES ÉCONOMIQUES
+
+1. La tech décroche avant Nvidia : Nasdaq −2,49 %, Micron −7,62 %, Intel −7,02 %, AMD −5,58 %, Nvidia −4,12 %. Le cabinet SemiAnalysis a réduit ses prévisions de dépenses en puces d'IA, Washington limite l'accès à distance des groupes chinois aux puces avancées, et le conseil de Nvidia n'envisagerait pas le retour de Jensen Huang. Le Nasdaq est en correction, à environ 10,9 % sous son sommet du 6 octobre.
+Effet pour un client ou un produit structuré : Les paniers « worst-of » sur les semi-conducteurs se rapprochent de leurs barrières. À l'émission, la volatilité plus chère rend les coupons plus généreux.
+
+2. Le Brent perd 3,55 % à 92,44 $, prolongeant deux semaines de baisse. Les flux par le détroit d'Ormuz sont presque revenus à leur niveau d'avant-guerre et l'AIE prévoit un surplus de 1,7 million de barils par jour au quatrième trimestre.
+Effet pour un client ou un produit structuré : Bon pour l'inflation. Les autocalls sur pétrolières (TotalEnergies, Eni) s'éloignent du rappel ; les coupons sur l'énergie restent élevés.
+
+3. Le VIX bondit de 18,7 % à 22,91 ; le taux à 10 ans recule à 5,12 %. Les options prévoient un mouvement d'environ 7,8 % pour Nvidia sur ses résultats. Les marchés anticipent toujours une hausse de 25 pb de la Fed en décembre.
+Effet pour un client ou un produit structuré : Avec des taux au-dessus de 5 %, le capital protégé et les reverse convertibles en dollars restent attractifs ; pour un client en euros, couvrir le change.
+
+GÉOPOLITIQUE
+Washington restreint l'accès à distance des entreprises chinoises aux puces et serveurs d'IA avancés, et s'est entendu avec ses alliés pour protéger les chaînes d'approvisionnement de l'IA face à la Chine. Donald Trump semble réticent à intensifier les frappes contre l'Iran, ce qui pèse sur le pétrole. Jeudi, sommet de l'APEC à Shenzhen.

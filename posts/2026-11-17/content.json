@@ -1,0 +1,388 @@
+{
+ "date": "2026-11-17",
+ "carnet": {
+  "date_label": "Nov 17, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 416,59",
+    "variation": "−1,92 % (lun.)",
+    "plus_gros": "non",
+    "commentaire": "Troisième séance de baisse d'affilée. Nasdaq −2,49 % à 24 509,76, Nasdaq 100 −2,67 %, Dow −1,41 % à 51 608,17, Russell 2000 −1,70 %. Ce matin, contrats américains quasi stables."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "6 354,48",
+    "variation": "−0,51 % (lun.)",
+    "plus_gros": "non",
+    "commentaire": "Siemens −2,45 %, Enel −1,79 %, Siemens Energy −1,75 %, Infineon −1,27 % ; Deutsche Telekom +1,50 %. Contrats sur l'Euro Stoxx 50 entre −0,5 % et −0,66 % ce matin selon les sources."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "1,0998",
+    "variation": "−0,21 % (lun.)",
+    "plus_gros": "non",
+    "commentaire": "Sources en désaccord (1,0998 ou 1,1009 à la clôture). Environ 1,100 ce matin. Dollar index vers 103,6, près de son plus haut depuis avril 2025."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "5,12 %",
+    "variation": "−3 pb (lun.)",
+    "plus_gros": "non",
+    "commentaire": "Les Treasuries profitent de la fuite vers la qualité et de la baisse du pétrole. Taux à 2 ans à 4,83 % (−5 pb). Stable à 5,12 % ce matin."
+   },
+   {
+    "label": "Brent",
+    "niveau": "92,44 $",
+    "variation": "−3,55 % (lun.)",
+    "plus_gros": "non",
+    "commentaire": "Les exportations du Moyen-Orient reviennent plus vite que prévu et l'AIE prévoit un surplus au quatrième trimestre. Environ 91,66 $ ce matin (−0,8 %)."
+   },
+   {
+    "label": "VIX",
+    "niveau": "22,91",
+    "variation": "+18,70 % (lun.)",
+    "plus_gros": "oui",
+    "commentaire": "Plus forte variation des 6 chiffres. Sources en désaccord : 22,91 (CappNotes, Yahoo Finance) ou 23,72 (The Weekend Spread)."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "La tech décroche avant Nvidia : Nasdaq −2,49 %, Micron −7,62 %, Intel −7,02 %, AMD −5,58 %, Nvidia −4,12 %.",
+    "contexte": "Le cabinet SemiAnalysis a réduit ses prévisions de dépenses en puces d'IA, Washington limite l'accès à distance des groupes chinois aux puces avancées, et le conseil de Nvidia n'envisagerait pas le retour de Jensen Huang. Le Nasdaq est en correction, à environ 10,9 % sous son sommet du 6 octobre.",
+    "effet": "Les paniers « worst-of » sur les semi-conducteurs se rapprochent de leurs barrières. À l'émission, la volatilité plus chère rend les coupons plus généreux.",
+    "source": "CappNotes, Yahoo Finance, The Weekend Spread, Bloomberg"
+   },
+   {
+    "titre": "Le Brent perd 3,55 % à 92,44 $, prolongeant deux semaines de baisse.",
+    "contexte": "Les flux par le détroit d'Ormuz sont presque revenus à leur niveau d'avant-guerre et l'AIE prévoit un surplus de 1,7 million de barils par jour au quatrième trimestre.",
+    "effet": "Bon pour l'inflation. Les autocalls sur pétrolières (TotalEnergies, Eni) s'éloignent du rappel ; les coupons sur l'énergie restent élevés.",
+    "source": "CappNotes, Bloomberg, HDFC Sky"
+   },
+   {
+    "titre": "Le VIX bondit de 18,7 % à 22,91 ; le taux à 10 ans recule à 5,12 %.",
+    "contexte": "Les options prévoient un mouvement d'environ 7,8 % pour Nvidia sur ses résultats. Les marchés anticipent toujours une hausse de 25 pb de la Fed en décembre.",
+    "effet": "Avec des taux au-dessus de 5 %, le capital protégé et les reverse convertibles en dollars restent attractifs ; pour un client en euros, couvrir le change.",
+    "source": "CappNotes, Reuters, The Weekend Spread"
+   }
+  ],
+  "geopolitique": "Washington restreint l'accès à distance des entreprises chinoises aux puces et serveurs d'IA avancés, et s'est entendu avec ses alliés pour protéger les chaînes d'approvisionnement de l'IA face à la Chine. Donald Trump semble réticent à intensifier les frappes contre l'Iran, ce qui pèse sur le pétrole. Jeudi, sommet de l'APEC à Shenzhen.",
+  "rendez_vous": "Aujourd'hui, enquête ZEW en Allemagne, chômage britannique, ventes au détail américaines d'octobre, résultats de Home Depot et Disney avant l'ouverture, puis de Nvidia après la clôture. Fed : Waller, Musalem, Hammack et Williams ; BCE : Lane et Cipollone. Mercredi : compte rendu de la Fed et prix de l'introduction en Bourse d'Anthropic. Jeudi : premières cotations d'Anthropic, résultats de Walmart, sommet de l'APEC.",
+  "heure_impact": "11 h (heure de Paris), ZEW allemand. 14 h 30, ventes au détail américaines : un chiffre solide conforterait la hausse de taux de la Fed en décembre. 20 h 25, John Williams (Fed). 22 h 20, résultats de Nvidia, les premiers sans Jensen Huang : les options prévoient un mouvement d'environ 7,8 %, un test pour toute la tech et pour les paniers de semi-conducteurs.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "Risk-off ahead of Nvidia. Tokyo and Seoul are down more than 1 %, European futures are about half a percent lower, US futures are flat and Brent is near 92 dollars.",
+    "fr": "Prudence avant Nvidia. Tokyo et Séoul perdent plus de 1 %, les contrats européens environ un demi-point, les contrats américains sont stables et le Brent tourne autour de 92 dollars."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "Yesterday the Nasdaq fell 2.5 % and the S&P 500 1.9 % to 7,417, led by chipmakers: Micron lost 7.6 %, Nvidia 4.1 %. Oil also fell: Brent lost 3.6 % to 92.4 dollars.",
+    "fr": "Hier, le Nasdaq a perdu 2,5 % et le S&P 500 1,9 % à 7 417 points, entraînés par les puces : Micron −7,6 %, Nvidia −4,1 %. Le pétrole a aussi reculé : le Brent a perdu 3,6 % à 92,4 dollars."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "An industry research firm cut its forecasts for AI chip spending, Washington tightened Chinese access to AI chips, and Nvidia reports tonight without its founder. Oil is falling as Middle East exports recover.",
+    "fr": "Un cabinet spécialisé a réduit ses prévisions de dépenses en puces d'IA, Washington a durci l'accès chinois aux puces, et Nvidia publie ce soir sans son fondateur. Le pétrole baisse avec la reprise des exportations du Moyen-Orient."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "The VIX jumped almost 19 %, so coupons on new autocalls are more generous. Clients in tech worst-of baskets should watch their barriers, with the Nasdaq in correction.",
+    "fr": "Le VIX a bondi de près de 19 % : les coupons des nouveaux autocalls sont plus généreux. Les clients en panier tech worst-of doivent surveiller leurs barrières, avec un Nasdaq en correction."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "US retail sales at 2.30 pm, John Williams at 8.25 pm, and Nvidia's results at 10.20 pm.",
+    "fr": "Les ventes au détail américaines à 14 h 30, John Williams à 20 h 25, et les résultats de Nvidia à 22 h 20."
+   }
+  ],
+  "a_verifier": "VIX : 22,91 (+18,70 %, CappNotes et Yahoo Finance) ou 23,72 (+4,42 points, The Weekend Spread) ; affiché « ≈ 23 » sur les slides. EUR/USD : 1,0998 (−0,21 %, CappNotes) ou 1,1009 (−0,1 %, The Weekend Spread) ; affiché « ≈ 1,10 » sans variation chiffrée. Taux à 10 ans : −3 pb (CappNotes, Yahoo) ou −4 pb (The Weekend Spread), AP donne 5,13 %. Contrats sur l'Euro Stoxx 50 ce matin : −0,5 % (Bloomberg) ou −0,66 % (Reuters). Asie ce matin : Kospi −1 % (AP), −1,4 % (Bloomberg) ou −2 % (Reuters) ; non chiffré sur les slides. Ventes au détail : consensus à +0,2 % (Gotrade) ou +0,6 % (CappNotes), non affiché. Une seule source pour : la note de SemiAnalysis, le Nasdaq à 10,9 % sous son sommet, l'Empire State de lundi (7,8 contre 18 attendu), l'heure de John Williams (20 h 25) et le mouvement implicite de 7,8 % sur Nvidia. Heures du ZEW (11 h) et de Home Depot non confirmées par une source du jour.",
+  "sources": [
+   "CappNotes, Closing Look du 16 novembre : cappnotes.substack.com/p/closing-look-monday-november-16-2026",
+   "Yahoo Finance (Motley Fool), marchés du 16 novembre : finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-16-222502139.html",
+   "The Weekend Spread, The Close du 16 novembre : theweekendspread.substack.com/p/the-close-monday-november-16-2026",
+   "finanzen.at, clôture de l'Euro Stoxx 50 du 16 novembre : finanzen.at/nachrichten/aktien/montagshandel-in-europa-euro-stoxx-50-liegt-zum-ende-des-montagshandels-im-minus-1036769842",
+   "Bloomberg (swissinfo), Markets Wrap du 17 novembre : swissinfo.ch/eng/asian-stocks-track-us-losses-before-nvidia-results:-markets-wrap/92391739",
+   "Reuters (Yahoo Finance), Asie du 17 novembre ; AP (News4Jax), Asie du 17 novembre",
+   "HDFC Sky, pétrole du 16 novembre ; Newsquawk, agenda du 17 novembre ; Gotrade, semaine du 16 novembre"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "Nasdaq · lundi",
+   "figure": "−2,5 %",
+   "title": "La tech décroche",
+   "subtitle": "Nvidia publie ce soir."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "Asie en repli",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Tokyo",
+        "dir": "down",
+        "value": "En baisse"
+       },
+       {
+        "label": "Séoul",
+        "dir": "down",
+        "value": "En baisse"
+       },
+       {
+        "label": "Contrats US",
+        "dir": "flat",
+        "value": "Stables"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Europe attendue en baisse · Nvidia ce soir"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de lundi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 417",
+        "change": "−1,9 %",
+        "dir": "down"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "6 354",
+        "change": "−0,5 %",
+        "dir": "down"
+       },
+       {
+        "label": "EUR/USD",
+        "level": "≈ 1,10",
+        "change": "Repli",
+        "dir": "down"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "5,12 %",
+        "change": "−3 pb",
+        "dir": "down"
+       },
+       {
+        "label": "Brent",
+        "level": "92,44 $",
+        "change": "−3,6 %",
+        "dir": "down"
+       },
+       {
+        "label": "VIX",
+        "level": "≈ 23",
+        "change": "> +18 %",
+        "dir": "up",
+        "highlight": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "Les puces chutent",
+    "title_size": 100,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Micron",
+        "pct": -7.62,
+        "decimals": 1
+       },
+       {
+        "label": "AMD",
+        "pct": -5.58,
+        "decimals": 1
+       },
+       {
+        "label": "Nvidia",
+        "pct": -4.12,
+        "decimals": 1
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Intel −7 % · Nasdaq 100 −2,7 %"
+     }
+    ]
+   },
+   {
+    "kicker": "Les indices",
+    "title": "Wall Street plonge",
+    "title_size": 96,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Euro Stoxx 50",
+        "pct": -0.51,
+        "decimals": 1
+       },
+       {
+        "label": "S&P 500",
+        "pct": -1.92,
+        "decimals": 1
+       },
+       {
+        "label": "Nasdaq",
+        "pct": -2.49,
+        "decimals": 1
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Dow Jones −1,4 % · 3e séance de baisse"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi la tech recule",
+    "title": "Doutes sur l'IA",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Dépenses",
+      "text": "Prévisions d'achats de puces d'IA revues en baisse"
+     },
+     {
+      "type": "box",
+      "style": "alert",
+      "label": "Chine",
+      "text": "Washington durcit l'accès aux puces avancées"
+     },
+     {
+      "type": "box",
+      "style": "plain",
+      "label": "Nvidia",
+      "text": "Toujours sans Jensen Huang"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi le pétrole baisse",
+    "title": "Retour du brut",
+    "title_size": 104,
+    "gap": 48,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "−3,6 %",
+      "dir": "down",
+      "subtitle": "Brent, lundi"
+     },
+     {
+      "type": "range",
+      "dir": "down",
+      "unit": "$",
+      "points": [
+       {
+        "label": "Vendredi",
+        "value": 95.84,
+        "display": "95,84 $",
+        "role": "before"
+       },
+       {
+        "label": "Lundi",
+        "value": 92.44,
+        "display": "92,44 $",
+        "role": "main"
+       },
+       {
+        "label": "Ce matin",
+        "value": 91.66,
+        "display": "91,66 $",
+        "role": "now"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Peur en hausse",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "VIX en forte hausse",
+       "Volatilité plus chère",
+       "Coupons plus généreux"
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Paniers tech : surveiller les barrières"
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "14 h 30",
+        "label": "Ventes au détail US"
+       },
+       {
+        "time": "20 h 25",
+        "label": "John Williams (Fed)"
+       },
+       {
+        "time": "22 h 20",
+        "label": "Résultats de Nvidia"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "Reuters, Bloomberg, AP, CappNotes, finanzen.at"
+  }
+ },
+ "post": {
+  "hook": "La tech décroche avant Nvidia : le Nasdaq perd 2,5 % et le S&P 500 1,9 % lundi, entraînés par les puces. Le Brent recule de 3,6 % et le VIX s'envole.",
+  "jour_cloture": "lundi",
+  "rendez_vous_court": "14 h 30 : ventes au détail américaines d'octobre. 20 h 25 : John Williams (Fed). 22 h 20 : résultats de Nvidia, les premiers sans Jensen Huang.",
+  "hashtags": "#bourse #marchésfinanciers #nvidia #finance #macro"
+ }
+}
