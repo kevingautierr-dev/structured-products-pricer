@@ -1,0 +1,368 @@
+{
+ "date": "2026-11-18",
+ "carnet": {
+  "date_label": "Nov 18, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 340,53",
+    "variation": "−1,03 % (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Quatrième séance de baisse d'affilée, plus bas niveau de clôture depuis fin juillet selon CNBC. Dow −1,64 % à 50 759,42 (−849 points), Nasdaq −0,74 % à 24 328,38. Contrats américains entre +0,3 % et +0,5 % ce matin après Nvidia."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "6 221,08 (ou ≈ 6 215)",
+    "variation": "−2,00 % (mar.)",
+    "plus_gros": "oui",
+    "commentaire": "Plus forte baisse des indices actions de la séance. Deutsche Bank −6,0 %, SAP −5,6 %. Sources en désaccord sur le niveau (6 221,08 ou environ 6 215). Contrats sur l'Euro Stoxx 50 quasi stables ce matin (une seule source)."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "1,10",
+    "variation": "stable (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Près de son plus bas depuis avril 2025. Environ 1,099 ce matin. Dollar index vers 103,6, au plus haut depuis avril 2025."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "5,10 %",
+    "variation": "−2 pb (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Taux à 2 ans à 4,79 % (−4 pb). Ce matin, sources en désaccord : 5,08 % (Reuters, Bloomberg) ou 5,12 % (autre dépêche Reuters)."
+   },
+   {
+    "label": "Brent",
+    "niveau": "93,14 $",
+    "variation": "+0,8 % (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Seul actif des 6 en hausse. Environ 92,5 à 93,0 $ ce matin selon les sources. Le trafic reste perturbé dans le détroit d'Ormuz."
+   },
+   {
+    "label": "VIX",
+    "niveau": "26,06 (ou 25,46)",
+    "variation": "+13,7 % ou +11,1 % (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Variation en pourcentage la plus forte des 6 chiffres, mais sources en désaccord : 26,06 (+3,15 points, The Weekend Spread) ou 25,46 (+11,1 %, Yahoo Finance). À vérifier avant le pitch."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "L'Euro Stoxx 50 chute de 2,0 % à 6 221 points, plombé par Deutsche Bank (−6,0 %) et SAP (−5,6 %).",
+    "contexte": "Des documents ayant fuité relient Deutsche Bank à d'anciens clients sensibles ; la banque dit que ces dossiers « remontent à de nombreuses années ». La tech recule après le durcissement américain sur les puces d'IA.",
+    "effet": "Les autocalls sur l'Euro Stoxx 50 et les paniers « worst-of » avec des banques européennes se rapprochent de leurs barrières. À l'émission, la volatilité plus chère améliore les coupons.",
+    "source": "finanzen.ch, Reuters (Euronext), Trading Economics"
+   },
+   {
+    "titre": "Nvidia bat les attentes : chiffre d'affaires de 115,8 Md$ (+103 %) et prévision de 130 Md$ pour le trimestre en cours, contre environ 125 Md$ attendus.",
+    "contexte": "Premiers résultats depuis le départ de Jensen Huang. Data center : 107,6 Md$ (+110 % sur un an). L'action a gagné jusqu'à 4,8 % après la clôture, des gains fragiles selon Reuters.",
+    "effet": "Un soulagement pour les paniers tech proches de leurs barrières. Si le rebond tient, les Phoenix sur la tech retrouvent de la marge ; sinon, le risque reste entier.",
+    "source": "StockTitan, Yahoo Finance (Motley Fool), Bloomberg (swissinfo), Reuters"
+   },
+   {
+    "titre": "La Fed s'oriente vers une hausse de taux en décembre : Musalem évoque « plusieurs hausses » d'ici le printemps 2027.",
+    "contexte": "Une hausse de 25 pb les 8 et 9 décembre est quasiment intégrée. Ventes au détail d'octobre : +0,2 %, comme attendu, +0,6 % hors automobile.",
+    "effet": "Avec des taux longs au-dessus de 5 %, le capital protégé et les reverse convertibles en dollars restent attractifs ; pour un client en euros, couvrir le change.",
+    "source": "The Weekend Spread, Bloomberg (swissinfo), Reuters"
+   }
+  ],
+  "geopolitique": "Washington soumet à licence les puces d'IA avancées destinées aux centres de données étrangers servant des groupes chinois ; Pékin promet des « mesures nécessaires ». Trump et Xi doivent se voir cette semaine à Shenzhen, en marge de l'APEC. À Ormuz, un pétrolier a été frappé une seconde fois et seuls sept navires ont traversé lundi selon Windward : le Brent reste au-dessus de 90 $.",
+  "rendez_vous": "Aujourd'hui, inflation britannique d'octobre, inflation finale d'octobre de la zone euro (première estimation à 4,0 %), mises en chantier américaines, compte rendu de la réunion de la Fed des 27 et 28 octobre (taux maintenus à 3,75-4,00 %, deux membres votaient pour une hausse), puis fixation du prix de l'introduction en Bourse d'Anthropic, guidée vers le haut de la fourchette ou au-delà. Jeudi : premières cotations d'Anthropic sur le Nasdaq. Cette semaine : rencontre Trump-Xi à Shenzhen.",
+  "heure_impact": "8 h (heure de Paris), inflation britannique. 11 h, inflation de la zone euro : un chiffre confirmé à 4,0 % maintient la pression sur la BCE. 14 h 30, mises en chantier américaines. 20 h, compte rendu de la Fed : le nombre de membres favorables à une hausse dira si décembre peut aller au-delà de 25 pb. Ce soir, prix de l'IPO d'Anthropic : un test pour l'appétit envers la tech et l'IA.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "A cautious relief after Nvidia. US futures are slightly higher, Asia is mixed, European futures are flat, and Brent is around 93 dollars.",
+    "fr": "Un soulagement prudent après Nvidia. Les contrats américains sont en légère hausse, l'Asie est partagée, les contrats européens sont stables et le Brent tourne autour de 93 dollars."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "Yesterday Europe had a rough day: the Euro Stoxx 50 lost 2 % to 6,221, with Deutsche Bank down 6 % and SAP down 5.6 %. Wall Street fell for a fourth day: the S&P 500 lost 1 % to 7,341 and the Dow 1.6 %.",
+    "fr": "Hier, l'Europe a vécu une séance difficile : l'Euro Stoxx 50 a perdu 2 % à 6 221 points, avec Deutsche Bank en baisse de 6 % et SAP de 5,6 %. Wall Street a reculé pour la quatrième fois : le S&P 500 a perdu 1 % à 7 341 points et le Dow 1,6 %."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "Leaked documents on old Deutsche Bank clients, new US limits on AI chips for China, and nerves before Nvidia. After the close, Nvidia beat expectations and guided to 130 billion dollars of sales, above the 125 expected.",
+    "fr": "Des documents ayant fuité sur d'anciens clients de Deutsche Bank, de nouvelles limites américaines sur les puces d'IA pour la Chine, et la nervosité avant Nvidia. Après la clôture, Nvidia a battu les attentes et prévoit 130 milliards de dollars de ventes, au-dessus des 125 attendus."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "Autocalls on the Euro Stoxx 50 and on European banks move closer to their barriers. Higher volatility makes coupons on new issues more generous, and a December Fed hike is almost fully priced.",
+    "fr": "Les autocalls sur l'Euro Stoxx 50 et sur les banques européennes se rapprochent de leurs barrières. La volatilité plus élevée rend les coupons des nouvelles émissions plus généreux, et une hausse de la Fed en décembre est presque entièrement intégrée."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "Euro area inflation at 11 am, the Fed minutes at 8 pm, and Anthropic's IPO price tonight.",
+    "fr": "L'inflation de la zone euro à 11 h, le compte rendu de la Fed à 20 h, et le prix de l'IPO d'Anthropic ce soir."
+   }
+  ],
+  "a_verifier": "VIX : 26,06 (+13,7 %, The Weekend Spread) ou 25,46 (+11,1 %, Yahoo Finance) ; affiché « > 25 » sans variation chiffrée sur les slides. Euro Stoxx 50 : 6 221,08 (finanzen.ch) ou environ 6 215 (Trading Economics), −2 % pour les deux ; affiché « ≈ 6 220 ». Brent à la clôture (93,14 $, +0,8 %) : une seule source, cohérente avec Reuters ce matin (92,60 $, −0,6 %). Nvidia après la clôture : +4,7 à +4,8 % (StockTitan, Bloomberg, Reuters) mais une autre dépêche Reuters parle d'un repli de 0,5 % après un pic à +3,8 % ; non chiffré sur les slides. Taux à 10 ans ce matin : 5,08 % ou 5,12 % selon les dépêches. Asie ce matin : Nikkei +0,6 % ou −0,3 % selon l'heure, Kospi jusqu'à +3,3 % en séance ; non chiffré sur les slides. Salesforce : −8,8 % ou −9,5 % selon les sources. Une seule source pour : la probabilité de hausse de la Fed (95,5 %, CME FedWatch), la fourchette de l'IPO d'Anthropic (70 à 78 $), le passage d'Ormuz (sept navires lundi, Windward via TVG), les contrats sur l'Euro Stoxx 50 ce matin, et l'heure de l'inflation britannique (8 h).",
+  "sources": [
+   "Yahoo Finance (Motley Fool), marchés du 17 novembre : finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-17-224356767.html et finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-17-222310679.html",
+   "The Weekend Spread, The Close du 17 novembre : theweekendspread.substack.com/p/the-close-tuesday-november-17-2026",
+   "StockTitan, marchés du 17 novembre : stocktitan.net/articles/stock-market-today-live-november-17-2026",
+   "finanzen.ch, clôture de l'Euro Stoxx 50 du 17 novembre : finanzen.ch/nachrichten/aktien/schwacher-wochentag-in-europa-euro-stoxx-50-letztendlich-leichter-1036774813",
+   "Reuters (Euronext), Europe du 17 novembre : live.euronext.com/en/financial-news/european-shares-fall-deutsche-bank-slides-tech-stocks-tumble-ahead-nvidia-earnings ; Trading Economics, Euro Stoxx 50",
+   "Bloomberg (swissinfo), Markets Wrap du 18 novembre : swissinfo.ch/eng/stocks-fluctuate-after-nvidia,-treasuries-rise:-markets-wrap/92397458",
+   "Reuters (Yahoo Finance, MarketScreener), Asie du 18 novembre ; TraderFactor et Admiral Markets, agenda du 18 novembre ; The Verardo Group, brief du 17 novembre"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "Euro Stoxx 50 · mardi",
+   "figure": "−2,0 %",
+   "title": "L'Europe plonge",
+   "subtitle": "Nvidia rassure après la clôture."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "Répit",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Contrats US",
+        "dir": "up",
+        "value": "En hausse"
+       },
+       {
+        "label": "Asie",
+        "dir": "flat",
+        "value": "Partagée"
+       },
+       {
+        "label": "Pétrole",
+        "dir": "flat",
+        "value": "≈ 93 $"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Après les résultats de Nvidia"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de mardi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 341",
+        "change": "−1,0 %",
+        "dir": "down"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "≈ 6 220",
+        "change": "−2,0 %",
+        "dir": "down",
+        "highlight": true
+       },
+       {
+        "label": "EUR/USD",
+        "level": "≈ 1,10",
+        "change": "Stable",
+        "dir": "flat"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "5,10 %",
+        "change": "−2 pb",
+        "dir": "down"
+       },
+       {
+        "label": "Brent",
+        "level": "93,14 $",
+        "change": "+0,8 %",
+        "dir": "up"
+       },
+       {
+        "label": "VIX",
+        "level": "> 25",
+        "change": "Hausse",
+        "dir": "up"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "L'Europe décroche",
+    "title_size": 96,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Euro Stoxx 50",
+        "pct": -2.0,
+        "decimals": 1
+       },
+       {
+        "label": "S&P 500",
+        "pct": -1.03,
+        "decimals": 1
+       },
+       {
+        "label": "Nasdaq",
+        "pct": -0.74,
+        "decimals": 1
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Dow −1,6 % · 4e baisse d'affilée à Wall Street"
+     }
+    ]
+   },
+   {
+    "kicker": "Les actions",
+    "title": "Les perdants",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Deutsche Bank",
+        "pct": -6.0,
+        "decimals": 1
+       },
+       {
+        "label": "SAP",
+        "pct": -5.58,
+        "decimals": 1
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Salesforce ≈ −9 % à Wall Street"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi l'Europe recule",
+    "title": "Banque et puces",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Deutsche Bank",
+      "text": "Des documents ayant fuité sur d'anciens clients"
+     },
+     {
+      "type": "box",
+      "style": "alert",
+      "label": "Puces",
+      "text": "Washington durcit l'accès chinois à l'IA"
+     }
+    ]
+   },
+   {
+    "kicker": "Après la clôture",
+    "title": "Nvidia rassure",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "metrics",
+      "metrics": [
+       {
+        "small": "Chiffre d'affaires",
+        "label": "Trimestre écoulé",
+        "value": "115,8 Md$"
+       },
+       {
+        "small": "Chiffre d'affaires",
+        "label": "Prévu au T4",
+        "value": "130 Md$",
+        "tone": "up"
+       }
+      ]
+     },
+     {
+      "type": "box",
+      "style": "good",
+      "label": "Attendu",
+      "text": "Environ 125 Md$ pour le T4"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Barrières en vue",
+    "title_size": 100,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "Europe en forte baisse",
+       "Volatilité plus chère",
+       "Coupons plus généreux"
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Autocalls sur banques : surveiller les barrières"
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "11 h",
+        "label": "Inflation zone euro"
+       },
+       {
+        "time": "20 h",
+        "label": "Compte rendu de la Fed"
+       },
+       {
+        "time": "Soir",
+        "label": "Prix de l'IPO d'Anthropic"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "Reuters, Bloomberg, Yahoo Finance, finanzen.ch"
+  }
+ },
+ "post": {
+  "hook": "L'Europe plonge : l'Euro Stoxx 50 perd 2 % mardi, plombé par Deutsche Bank et SAP, et Wall Street recule pour la quatrième séance. Après la clôture, Nvidia bat les attentes et rassure.",
+  "jour_cloture": "mardi",
+  "rendez_vous_court": "11 h : inflation de la zone euro. 20 h : compte rendu de la Fed. Ce soir : prix de l'introduction en Bourse d'Anthropic, avant ses premières cotations jeudi.",
+  "hashtags": "#bourse #marchésfinanciers #nvidia #finance #macro"
+ }
+}
