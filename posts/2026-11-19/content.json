@@ -1,0 +1,402 @@
+{
+ "date": "2026-11-19",
+ "carnet": {
+  "date_label": "Nov 19, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 323,63",
+    "variation": "−0,23 % (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Cinquième baisse d'affilée. Dow −1,11 % à 50 198,17 (−561 points), Nasdaq +0,42 % à 24 429,88. Contrats américains en hausse ce matin (Nasdaq 100 ≈ +1 %)."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "6 154,39",
+    "variation": "−0,93 % (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Quatrième baisse d'affilée. SAP −3,8 %, Deutsche Bank −3,1 %. Une source donne 6 158,41 (−0,86 %). Contrats européens de ce matin non confirmés."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "1,0975",
+    "variation": "−0,18 % (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Plus bas depuis 19 mois en séance (1,0960). Environ 1,096 ce matin. Dollar index vers 103,8-103,9."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "5,07 %",
+    "variation": "−3 pb (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Taux à 2 ans stable à 4,80 %. Une source affiche −4 pb. Environ 5,05 % ce matin."
+   },
+   {
+    "label": "Brent",
+    "niveau": "91,95 $",
+    "variation": "−1,28 % (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Une source donne 91,62 $ (−1,63 %). Environ 92 $ ce matin malgré l'extension des attaques iraniennes dans le Golfe. Or −3,5 %, plus bas depuis plus d'un an."
+   },
+   {
+    "label": "VIX",
+    "niveau": "24,56",
+    "variation": "−3,53 % (mer.)",
+    "plus_gros": "oui",
+    "commentaire": "Plus forte variation en pourcentage des 6 chiffres, mais il reste au-dessus de 24 : la nervosité demeure."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "La Fed durcit le ton : presque tous ses membres jugent d'autres hausses de taux probablement appropriées, et Christopher Waller évoque une hausse de 50 pb en décembre.",
+    "contexte": "Le compte rendu de la réunion des 27 et 28 octobre (taux maintenus à 3,75-4,00 %) montre que quelques membres envisagent plus de 25 pb en décembre si l'inflation déçoit. Le dollar monte au plus haut depuis 19 mois face à l'euro.",
+    "effet": "Avec un taux à 10 ans au-dessus de 5 %, les produits à capital protégé et les reverse convertibles en dollars restent très attractifs ; pour un client en euros, le dollar fort rend la couverture du change essentielle.",
+    "source": "StockTitan (CNBC), ATFX, investingLive, Saxo"
+   },
+   {
+    "titre": "Nvidia recule de 2,89 % à 150,96 $ malgré des résultats records (CA de 115,8 Md$, +103 % ; prévision d'environ 130 Md$).",
+    "contexte": "Le président du conseil a écarté un retour de Jensen Huang ; succession et régulation chinoise pèsent. Moody's abaisse la perspective de Nvidia à stable.",
+    "effet": "Les paniers tech « worst-of » avec Nvidia restent sous pression : surveiller les barrières. À l'émission, la volatilité élevée sur la tech permet des coupons plus généreux.",
+    "source": "Yahoo Finance (Motley Fool), StockTitan, Capp Notes, investingLive"
+   },
+   {
+    "titre": "Anthropic fixe le prix de son introduction en Bourse à 83 $, au-dessus de la fourchette de 70 à 78 $, et lève environ 81 Md$.",
+    "contexte": "980 millions d'actions vendues ; premières cotations aujourd'hui sur le Nasdaq sous le code ANT. Amazon, actionnaire, gagne 3,8 %.",
+    "effet": "Un test de l'appétit pour l'IA. Une nouvelle cotation n'a pas d'historique de volatilité : elle ne sera pas un sous-jacent standard de produits structurés avant plusieurs mois, mais elle peut faire bouger les paniers tech existants.",
+    "source": "Capp Notes, StockTitan, investingLive, AP (Yahoo Finance)"
+   }
+  ],
+  "geopolitique": "L'Iran a élargi mercredi ses attaques dans le Golfe, visant la base américaine d'Ali Al Salem au Koweït et des cibles à Bahreïn, après une frappe américaine mardi sur l'île de Qeshm. Un pétrolier d'ADNOC a été touché dans le détroit d'Ormuz. Donald Trump juge de nouvelles frappes très improbables mais envoie un troisième porte-avions. La médiation du Qatar est au point mort.",
+  "rendez_vous": "Aujourd'hui, premières cotations d'Anthropic sur le Nasdaq, résultats de Walmart avant l'ouverture américaine, inscriptions hebdomadaires au chômage et indice manufacturier de la Fed de Philadelphie aux États-Unis, interventions de plusieurs membres de la Fed. Ce soir, résultats d'Alibaba. Cette nuit : chômage australien remonté à 4,9 %. Dans la nuit de jeudi à vendredi : inflation japonaise d'octobre.",
+  "heure_impact": "14 h 30 (heure de Paris), inscriptions au chômage (198 000 attendues) et Fed de Philadelphie (20,6 attendu) : des chiffres solides renforceraient l'idée d'une hausse de 50 pb en décembre. Dans la séance américaine, premières cotations d'Anthropic : un test pour toute la tech et l'IA. À 0 h 30, inflation japonaise : elle pèsera sur le yen, proche de 160 pour un dollar.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "All eyes on Anthropic's debut today. US futures are higher, led by the Nasdaq, Hong Kong is down about 2 %, and Brent holds near 92 dollars.",
+    "fr": "Tous les regards sont sur les débuts d'Anthropic aujourd'hui. Les contrats américains montent, emmenés par le Nasdaq, Hong Kong recule d'environ 2 %, et le Brent se maintient vers 92 dollars."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "Yesterday Wall Street was split: the S&P 500 lost 0.2 % to 7,324 for a fifth day of decline, the Dow 1.1 %, while the Nasdaq gained 0.4 %. Nvidia fell almost 3 % despite record results, and the Euro Stoxx 50 lost 0.9 % to 6,154.",
+    "fr": "Hier, Wall Street était partagée : le S&P 500 a perdu 0,2 % à 7 324 points, cinquième baisse d'affilée, et le Dow 1,1 %, alors que le Nasdaq gagnait 0,4 %. Nvidia a perdu près de 3 % malgré des résultats records, et l'Euro Stoxx 50 a cédé 0,9 % à 6 154 points."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "The Fed minutes were hawkish: almost all members see more hikes, and Governor Waller floated half a point in December. At Nvidia, the board ruled out Jensen Huang's return, which worried investors.",
+    "fr": "Le compte rendu de la Fed était ferme : presque tous les membres voient d'autres hausses, et le gouverneur Waller a évoqué un demi-point en décembre. Chez Nvidia, le conseil a écarté le retour de Jensen Huang, ce qui a inquiété les investisseurs."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "With the 10-year above 5 %, capital protected notes and dollar reverse convertibles stay attractive, but euro clients should hedge the currency. Tech baskets with Nvidia need close watch on barriers.",
+    "fr": "Avec un taux à 10 ans au-dessus de 5 %, le capital protégé et les reverse convertibles en dollars restent attractifs, mais les clients en euros doivent couvrir le change. Les paniers tech avec Nvidia demandent de surveiller les barrières."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "US jobless claims at 2.30 pm, Anthropic's first trades this afternoon, and Japanese inflation tonight.",
+    "fr": "Les inscriptions au chômage américaines à 14 h 30, les premières cotations d'Anthropic cet après-midi, et l'inflation japonaise cette nuit."
+   }
+  ],
+  "a_verifier": "Euro Stoxx 50 : 6 154,39 (−0,93 %, ad-hoc-news, ARIVA) ou 6 158,41 (−0,86 %, texte de finanzen.ch) ; affiché « 6 154 » et « −0,9 % ». Brent : 91,95 $ (−1,28 %, Capp Notes, Saxo) ou 91,62 $ (−1,63 %, ATFX) ; affiché « ≈ 92 $ » sans variation chiffrée sur les slides. Taux à 10 ans : −3 pb (Capp Notes) ou −4 pb (bandeau Yahoo) ; affiché « 5,07 % » sans variation chiffrée. Contrats européens de ce matin : non trouvés, absents des slides. Une seule source pour : l'intervention de Christine Lagarde à 14 h 30, les consensus du chômage et de la Fed de Philadelphie, l'heure de l'inflation japonaise (0 h 30), la baisse de la perspective de Nvidia par Moody's, et les résultats d'Alibaba ce soir. Heure de la première cotation d'Anthropic non communiquée.",
+  "sources": [
+   "Capp Notes, Closing Look du 18 novembre : cappnotes.substack.com/p/closing-look-wednesday-november-18",
+   "StockTitan, marchés du 18 novembre : stocktitan.net/articles/stock-market-today-live-november-18-2026",
+   "Yahoo Finance (Motley Fool), marchés du 18 novembre : finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-18-221135469.html",
+   "ad-hoc-news et ARIVA, clôture de l'Euro Stoxx 50 du 18 novembre ; finanzen.ch, tops et flops",
+   "Saxo, Asia Market Quick Take du 19 novembre : home.saxo/en-sg/content/articles/macro/asia-market-quick-take--19-november-2026-19112026",
+   "AP (Yahoo Finance), Asie du 19 novembre : finance.yahoo.com/markets/stocks/articles/asian-stocks-mixed-us-futures-050038678.html",
+   "investingLive, Asie-Pacifique du 19 novembre ; ATFX, Daily Market Highlight du 19 novembre ; Investing.com, agenda du 19 novembre",
+   "AP (CP24), attaques iraniennes dans le Golfe du 18 novembre : cp24.com/news/world/2026/11/18/iran-widens-gulf-attacks-by-targeting-a-us-air-base-in-kuwait-and-sites-in-bahrain/"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "Anthropic · prix d'IPO",
+   "figure": "83 $",
+   "title": "Le jour d'Anthropic",
+   "subtitle": "La Fed durcit le ton, Nvidia recule."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "La tech rebondit",
+    "title_size": 100,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Contrats US",
+        "dir": "up",
+        "value": "En hausse"
+       },
+       {
+        "label": "Hong Kong",
+        "dir": "down",
+        "value": "≈ −2 %"
+       },
+       {
+        "label": "Pétrole",
+        "dir": "flat",
+        "value": "≈ 92 $"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Avant les débuts d'Anthropic en Bourse"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de mercredi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 324",
+        "change": "−0,2 %",
+        "dir": "down"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "6 154",
+        "change": "−0,9 %",
+        "dir": "down"
+       },
+       {
+        "label": "EUR/USD",
+        "level": "1,0975",
+        "change": "−0,2 %",
+        "dir": "down"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "5,07 %",
+        "change": "Baisse",
+        "dir": "down"
+       },
+       {
+        "label": "Brent",
+        "level": "≈ 92 $",
+        "change": "Baisse",
+        "dir": "down"
+       },
+       {
+        "label": "VIX",
+        "level": "24,56",
+        "change": "−3,5 %",
+        "dir": "down",
+        "highlight": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "Wall Street divisée",
+    "title_size": 96,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Nasdaq",
+        "pct": 0.42,
+        "decimals": 1
+       },
+       {
+        "label": "S&P 500",
+        "pct": -0.23,
+        "decimals": 1
+       },
+       {
+        "label": "Dow",
+        "pct": -1.11,
+        "decimals": 1
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "S&P 500 : 5e baisse d'affilée"
+     }
+    ]
+   },
+   {
+    "kicker": "Les actions",
+    "title": "Les perdants",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Humana",
+        "pct": -12.98,
+        "decimals": 1
+       },
+       {
+        "label": "UnitedHealth",
+        "pct": -10.21,
+        "decimals": 1
+       },
+       {
+        "label": "Nvidia",
+        "pct": -2.89,
+        "decimals": 1
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Assureurs santé : projet de règle sur Medicare"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi Nvidia recule",
+    "title": "Records, mais",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "metrics",
+      "metrics": [
+       {
+        "small": "Chiffre d'affaires",
+        "label": "Trimestre écoulé",
+        "value": "115,8 Md$"
+       },
+       {
+        "small": "Chiffre d'affaires",
+        "label": "Prévu",
+        "value": "≈ 130 Md$",
+        "tone": "up"
+       }
+      ]
+     },
+     {
+      "type": "box",
+      "style": "alert",
+      "label": "Mais",
+      "text": "Jensen Huang ne reviendra pas"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi les taux restent hauts",
+    "title": "La Fed durcit",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Compte rendu",
+      "text": "Presque tous voient d'autres hausses"
+     },
+     {
+      "type": "box",
+      "style": "blue",
+      "label": "Waller",
+      "text": "Évoque +50 pb en décembre"
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui au Nasdaq",
+    "title": "Anthropic",
+    "title_size": 112,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "metrics",
+      "metrics": [
+       {
+        "small": "Prix de l'IPO",
+        "label": "Fourchette prévue",
+        "value": "70-78 $"
+       },
+       {
+        "small": "Prix de l'IPO",
+        "label": "Fixé",
+        "value": "83 $",
+        "tone": "up"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "≈ 81 Md$ levés · code ANT"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Taux en haut",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "Fed plus ferme",
+       "Taux à 10 ans > 5 %",
+       "Capital protégé attractif"
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Client en euros : couvrir le change"
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "14 h 30",
+        "label": "Chômage US"
+       },
+       {
+        "time": "Séance",
+        "label": "Débuts d'Anthropic"
+       },
+       {
+        "time": "Nuit",
+        "label": "Inflation japonaise"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "AP, CNBC, Saxo, Yahoo Finance"
+  }
+ },
+ "post": {
+  "hook": "Le jour d'Anthropic : l'IPO est fixée à 83 $, au-dessus de la fourchette, avant les premières cotations aujourd'hui. Hier, la Fed a durci le ton et Nvidia a reculé malgré des résultats records.",
+  "jour_cloture": "mercredi",
+  "rendez_vous_court": "14 h 30 : inscriptions au chômage américaines. Dans la séance : premières cotations d'Anthropic sur le Nasdaq. Dans la nuit : inflation japonaise.",
+  "hashtags": "#bourse #marchésfinanciers #anthropic #finance #macro"
+ }
+}
