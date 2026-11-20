@@ -1,0 +1,13 @@
+TROIS TITRES ÉCONOMIQUES
+
+1. Wall Street perd 2 % : le S&P 500 aligne une sixième baisse, le Dow cède 1 101 points, et l'IA entraîne la chute. Nvidia a effacé un gain de 4,7 % pour finir à −3,3 % ; AMD −7,7 % après un rapport de vendeur à découvert, Amazon −3,9 %, Alphabet −3,5 %. Les propos sur de nouvelles hausses de la Fed ont accéléré la baisse. Ce matin, Tokyo et Séoul perdent environ 4,5 à 5 %.
+Effet pour un client ou un produit structuré : Les paniers tech « worst-of » perdent encore de la valeur : surveiller les barrières. À l'émission, un VIX au-dessus de 28 rend les coupons des nouveaux autocalls et Phoenix plus élevés.
+
+2. Anthropic termine sa première séance à 97,17 $, soit +17,1 % au-dessus du prix d'introduction de 83 $, après une ouverture à 111,50 $. 81,3 Md$ levés, la plus grosse introduction en Bourse de l'histoire. L'action a rendu une partie de son gain d'ouverture et n'a pas empêché la chute de la tech.
+Effet pour un client ou un produit structuré : Sans historique de volatilité, l'action ne sera pas un sous-jacent standard de produits structurés avant plusieurs mois, mais elle peut faire bouger les paniers tech existants.
+
+3. Les marchés tiennent une hausse de taux de la Fed en décembre pour quasi certaine. Anna Paulson (Fed de Philadelphie) juge qu'il reste « du resserrement à faire » ; J.P. Morgan anticipe des hausses en décembre, janvier et mars. L'indice manufacturier de Philadelphie est pourtant tombé à 6,3 (20,9 en octobre).
+Effet pour un client ou un produit structuré : Avec un taux à 10 ans autour de 5 %, le capital protégé et les reverse convertibles en dollars restent attractifs ; pour un client en euros, couvrir le change est essentiel.
+
+GÉOPOLITIQUE
+Le choc d'Ormuz reste au centre : l'Agence internationale de l'énergie y voit le plus grand choc d'offre énergétique jamais enregistré. L'Iran affirme que deux pétroliers ont heurté des mines dans le détroit (non vérifié par Reuters). À Shenzhen, Donald Trump, Xi Jinping et Vladimir Poutine ont signé une déclaration de paix symbolique, sans accord sur l'Ukraine ni sur l'Iran.

@@ -1,0 +1,418 @@
+{
+ "date": "2026-11-20",
+ "carnet": {
+  "date_label": "Nov 20, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 175,83",
+    "variation": "−2,02 % (jeu.)",
+    "plus_gros": "non",
+    "commentaire": "Sixième baisse d'affilée, la plus longue série depuis 2024. 464 valeurs en baisse sur 500, les 11 secteurs dans le rouge. Dow −2,19 % à 49 097,06 (−1 101 points), Nasdaq −2,25 % à 23 879,20. Contrats américains en baisse ce matin (S&P 500 ≈ −0,3 %, Nasdaq 100 ≈ −0,7 %)."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "6 113,86",
+    "variation": "−0,66 % (jeu.)",
+    "plus_gros": "non",
+    "commentaire": "Cinquième baisse d'affilée : −4,46 % sur cinq séances, la plus forte baisse sur cinq séances depuis mars. SAP −3,56 %, Adyen −3,59 %, Alstom −4,34 % ; ASML +2,17 %. Contrats européens de ce matin non trouvés."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "1,0982",
+    "variation": "stable (jeu.)",
+    "plus_gros": "non",
+    "commentaire": "Environ 1,098 ce matin, juste sous 1,10. Dollar index vers 103,9, près de son plus haut depuis 19 mois. Une seule source pour la clôture."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "≈ 5,05 %",
+    "variation": "−1 à −3 pb (jeu.)",
+    "plus_gros": "non",
+    "commentaire": "Les sources divergent : 5,04 %, 5,05 % ou 5,07 %. Taux à 2 ans à 4,76 %. Environ 5,0 % ce matin."
+   },
+   {
+    "label": "Brent",
+    "niveau": "≈ 92 $",
+    "variation": "stable (jeu.)",
+    "plus_gros": "non",
+    "commentaire": "91,98 $ (+0,03 %) ou 92,27 $ (+0,35 %) selon les sources. Environ 92,40 $ ce matin (+0,5 %). Or en forte baisse."
+   },
+   {
+    "label": "VIX",
+    "niveau": "28,44",
+    "variation": "+15,8 % (jeu.)",
+    "plus_gros": "oui",
+    "commentaire": "Plus forte variation des 6 chiffres. Plus haut de séance à 29,13, contre 24,56 mercredi."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "Wall Street perd 2 % : le S&P 500 aligne une sixième baisse, le Dow cède 1 101 points, et l'IA entraîne la chute.",
+    "contexte": "Nvidia a effacé un gain de 4,7 % pour finir à −3,3 % ; AMD −7,7 % après un rapport de vendeur à découvert, Amazon −3,9 %, Alphabet −3,5 %. Les propos sur de nouvelles hausses de la Fed ont accéléré la baisse. Ce matin, Tokyo et Séoul perdent environ 4,5 à 5 %.",
+    "effet": "Les paniers tech « worst-of » perdent encore de la valeur : surveiller les barrières. À l'émission, un VIX au-dessus de 28 rend les coupons des nouveaux autocalls et Phoenix plus élevés.",
+    "source": "Capp Notes, Motley Fool, 24/7 Wall St, investingLive, Al Jazeera"
+   },
+   {
+    "titre": "Anthropic termine sa première séance à 97,17 $, soit +17,1 % au-dessus du prix d'introduction de 83 $, après une ouverture à 111,50 $.",
+    "contexte": "81,3 Md$ levés, la plus grosse introduction en Bourse de l'histoire. L'action a rendu une partie de son gain d'ouverture et n'a pas empêché la chute de la tech.",
+    "effet": "Sans historique de volatilité, l'action ne sera pas un sous-jacent standard de produits structurés avant plusieurs mois, mais elle peut faire bouger les paniers tech existants.",
+    "source": "Capp Notes, Al Jazeera, Mitrade, Motley Fool"
+   },
+   {
+    "titre": "Les marchés tiennent une hausse de taux de la Fed en décembre pour quasi certaine.",
+    "contexte": "Anna Paulson (Fed de Philadelphie) juge qu'il reste « du resserrement à faire » ; J.P. Morgan anticipe des hausses en décembre, janvier et mars. L'indice manufacturier de Philadelphie est pourtant tombé à 6,3 (20,9 en octobre).",
+    "effet": "Avec un taux à 10 ans autour de 5 %, le capital protégé et les reverse convertibles en dollars restent attractifs ; pour un client en euros, couvrir le change est essentiel.",
+    "source": "investingLive, Capp Notes, Motley Fool"
+   }
+  ],
+  "geopolitique": "Le choc d'Ormuz reste au centre : l'Agence internationale de l'énergie y voit le plus grand choc d'offre énergétique jamais enregistré. L'Iran affirme que deux pétroliers ont heurté des mines dans le détroit (non vérifié par Reuters). À Shenzhen, Donald Trump, Xi Jinping et Vladimir Poutine ont signé une déclaration de paix symbolique, sans accord sur l'Ukraine ni sur l'Iran.",
+  "rendez_vous": "Aujourd'hui, prix à la production allemands et ventes au détail britanniques à 8 h, discours de Christine Lagarde au Congrès bancaire européen de Francfort, interventions des gouverneurs de la Fed Christopher Waller et Lisa Cook, confiance des consommateurs de la zone euro et de l'Université du Michigan (finale de novembre). Hier soir, Intuit a reculé d'environ 10 % après la clôture sur une prévision de chiffre d'affaires décevante, et Ross Stores d'environ 6 %. Cette nuit, l'inflation japonaise est ressortie sous les attentes (2,2 % hors produits frais, contre 2,3 % attendu). La Bourse de Tokyo sera fermée lundi.",
+  "heure_impact": "9 h (heure de Paris), Christine Lagarde à Francfort : un mot sur la croissance ou l'euro faible peut faire bouger les taux européens. 14 h 25, Christopher Waller : il a évoqué une hausse de 50 pb en décembre, tout nouveau signal ferme pèserait sur les actions. 16 h, Université du Michigan et ses anticipations d'inflation : un chiffre élevé conforterait la Fed. 18 h 15, Lisa Cook.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "Asia is diving this morning as the AI trade unravels: Tokyo is down about 4.5 %, Seoul about 5 % and Taiwan almost 6 %. US futures are lower again, and Brent holds near 92 dollars.",
+    "fr": "L'Asie plonge ce matin avec le décrochage du thème de l'IA : Tokyo perd environ 4,5 %, Séoul environ 5 % et Taïwan près de 6 %. Les contrats américains reculent encore, et le Brent se maintient vers 92 dollars."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "Yesterday the S&P 500 lost 2 % to 7,176, its sixth daily loss in a row, the Dow fell 1,100 points and the Nasdaq 2.3 %. Fear is back: the VIX jumped almost 16 % to 28.4. In Europe, the Euro Stoxx 50 lost 0.7 % to 6,114.",
+    "fr": "Hier, le S&P 500 a perdu 2 % à 7 176 points, sixième baisse d'affilée, le Dow a cédé 1 100 points et le Nasdaq 2,3 %. La peur revient : le VIX a bondi de près de 16 % à 28,4. En Europe, l'Euro Stoxx 50 a perdu 0,7 % à 6 114 points."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "Anthropic's debut was strong, up 17 % at 97 dollars, but it did not save tech: Nvidia erased an early gain to close down 3.3 %, and AMD lost almost 8 %. Talk of more Fed hikes accelerated the selloff into the close.",
+    "fr": "Les débuts d'Anthropic ont été solides, +17 % à 97 dollars, mais n'ont pas sauvé la tech : Nvidia a effacé son gain du matin pour finir en baisse de 3,3 %, et AMD a perdu près de 8 %. Les propos sur de nouvelles hausses de la Fed ont accéléré la baisse en fin de séance."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "Higher volatility means better coupons on new autocalls. Clients in tech worst-of baskets should watch their barriers, and with the 10-year near 5 %, capital protected notes stay attractive.",
+    "fr": "Une volatilité plus haute, ce sont de meilleurs coupons sur les nouveaux autocalls. Les clients sur des paniers tech « worst-of » doivent surveiller leurs barrières, et avec un taux à 10 ans proche de 5 %, le capital protégé reste attractif."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "Lagarde at 9 am, Fed Governor Waller at 2.25 pm, and Michigan consumer sentiment at 4 pm.",
+    "fr": "Christine Lagarde à 9 h, le gouverneur de la Fed Waller à 14 h 25, et la confiance des consommateurs du Michigan à 16 h."
+   }
+  ],
+  "a_verifier": "S&P 500 : 7 175,83 (−2,02 %, Capp Notes, Motley Fool) ou 7 177,55 (−1,99 %, 24/7 Wall St) ; affiché « 7 176 » et « −2,0 % ». Taux à 10 ans : 5,04 % (−3 pb, Capp Notes), 5,051 % (−1,4 pb, The Weekend Spread) ou 5,07 % (−3 pb, Motley Fool) ; affiché « ≈ 5,05 % » sans variation chiffrée sur les slides. Brent : 91,98 $ (+0,03 %, Capp Notes, Mitrade) ou 92,27 $ (+0,35 %, The Weekend Spread) ; affiché « ≈ 92 $ ». EUR/USD : clôture de 1,0982 d'une seule source (The Weekend Spread), variation non chiffrée ; affiché « ≈ 1,098 ». Asie ce matin : Tokyo −4,5 % à −4,7 %, Séoul −4,5 % à −5,1 % selon l'heure ; Taïwan « près de −6 % » d'une seule source (Al Jazeera, absent des slides). Une seule source pour : les contrats américains de ce matin, l'IPO Anthropic « plus grosse de l'histoire » avec 81,3 Md$ (une autre source dit 90 Md$), l'indice de la Fed de Philadelphie (6,3), les propos d'Anna Paulson, les prévisions de J.P. Morgan, l'inflation japonaise, les mines dans le détroit d'Ormuz, le recul d'Intuit et de Ross Stores après la clôture. Heure du discours de Christine Lagarde : 9 h (finanzen.net) ou 9 h 15 (Mitrade). Contrats européens de ce matin : non trouvés. Échéance mensuelle des options américaines (troisième vendredi) : non confirmée, absente des slides.",
+  "sources": [
+   "Capp Notes, Closing Look du 19 novembre : cappnotes.substack.com/p/closing-look-thursday-november-19",
+   "Motley Fool, marchés du 19 novembre : fool.com/coverage/stock-market-today/2026/11/19/",
+   "24/7 Wall St, clôture du 19 novembre : 247wallst.com",
+   "The Weekend Spread, The Close du 19 novembre : theweekendspread.substack.com/p/the-close-thursday-november-19-2026",
+   "ad-hoc-news (Morningstar, Dow Jones) et MarketScreener (AWP), clôture de l'Euro Stoxx 50 du 19 novembre",
+   "investingLive, Asie-Pacifique du 20 novembre : investinglive.com/news/investinglive-asia-pacific-market-news-red-friday-as-asia-s-ai-trade-unravels/",
+   "Al Jazeera, Asie et Anthropic du 20 novembre : aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears",
+   "Mitrade, marchés du 20 novembre ; finanzen.net, agenda du 20 novembre ; tradingcharts.com, agenda américain du 20 novembre"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "Wall Street · jeudi",
+   "figure": "−2,0 %",
+   "title": "L'IA fait peur",
+   "subtitle": "Même les débuts d'Anthropic n'y changent rien."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "L'Asie plonge",
+    "title_size": 108,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Tokyo",
+        "dir": "down",
+        "value": "≈ −4,5 %"
+       },
+       {
+        "label": "Séoul",
+        "dir": "down",
+        "value": "≈ −5 %"
+       },
+       {
+        "label": "Contrats US",
+        "dir": "down",
+        "value": "En baisse"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Le thème de l'IA se défait"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de jeudi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 176",
+        "change": "−2,0 %",
+        "dir": "down"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "6 114",
+        "change": "−0,7 %",
+        "dir": "down"
+       },
+       {
+        "label": "EUR/USD",
+        "level": "≈ 1,098",
+        "change": "Stable",
+        "dir": "flat"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "≈ 5,05 %",
+        "change": "Baisse",
+        "dir": "down"
+       },
+       {
+        "label": "Brent",
+        "level": "≈ 92 $",
+        "change": "Stable",
+        "dir": "flat"
+       },
+       {
+        "label": "VIX",
+        "level": "28,44",
+        "change": "+15,8 %",
+        "dir": "up",
+        "highlight": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "La peur revient",
+    "title_size": 100,
+    "gap": 48,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "+15,8 %",
+      "dir": "up",
+      "subtitle": "L'indice de la peur, le VIX"
+     },
+     {
+      "type": "range",
+      "dir": "up",
+      "tick_decimals": 0,
+      "points": [
+       {
+        "label": "Mercredi",
+        "value": 24.56,
+        "display": "24,56",
+        "role": "before"
+       },
+       {
+        "label": "Jeudi",
+        "value": 28.44,
+        "display": "28,44",
+        "role": "main"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Les actions",
+    "title": "Tout baisse",
+    "title_size": 108,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Euro Stoxx 50",
+        "pct": -0.66,
+        "decimals": 1
+       },
+       {
+        "label": "S&P 500",
+        "pct": -2.02,
+        "decimals": 1
+       },
+       {
+        "label": "Dow",
+        "pct": -2.19,
+        "decimals": 1
+       },
+       {
+        "label": "Nasdaq",
+        "pct": -2.25,
+        "decimals": 1,
+        "display": "−2,3 %"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "S&P 500 : 6e baisse d'affilée"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi Wall Street chute",
+    "title": "L'IA vacille",
+    "title_size": 108,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "AMD",
+        "pct": -7.72,
+        "decimals": 1
+       },
+       {
+        "label": "Amazon",
+        "pct": -3.87,
+        "decimals": 1
+       },
+       {
+        "label": "Alphabet",
+        "pct": -3.46,
+        "decimals": 1
+       },
+       {
+        "label": "Nvidia",
+        "pct": -3.3,
+        "decimals": 1
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Nvidia gagnait 4,7 % en début de séance"
+     }
+    ]
+   },
+   {
+    "kicker": "Premier jour au Nasdaq",
+    "title": "Anthropic",
+    "title_size": 112,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "metrics",
+      "metrics": [
+       {
+        "small": "Prix de l'IPO",
+        "label": "Fixé",
+        "value": "83 $"
+       },
+       {
+        "small": "Première séance",
+        "label": "Clôture",
+        "value": "97,17 $",
+        "tone": "up"
+       }
+      ]
+     },
+     {
+      "type": "box",
+      "style": "plain",
+      "label": "Mais",
+      "text": "Ouverture à 111,50 $, puis repli"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi les taux restent hauts",
+    "title": "La Fed insiste",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Fed",
+      "text": "D'autres hausses de taux à venir"
+     },
+     {
+      "type": "box",
+      "style": "blue",
+      "label": "Décembre",
+      "text": "Une hausse jugée quasi certaine"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Coupons en hausse",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "Peur sur l'IA",
+       "Volatilité plus chère",
+       "Autocalls mieux rémunérés"
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Paniers tech : surveiller les barrières"
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "9 h",
+        "label": "Christine Lagarde"
+       },
+       {
+        "time": "14 h 25",
+        "label": "Waller (Fed)"
+       },
+       {
+        "time": "16 h",
+        "label": "Confiance du Michigan"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "Capp Notes, Motley Fool, Al Jazeera, investingLive"
+  }
+ },
+ "post": {
+  "hook": "L'IA fait peur : Wall Street perd 2 %, le VIX bondit de près de 16 % et l'Asie plonge ce matin. Même les débuts réussis d'Anthropic (+17 %) n'y ont rien changé.",
+  "jour_cloture": "jeudi",
+  "rendez_vous_court": "9 h : Christine Lagarde à Francfort. 14 h 25 : Christopher Waller (Fed). 16 h : confiance des consommateurs du Michigan.",
+  "hashtags": "#bourse #marchésfinanciers #intelligenceartificielle #finance #macro"
+ }
+}
