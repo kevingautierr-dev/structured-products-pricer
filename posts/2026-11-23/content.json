@@ -1,0 +1,383 @@
+{
+ "date": "2026-11-23",
+ "carnet": {
+  "date_label": "Nov 23, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "6 910,39",
+    "variation": "−3,70 % (ven.)",
+    "plus_gros": "non",
+    "commentaire": "Septième baisse d'affilée et entrée en correction (plus de 10 % sous le record du 6 octobre). −8,6 % sur la semaine, la pire depuis avril 2025. Dow −1,93 % à 48 147,33, Nasdaq −5,28 % à 22 617,73, désormais en baisse sur 2026 (−10 % sur la semaine). Contrats américains en hausse ce matin (S&P 500 ≈ +1,9 %, Nasdaq 100 ≈ +2,6 %)."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "≈ 5 942 à 5 952",
+    "variation": "−2,81 % ou −2,64 % (ven.)",
+    "plus_gros": "non",
+    "commentaire": "Les sources divergent sur la clôture. Environ −7 % sur la semaine, la pire depuis avril 2025. ASML −9,3 %, Infineon −7,9 %, Siemens Energy −6,6 %. DAX −2,6 %, CAC 40 −1,89 %. Contrats européens de ce matin non trouvés."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "≈ 1,098",
+    "variation": "quasi stable (ven.)",
+    "plus_gros": "non",
+    "commentaire": "1,0982 ou 1,0968 selon les sources en fin de séance. Environ 1,0978 ce matin."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "≈ 4,92 %",
+    "variation": "−12 à −14 pb (ven.)",
+    "plus_gros": "non",
+    "commentaire": "Fuite vers les obligations : plus forte baisse depuis le 22 octobre selon une source. Taux à 2 ans vers 4,61-4,63 %. Environ 4,94 % ce matin."
+   },
+   {
+    "label": "Brent",
+    "niveau": "92,57 $",
+    "variation": "+0,64 % (ven.)",
+    "plus_gros": "non",
+    "commentaire": "−4 % sur la semaine. 92,67 $ ce matin (+0,1 %), soutenu par les attaques dans le Golfe. Or en forte baisse vendredi (environ −4,6 %)."
+   },
+   {
+    "label": "VIX",
+    "niveau": "35,89",
+    "variation": "+26,2 % (ven.)",
+    "plus_gros": "oui",
+    "commentaire": "Plus forte variation des 6 chiffres. 28,44 jeudi. Plus haute clôture depuis fin mars."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "Wall Street entre en correction : le S&P 500 chute de 3,7 % à 6 910,39, le Nasdaq de 5,3 %, et le VIX bondit à 35,89.",
+    "contexte": "Septième baisse d'affilée, −8,6 % sur la semaine. Le Nasdaq efface ses gains de 2026. Ce matin, les contrats américains rebondissent d'environ 2 %.",
+    "effet": "Les paniers tech « worst-of » s'approchent de leurs barrières. À l'émission, un VIX au-dessus de 35 permet des coupons plus élevés sur les autocalls et Phoenix, ou des barrières plus basses.",
+    "source": "AP, Capp Notes, Investopedia (Yahoo Finance)"
+   },
+   {
+    "titre": "Nvidia perd 14 % et entraîne les semi-conducteurs ; Anthropic recule de 8,5 % à 88,91 $ pour sa deuxième séance.",
+    "contexte": "AMD −13 %. Les explications de la chute de Nvidia divergent selon les sources. Anthropic reste au-dessus de son prix d'introduction de 83 $.",
+    "effet": "Volatilité implicite en forte hausse sur les semi-conducteurs : coupons élevés, mais risque de barrière réel. Pour un client prudent, préférer un panier d'indices larges à un worst-of tech.",
+    "source": "Capp Notes, Investopedia (Yahoo Finance), Saxo"
+   },
+   {
+    "titre": "Le taux américain à 10 ans recule de 12 à 14 pb vers 4,92 %, malgré une Fed toujours prête à relever ses taux en décembre.",
+    "contexte": "Anna Paulson et Lisa Cook (Fed) plaident pour ne pas attendre ; Kalshi donne 90 % de chances d'une hausse de 25 pb le 9 décembre. Scott Bessent (Trésor) met en garde contre un resserrement excessif.",
+    "effet": "Des taux longs en recul réduisent le rendement des produits à capital protégé et des reverse convertibles en dollars : argument pour fixer les conditions vite. Client en euros : couvrir le change.",
+    "source": "Capp Notes, Investopedia (Yahoo Finance), Saxo"
+   }
+  ],
+  "geopolitique": "Le Golfe reste sous tension. Bahreïn dit qu'une attaque iranienne a touché samedi un site industriel civil ; les Gardiens de la révolution revendiquent des tirs contre des positions américaines. Dimanche, les Houthis ont revendiqué une attaque contre une raffinerie saoudienne, et plusieurs navires ont été visés près d'Ormuz. Selon Reuters, l'impasse avec Téhéran devient le scénario central d'ici la fin de l'année.",
+  "rendez_vous": "Aujourd'hui, indices PMI flash de novembre en Allemagne, dans la zone euro et au Royaume-Uni. La Bourse de Tokyo est fermée (jour férié). Résultats de Zoom aux États-Unis. Demain : Best Buy, Dell, Workday, HP, Autodesk et Medtronic. Mercredi : John Deere. Inflation PCE américaine attendue cette semaine. Jeudi, Wall Street sera fermée pour Thanksgiving. Le 29 novembre, réunion de l'OPEP+ sur la production 2027 ; Fed les 8 et 9 décembre. En Asie, la Corée a réuni ses autorités financières en urgence et Taïwan durcit les règles de vente à découvert.",
+  "heure_impact": "9 h 30 (heure de Paris), PMI flash allemand ; 10 h, PMI de la zone euro ; 10 h 30, PMI britannique : un nouveau recul de l'activité alimenterait la baisse des taux européens. Ce soir, la tenue du rebond des contrats américains (≈ +2 %) dira si la correction s'arrête ou si la vente sur l'IA reprend.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "After a brutal Friday, markets are trying to bounce. US futures are up about 2 %, Seoul opened almost 3 % lower, Tokyo is closed, and Brent holds near 92.7 dollars.",
+    "fr": "Après un vendredi brutal, les marchés tentent de rebondir. Les contrats américains gagnent environ 2 %, Séoul a ouvert en baisse de près de 3 %, Tokyo est fermée, et le Brent se maintient vers 92,7 dollars."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "On Friday the S&P 500 lost 3.7 % to 6,910, its seventh loss in a row, and is now in correction. The Nasdaq fell 5.3 %. Fear exploded: the VIX jumped 26 % to almost 36, its highest close since March. In Europe, the Euro Stoxx 50 lost close to 3 %.",
+    "fr": "Vendredi, le S&P 500 a perdu 3,7 % à 6 910 points, sa septième baisse d'affilée, et entre en correction. Le Nasdaq a chuté de 5,3 %. La peur a explosé : le VIX a bondi de 26 % à près de 36, sa plus haute clôture depuis mars. En Europe, l'Euro Stoxx 50 a perdu près de 3 %."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "The AI trade is unravelling. Nvidia lost 14 %, AMD 13 %, and Anthropic fell 8.5 % on its second day. Investors fled to bonds: the 10-year yield dropped more than 12 basis points to about 4.9 %, even as the Fed still signals a hike in December.",
+    "fr": "Le thème de l'IA se défait. Nvidia a perdu 14 %, AMD 13 %, et Anthropic a reculé de 8,5 % pour sa deuxième séance. Les investisseurs se sont réfugiés sur les obligations : le taux à 10 ans a perdu plus de 12 points de base vers 4,9 %, alors que la Fed évoque toujours une hausse en décembre."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "With the VIX above 35, new autocalls offer much higher coupons or lower barriers. Clients in tech worst-of baskets need a barrier check today.",
+    "fr": "Avec un VIX au-dessus de 35, les nouveaux autocalls offrent des coupons bien plus élevés ou des barrières plus basses. Les clients sur des paniers tech « worst-of » ont besoin d'un point sur leurs barrières aujourd'hui."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "Flash PMIs in Germany at 9.30, the euro area at 10 and the UK at 10.30, and whether the US bounce holds.",
+    "fr": "Les PMI flash allemands à 9 h 30, de la zone euro à 10 h et britanniques à 10 h 30, et la tenue du rebond américain."
+   }
+  ],
+  "a_verifier": "Euro Stoxx 50 : 5 941,95 (−2,81 %, Edge, finanzen, Saxo) ou 5 952,45 (−2,64 %, ad-hoc-news, texte de finanzen) ; affiché « ≈ 5 950 » et « ≈ −2,7 % ». Taux à 10 ans : 4,92 % (−12 pb, Capp Notes) ou 4,912 % (−14 pb, Yahoo) ; affiché « ≈ 4,92 % » sans variation chiffrée sur les slides. EUR/USD : 1,0982 ou 1,0968 en fin de séance ; affiché « ≈ 1,098 ». Nvidia : explications divergentes (examen de sa comptabilité par la SEC selon un article de Reuters cité par Capp Notes, départ de Jensen Huang selon Investopedia, réaction aux résultats selon Saxo) ; aucune raison n'est mise sur les slides. Une seule source pour : contrats américains de ce matin (Saxo, dimanche soir), ouverture de Séoul (−2,8 %), Micron et Broadcom, les propos de Paulson, Cook et Bessent, la probabilité Kalshi, la fermeture de Tokyo aujourd'hui, l'inflation PCE « cette semaine » (date non confirmée). Contrats européens de ce matin : non trouvés. Heure du PMI flash américain : non confirmée, absente.",
+  "sources": [
+   "AP (Yakima Herald), clôtures américaines du 20 novembre : yakimaherald.com/news/nation_and_world/business/how-major-us-stock-indexes-fared-friday-11-20-2026/",
+   "Capp Notes, Closing Look du 20 novembre : cappnotes.substack.com/p/closing-look-friday-november-20-2026",
+   "Investopedia (Yahoo Finance), marchés du 20 novembre : finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-plunge-131303598.html",
+   "Edge Consultancy, Europe Market Wrap du 20 novembre : edgeconsultancykw.com/europe-market-wrap-20-november-2026/",
+   "finanzen.at et ad-hoc-news, clôture de l'Euro Stoxx 50 du 20 novembre",
+   "Saxo, Asia Market Quick Take du 23 novembre : home.saxo/en-sg/content/articles/macro/asia-market-quick-take--23-november-2026-23112026",
+   "Business Recorder (Reuters), pétrole du 23 novembre : brecorder.com/news/40450306/oil-holds-in-tight-range-as-gulf-attacks-sustain-risk-premium"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "VIX · vendredi",
+   "figure": "+26,2 %",
+   "title": "La peur explose",
+   "subtitle": "Wall Street entre en correction."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "Rebond fragile",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Contrats US",
+        "dir": "up",
+        "value": "≈ +2 %"
+       },
+       {
+        "label": "Séoul",
+        "dir": "down",
+        "value": "−2,8 %"
+       },
+       {
+        "label": "Tokyo",
+        "dir": "flat",
+        "value": "Fermée"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Séoul à l'ouverture · Tokyo en jour férié"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de vendredi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "6 910",
+        "change": "−3,7 %",
+        "dir": "down"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "≈ 5 950",
+        "change": "≈ −2,7 %",
+        "dir": "down"
+       },
+       {
+        "label": "EUR/USD",
+        "level": "≈ 1,098",
+        "change": "Stable",
+        "dir": "flat"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "≈ 4,92 %",
+        "change": "Baisse",
+        "dir": "down"
+       },
+       {
+        "label": "Brent",
+        "level": "92,57 $",
+        "change": "+0,6 %",
+        "dir": "up"
+       },
+       {
+        "label": "VIX",
+        "level": "35,89",
+        "change": "+26,2 %",
+        "dir": "up",
+        "highlight": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "La peur explose",
+    "title_size": 100,
+    "gap": 48,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "+26,2 %",
+      "dir": "up",
+      "subtitle": "Le VIX, au plus haut depuis mars"
+     },
+     {
+      "type": "range",
+      "dir": "up",
+      "tick_decimals": 0,
+      "points": [
+       {
+        "label": "Jeudi",
+        "value": 28.44,
+        "display": "28,44",
+        "role": "before"
+       },
+       {
+        "label": "Vendredi",
+        "value": 35.89,
+        "display": "35,89",
+        "role": "main"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Les actions",
+    "title": "Correction",
+    "title_size": 112,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "CAC 40",
+        "pct": -1.89,
+        "decimals": 1
+       },
+       {
+        "label": "Dow",
+        "pct": -1.93,
+        "decimals": 1
+       },
+       {
+        "label": "S&P 500",
+        "pct": -3.7,
+        "decimals": 1
+       },
+       {
+        "label": "Nasdaq",
+        "pct": -5.28,
+        "decimals": 1
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "S&P 500 : −8,6 % sur la semaine"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi Wall Street chute",
+    "title": "Les puces plongent",
+    "title_size": 100,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Nvidia",
+        "pct": -14.0,
+        "decimals": 0,
+        "display": "−14 %"
+       },
+       {
+        "label": "AMD",
+        "pct": -13.0,
+        "decimals": 0,
+        "display": "−13 %"
+       },
+       {
+        "label": "Anthropic",
+        "pct": -8.5,
+        "decimals": 1
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Le thème de l'IA se défait"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi les taux baissent",
+    "title": "Refuge",
+    "title_size": 120,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "box",
+      "style": "blue",
+      "label": "Obligations",
+      "text": "Le taux à 10 ans revient vers 4,9 %"
+     },
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Mais",
+      "text": "La Fed vise toujours une hausse en décembre"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Coupons en hausse",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "VIX au-dessus de 35",
+       "Options plus chères",
+       "Autocalls mieux rémunérés"
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Paniers tech : vérifier les barrières"
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "9 h 30",
+        "label": "PMI Allemagne"
+       },
+       {
+        "time": "10 h",
+        "label": "PMI zone euro"
+       },
+       {
+        "time": "10 h 30",
+        "label": "PMI Royaume-Uni"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris · jeudi : Thanksgiving"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "AP, Reuters, Saxo, Capp Notes"
+  }
+ },
+ "post": {
+  "hook": "La peur explose : le VIX bondit de 26 %, le S&P 500 perd 3,7 % et entre en correction, Nvidia chute de 14 %. Ce matin, les contrats américains tentent un rebond.",
+  "jour_cloture": "vendredi",
+  "rendez_vous_court": "9 h 30 : PMI flash allemand. 10 h : PMI de la zone euro. 10 h 30 : PMI britannique. Jeudi : Wall Street fermée pour Thanksgiving.",
+  "hashtags": "#bourse #marchésfinanciers #intelligenceartificielle #finance #macro"
+ }
+}
