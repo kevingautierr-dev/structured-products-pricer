@@ -1,0 +1,380 @@
+{
+ "date": "2026-11-24",
+ "carnet": {
+  "date_label": "Nov 24, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 237,17",
+    "variation": "+4,73 % (lun.)",
+    "plus_gros": "non",
+    "commentaire": "Meilleure séance depuis avril 2025, après sept baisses d'affilée. Dow +3,01 % à 49 595,31, Nasdaq +6,51 % à 24 089,56, Nasdaq 100 +6,86 %. Contrats sur le Nasdaq 100 vers −0,2 % ce matin en Asie (une seule source)."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "6 077,06",
+    "variation": "+2,27 % (lun.)",
+    "plus_gros": "non",
+    "commentaire": "Siemens Energy +6,9 %, Infineon +6,6 %, Deutsche Bank +4,8 %. DAX +2,2 % à 25 337,27, CAC 40 +1,5 % à 8 044,84. Contrats européens de ce matin non trouvés."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "1,0904",
+    "variation": "−0,60 % (lun.)",
+    "plus_gros": "non",
+    "commentaire": "Près de son plus bas depuis 18 mois ; environ 1,0905 ce matin. Le dollar profite des paris sur une hausse de taux de la Fed."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "≈ 4,92 %",
+    "variation": "quasi stable (lun.)",
+    "plus_gros": "non",
+    "commentaire": "Les sources divergent légèrement (4,918 % à 4,948 %). Le taux à 2 ans monte d'environ 4,5 pb vers 4,70 % ; adjudication à 2 ans servie à 4,700 %."
+   },
+   {
+    "label": "Brent",
+    "niveau": "89,37 $",
+    "variation": "−3,46 % (lun.)",
+    "plus_gros": "non",
+    "commentaire": "Plus bas niveau de clôture depuis le 31 août. 88,71 $ ce matin (−0,7 %). WTI à 80,17 $ (lundi)."
+   },
+   {
+    "label": "VIX",
+    "niveau": "26,62",
+    "variation": "−25,8 % (lun.)",
+    "plus_gros": "oui",
+    "commentaire": "Plus forte variation des 6 chiffres : 35,89 vendredi. La peur reflue, mais le VIX reste au-dessus de 25."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "Nvidia bondit de 31,5 %, sa meilleure séance depuis 2003, après le retour de Jensen Huang ; le S&P 500 gagne 4,73 %.",
+    "contexte": "Le conseil a rappelé Jensen Huang moins de deux semaines après son départ ; Donald Trump dit l'avoir convaincu. ARM +16 %, TSMC +14 %. Le VIX retombe de 35,89 à 26,62.",
+    "effet": "Les paniers tech « worst-of » s'éloignent de leurs barrières. À l'émission, la volatilité plus basse réduit un peu les coupons des nouveaux autocalls et Phoenix, qui restent élevés avec un VIX au-dessus de 25.",
+    "source": "AP (Yahoo Finance), Capp Notes, Saxo"
+   },
+   {
+    "titre": "Le Brent recule de 3,5 % à 89,37 $, son plus bas niveau de clôture depuis le 31 août.",
+    "contexte": "La Libye a rouvert l'oléoduc de Sharara et les flux du Moyen-Orient augmentent, alors que le détroit d'Ormuz reste fermé.",
+    "effet": "Bonne nouvelle pour l'inflation. Pour un autocall adossé à des pétrolières (TotalEnergies, Eni), le sous-jacent se rapproche de sa barrière : faire le point.",
+    "source": "Business Recorder (Reuters), Capp Notes, Saxo"
+   },
+   {
+    "titre": "Les marchés parient sur une hausse de taux de la Fed le 9 décembre ; le taux à 2 ans monte vers 4,70 % et l'euro recule à 1,0904 $.",
+    "contexte": "Selon Capp Notes, le FedWatch du CME donne environ 98 % de chances d'une hausse de 25 pb ; John Williams (Fed de New York) juge que la Fed a encore « du travail ». PMI composite de la zone euro à 51,7, contraction en France.",
+    "effet": "Des taux courts américains vers 4,7 % rendent attractifs le capital protégé et les reverse convertibles en dollars. Client en euros : couvrir le change.",
+    "source": "Capp Notes, Saxo, ad-hoc-news"
+   }
+  ],
+  "geopolitique": "JD Vance a rencontré le Premier ministre du Qatar en vue de possibles discussions avec Téhéran. Donald Trump suspend de nouvelles frappes sur l'Iran jusqu'après le Nouvel An. L'Iran exige la levée du blocus et des sanctions avant de rouvrir entièrement Ormuz, toujours fermé. Les Gardiens de la révolution disent que trois pétroliers ont heurté des mines lundi.",
+  "rendez_vous": "Aujourd'hui, résultats de Medtronic et Analog Devices avant l'ouverture américaine, de Workday et Autodesk après la clôture ; Dell, HP, Best Buy et Dollar Tree publient aussi. En Asie, Xiaomi. Demain : John Deere. Jeudi, Wall Street sera fermée pour Thanksgiving. Le 29 novembre, réunion de l'OPEP+ ; Fed le 9 décembre.",
+  "heure_impact": "15 h 30 (heure de Paris), ouverture de Wall Street : la tenue du rebond de Nvidia et des semi-conducteurs dira si la correction est terminée. Après 22 h, Workday et Autodesk : un test pour les logiciels face à l'IA. Toute nouvelle sur Ormuz ou les discussions avec l'Iran ferait bouger le pétrole.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "The relief rally is spreading to Asia. Tokyo and Seoul are sharply higher, US futures are flat, and Brent slips below 89 dollars.",
+    "fr": "Le rebond gagne l'Asie. Tokyo et Séoul sont en forte hausse, les contrats américains sont stables, et le Brent glisse sous 89 dollars."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "Yesterday Nvidia jumped 31.5 %, its best day since 2003, and the S&P 500 gained 4.7 % to 7,237, its best session since April 2025. The Nasdaq rose 6.5 % and the Euro Stoxx 50 2.3 %. Fear fell: the VIX lost 26 % to 26.6.",
+    "fr": "Hier, Nvidia a bondi de 31,5 %, sa meilleure séance depuis 2003, et le S&P 500 a gagné 4,7 % à 7 237 points, sa meilleure séance depuis avril 2025. Le Nasdaq a pris 6,5 % et l'Euro Stoxx 50 2,3 %. La peur a reculé : le VIX a perdu 26 % à 26,6."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "Nvidia's board brought back Jensen Huang as CEO, and the AI trade came back to life. Oil fell 3.5 % to its lowest close since August as Libyan supply returned.",
+    "fr": "Le conseil de Nvidia a rappelé Jensen Huang comme directeur général, et le thème de l'IA a repris vie. Le pétrole a perdu 3,5 %, à son plus bas niveau de clôture depuis août, avec le retour de l'offre libyenne."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "Tech baskets move away from their barriers, but lower volatility means slightly smaller coupons on new autocalls. Energy underlyings need a barrier check.",
+    "fr": "Les paniers tech s'éloignent de leurs barrières, mais une volatilité plus basse signifie des coupons un peu moins élevés sur les nouveaux autocalls. Les sous-jacents pétroliers demandent un point sur les barrières."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "Whether the rally holds at the Wall Street open at 3.30 pm, then Workday and Autodesk results tonight.",
+    "fr": "La tenue du rebond à l'ouverture de Wall Street à 15 h 30, puis les résultats de Workday et Autodesk ce soir."
+   }
+  ],
+  "a_verifier": "Taux US à 10 ans : 4,92 % inchangé (Capp Notes), 4,918 % (+0,6 pb, Yahoo) ou 4,948 % (Saxo) ; affiché « ≈ 4,92 % » et « Stable », sans variation chiffrée. EUR/USD : 1,0904 (−0,60 %) selon Capp Notes seulement pour la clôture, 1,0905 ce matin selon Saxo. Asie ce matin : Nikkei +3,83 % selon une seule source (niveau différent ailleurs) ; Kospi +6,2 % (Saxo) ou +7,19 % (autre source) : aucun chiffre sur les slides. Une seule source pour : probabilité FedWatch de 98 %, propos de John Williams, contrats sur le Nasdaq 100 (−0,2 %), PMI composite de la zone euro (51,7), clôture de Nvidia (165,05 $). Contrats européens de ce matin et VIX ce matin : non trouvés. Heures de publication de Dell, HP et Best Buy : non confirmées. Inflation PCE cette semaine : date non confirmée, absente.",
+  "sources": [
+   "AP (Yahoo Finance), clôtures américaines du 23 novembre : finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-213053319.html",
+   "Capp Notes, Closing Look du 23 novembre : cappnotes.substack.com/p/closing-look-monday-november-23-2026",
+   "finanzen.at, clôture de l'Euro Stoxx 50 du 23 novembre : finanzen.at/nachrichten/aktien/euro-stoxx-50-aktuell-euro-stoxx-50-zum-ende-des-montagshandels-freundlich-1036792717",
+   "ad-hoc-news, Euro Stoxx 50 et PMI du 23 novembre : ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-rebounds-1-06-prozent-as-tech-stocks-lead-europe/70546540",
+   "Saxo, Asia Market Quick Take du 24 novembre : home.saxo/en-sg/content/articles/macro/asia-market-quick-take--24-november-2026-24112026",
+   "Business Recorder (Reuters), pétrole du 24 novembre : brecorder.com/news/40450477/oil-prices-near-three-month-lows-as-rising-supply-offsets-hormuz-threat",
+   "STL.News, marchés du 23 novembre : stl.news/us-stock-market-today-november-23-2026/"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "Nvidia · lundi",
+   "figure": "+31,5 %",
+   "title": "Huang revient",
+   "subtitle": "Wall Street signe sa meilleure séance depuis avril 2025."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "Le rebond gagne l'Asie",
+    "title_size": 96,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Tokyo",
+        "dir": "up",
+        "value": "Forte hausse"
+       },
+       {
+        "label": "Séoul",
+        "dir": "up",
+        "value": "Forte hausse"
+       },
+       {
+        "label": "Brent",
+        "dir": "down",
+        "value": "88,71 $"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Tokyo rouvre après un jour férié"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de lundi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 237",
+        "change": "+4,7 %",
+        "dir": "up"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "6 077",
+        "change": "+2,3 %",
+        "dir": "up"
+       },
+       {
+        "label": "EUR/USD",
+        "level": "1,090",
+        "change": "−0,6 %",
+        "dir": "down"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "≈ 4,92 %",
+        "change": "Stable",
+        "dir": "flat"
+       },
+       {
+        "label": "Brent",
+        "level": "89,37 $",
+        "change": "−3,5 %",
+        "dir": "down"
+       },
+       {
+        "label": "VIX",
+        "level": "26,62",
+        "change": "−25,8 %",
+        "dir": "down",
+        "highlight": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "Nvidia s'envole",
+    "title_size": 100,
+    "gap": 56,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "+31,5 %",
+      "dir": "up",
+      "subtitle": "Meilleure séance depuis 2003"
+     },
+     {
+      "type": "box",
+      "style": "blue",
+      "label": "Pourquoi",
+      "text": "Jensen Huang rappelé à la tête du groupe"
+     }
+    ]
+   },
+   {
+    "kicker": "Les actions",
+    "title": "Rebond général",
+    "title_size": 104,
+    "gap": 44,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Nasdaq",
+        "pct": 6.51,
+        "decimals": 1
+       },
+       {
+        "label": "S&P 500",
+        "pct": 4.73,
+        "decimals": 1
+       },
+       {
+        "label": "Dow",
+        "pct": 3.01,
+        "decimals": 1
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "pct": 2.27,
+        "decimals": 1
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "S&P 500 : meilleure séance depuis avril 2025"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi tout rebondit",
+    "title": "La peur reflue",
+    "title_size": 104,
+    "gap": 48,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "−25,8 %",
+      "dir": "down",
+      "subtitle": "Le VIX en une séance"
+     },
+     {
+      "type": "range",
+      "dir": "down",
+      "tick_decimals": 0,
+      "points": [
+       {
+        "label": "Vendredi",
+        "value": 35.89,
+        "display": "35,89",
+        "role": "before"
+       },
+       {
+        "label": "Lundi",
+        "value": 26.62,
+        "display": "26,62",
+        "role": "main"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi le pétrole baisse",
+    "title": "Plus d'offre",
+    "title_size": 112,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "metrics",
+      "metrics": [
+       {
+        "small": "Brent",
+        "label": "Clôture lundi",
+        "value": "89,37 $",
+        "tone": "down"
+       },
+       {
+        "small": "Brent",
+        "label": "Ce matin",
+        "value": "88,71 $",
+        "tone": "down"
+       }
+      ]
+     },
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Cause",
+      "text": "La Libye rouvre l'oléoduc de Sharara"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Barrières soulagées",
+    "title_size": 96,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "La tech rebondit",
+       "Paniers loin des barrières",
+       "Coupons un peu moins élevés"
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Énergie : vérifier les barrières"
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "15 h 30",
+        "label": "Ouverture de Wall Street"
+       },
+       {
+        "time": "Après 22 h",
+        "label": "Workday, Autodesk"
+       },
+       {
+        "time": "Jeudi",
+        "label": "Thanksgiving"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris · Fed le 9 décembre"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "AP, Reuters, Saxo, Capp Notes"
+  }
+ },
+ "post": {
+  "hook": "Jensen Huang revient, Nvidia s'envole de 31,5 %. Le S&P 500 signe sa meilleure séance depuis avril 2025, le VIX retombe de 26 % et le Brent passe sous 90 $.",
+  "jour_cloture": "lundi",
+  "rendez_vous_court": "15 h 30 : ouverture de Wall Street et tenue du rebond. Après 22 h : résultats de Workday et Autodesk. Jeudi : Wall Street fermée pour Thanksgiving.",
+  "hashtags": "#bourse #marchésfinanciers #nvidia #finance #macro"
+ }
+}
