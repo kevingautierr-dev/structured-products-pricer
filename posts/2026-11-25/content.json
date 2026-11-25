@@ -1,0 +1,380 @@
+{
+ "date": "2026-11-25",
+ "carnet": {
+  "date_label": "Nov 25, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 201,09",
+    "variation": "−0,50 % (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Huitième baisse en neuf séances. Nasdaq −1,48 % à 23 733,54, Dow +0,85 % à 50 018,70. La tech (−3,26 %) est le seul grand secteur en baisse ; la santé gagne 2,95 %."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "6 003,10",
+    "variation": "−1,17 % (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Infineon −9,7 %, ASML −5,6 %, Aixtron −16,3 % ; Sanofi +9,9 % sur le rachat d'Insmed. DAX −1,3 % à 25 017,81. Contrats européens de ce matin non trouvés."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "1,0966",
+    "variation": "+0,58 % (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Rebond après un plus bas de l'année vers 1,0881 lundi. Le dollar index recule de 0,47 %. Environ 1,0960 ce matin en Asie."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "≈ 4,90 %",
+    "variation": "≈ −1 pb (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Les sources divergent sur le niveau (4,90 % à 4,93 %). Taux à 2 ans entre 4,63 % et 4,69 % selon les sources."
+   },
+   {
+    "label": "Brent",
+    "niveau": "91,40 $",
+    "variation": "+2,27 % (mar.)",
+    "plus_gros": "oui",
+    "commentaire": "Plus forte variation des 6 chiffres. Rebond après le plus bas depuis fin août lundi. WTI à 82,05 $ (+2,35 %), vers 81,66 $ en début de séance asiatique."
+   },
+   {
+    "label": "VIX",
+    "niveau": "26,36",
+    "variation": "−1,0 % (mar.)",
+    "plus_gros": "non",
+    "commentaire": "Quasi stable après la chute de lundi (26,62). La volatilité reste au-dessus de 25."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "Les semi-conducteurs rechutent : Micron −11 %, AMD −8,9 %, Intel −8,2 % ; le Nasdaq perd 1,48 % au lendemain du rebond de Nvidia.",
+    "contexte": "Crainte d'une demande plus faible en mémoire à haut débit pour l'IA ; BNP Paribas a dégradé Micron. Analog Devices chute de 17 % malgré des résultats supérieurs aux attentes.",
+    "effet": "Les paniers tech « worst-of » repartent vers leurs barrières après une seule séance de répit : faire le point avec les clients concernés. Avec un VIX au-dessus de 25, les coupons des nouveaux autocalls et Phoenix sur la tech restent élevés.",
+    "source": "Capp Notes, Saxo, Stocktitan, Investrade"
+   },
+   {
+    "titre": "Le Brent remonte de 2,3 % à 91,40 $, porté par les tensions autour d'Ormuz.",
+    "contexte": "Selon Saxo, l'Iran dit que quatre pétroliers ont pris feu après avoir heurté des mines ; les États-Unis élargissent les sanctions contre Téhéran et envoient un troisième porte-avions dans le Golfe.",
+    "effet": "Un peu d'air pour les autocalls adossés à des pétrolières (TotalEnergies, Eni), après la baisse de lundi. Le risque d'inflation importée remonte, ce qui soutient les taux.",
+    "source": "Saxo, Capp Notes, Investrade"
+   },
+   {
+    "titre": "La Fed se dirige vers une hausse de taux le 9 décembre ; la confiance des consommateurs américains bondit à 103,3.",
+    "contexte": "John Williams (Fed de New York) juge l'inflation « trop élevée » et soutient une hausse ; le marché la voit à environ 95 %. Confiance du Conference Board à 103,3, contre environ 92 attendu. Aujourd'hui, inflation PCE et PIB.",
+    "effet": "Des taux courts américains vers 4,6-4,7 % rendent attractifs le capital protégé et les reverse convertibles en dollars. L'euro rebondit vers 1,097 : pour un client en euros, couvrir le change.",
+    "source": "Capp Notes, Saxo, FinScans, Vibiznews"
+   }
+  ],
+  "geopolitique": "Le détroit d'Ormuz reste le principal risque. Selon Saxo, l'Iran affirme que quatre pétroliers ont pris feu après avoir heurté des mines et menace de renforcer son contrôle du détroit. Washington élargit ses sanctions et envoie un troisième porte-avions dans le Golfe. L'administration Trump pourrait aussi annoncer cette semaine de nouveaux droits de douane visant la Chine, l'Union européenne et d'autres pays.",
+  "rendez_vous": "Aujourd'hui, journée chargée avant Thanksgiving : PIB américain du 3e trimestre (deuxième estimation, consensus vers 3,4 %), inflation PCE d'octobre (cœur attendu à +0,3 % sur un mois), commandes de biens durables et inscriptions au chômage, puis ventes de logements neufs et Beige Book de la Fed. Résultats de John Deere et Li Auto avant l'ouverture américaine. En Allemagne, PIB définitif du 3e trimestre. Jeudi, Wall Street fermée pour Thanksgiving ; vendredi, séance écourtée. Fed le 9 décembre.",
+  "heure_impact": "14 h 30 (heure de Paris), PIB, PCE, biens durables et chômage : une inflation au-dessus des attentes confirmerait la hausse de taux de décembre et soutiendrait le dollar. 16 h, ventes de logements neufs. 20 h, Beige Book de la Fed. Toute nouvelle sur Ormuz ferait bouger le pétrole.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "Risk appetite is fading again. Seoul is sharply lower, Tokyo is down, and investors are waiting for US inflation and growth data before Thanksgiving.",
+    "fr": "L'appétit pour le risque retombe. Séoul est en forte baisse, Tokyo recule, et les investisseurs attendent l'inflation et la croissance américaines avant Thanksgiving."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "Yesterday chip stocks fell back: Micron lost 11 % and the Nasdaq 1.5 %, while the S&P 500 slipped 0.5 % to 7,201 and the Euro Stoxx 50 1.2 %. At the same time Brent rose 2.3 % to 91.40 dollars.",
+    "fr": "Hier, les semi-conducteurs ont rechuté : Micron a perdu 11 % et le Nasdaq 1,5 %, tandis que le S&P 500 cédait 0,5 % à 7 201 points et l'Euro Stoxx 50 1,2 %. Dans le même temps, le Brent a gagné 2,3 % à 91,40 dollars."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "Investors doubt demand for AI memory chips after Monday's rally. Oil is up again on tension in the Strait of Hormuz, where Iran says tankers hit mines.",
+    "fr": "Les investisseurs doutent de la demande de mémoire pour l'IA après le rebond de lundi. Le pétrole remonte avec les tensions dans le détroit d'Ormuz, où l'Iran dit que des pétroliers ont heurté des mines."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "Tech baskets move back toward their barriers, but volatility stays high, so coupons on new autocalls remain generous. Energy underlyings get some breathing room.",
+    "fr": "Les paniers tech se rapprochent à nouveau de leurs barrières, mais la volatilité reste élevée, donc les coupons des nouveaux autocalls restent généreux. Les sous-jacents pétroliers respirent un peu."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "US GDP and PCE inflation at 2.30 pm, then the Fed's Beige Book at 8 pm.",
+    "fr": "Le PIB et l'inflation PCE américains à 14 h 30, puis le Beige Book de la Fed à 20 h."
+   }
+  ],
+  "a_verifier": "Taux US à 10 ans : 4,90 % (Capp Notes, −1 pb), 4,904 % (Investrade, −1,4 pb) ou 4,932 % (Saxo, −1,6 pb) ; affiché « ≈ 4,90 % » et « ≈ −1 pb ». Euro Stoxx 50 : 6 003,10 (−1,17 %, ad-hoc-news) ou 6 003,76 (−1,2 %, Saxo). VIX (26,36, −0,98 %) : une seule source, cohérent avec la clôture de lundi. Nvidia : −5,9 % ou −6,5 % selon les sources, absent des slides. Asie ce matin : Kospi vers −4,6 % à −5 %, Nikkei vers −1,4 % à l'ouverture : aucun chiffre sur les slides. Contrats américains : −0,5 % (S&P) et −0,9 % (Nasdaq 100) tard mardi selon une source, quasi stables selon une autre : absents des slides. Contrats européens de ce matin : non trouvés. Une seule source pour : les quatre pétroliers touchés, le troisième porte-avions, la dégradation de Micron par BNP Paribas, le consensus du PCE (+0,3 %) et du PIB (3,4 %), le PIB allemand d'aujourd'hui. Durables et logements neufs : consensus non trouvé.",
+  "sources": [
+   "Capp Notes, Closing Look du 24 novembre : cappnotes.substack.com/p/closing-look-tuesday-november-24",
+   "AP (La Nación), clôtures américaines du 24 novembre : lanacion.com.ar/usa/how-major-us-stock-indexes-fared-tuesday-11242026-nid24112026/",
+   "Stocktitan, marchés du 24 novembre : stocktitan.net/articles/stock-market-today-live-november-24-2026",
+   "Investrade, Market Review du 24 novembre : investrade.com/market-review-november-24-2026/",
+   "ad-hoc-news, clôture de l'Euro Stoxx 50 du 24 novembre : ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-closes-1-17-prozent-lower-as-tech-rally-fades/70550685",
+   "Saxo, Asia Market Quick Take du 25 novembre : home.saxo/en-sg/content/articles/macro/asia-market-quick-take-25-november-2026-25112026",
+   "FinScans, EUR/USD du 25 novembre : finscans.com/news/2026/11/25/eurusd-slips-to-10960-as-markets-brace-for-us-pce-and-gdp",
+   "Vibiznews, EUR/USD du 25 novembre : vibiznews.com/index.php/2026/11/25/rekomendasi-forex-eur-usd-25-november-2026-dipengaruhi-pergerakan-dolar-as-cermati-data-ekonomi-jerman-dan-as/"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "Micron · mardi",
+   "figure": "−11 %",
+   "title": "Les puces rechutent",
+   "subtitle": "Le rebond de l'IA n'aura duré qu'une séance."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "L'Asie recule",
+    "title_size": 112,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Séoul",
+        "dir": "down",
+        "value": "Forte baisse"
+       },
+       {
+        "label": "Tokyo",
+        "dir": "down",
+        "value": "En baisse"
+       },
+       {
+        "label": "Pétrole",
+        "dir": "flat",
+        "value": "Stable"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "PIB et inflation US à 14 h 30"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de mardi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 201",
+        "change": "−0,5 %",
+        "dir": "down"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "6 003",
+        "change": "−1,2 %",
+        "dir": "down"
+       },
+       {
+        "label": "EUR/USD",
+        "level": "1,097",
+        "change": "+0,6 %",
+        "dir": "up"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "≈ 4,90 %",
+        "change": "≈ −1 pb",
+        "dir": "down"
+       },
+       {
+        "label": "Brent",
+        "level": "91,40 $",
+        "change": "+2,3 %",
+        "dir": "up",
+        "highlight": true
+       },
+       {
+        "label": "VIX",
+        "level": "26,36",
+        "change": "−1,0 %",
+        "dir": "down"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "Les puces chutent",
+    "title_size": 100,
+    "gap": 56,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Micron",
+        "pct": -11.01,
+        "decimals": 1
+       },
+       {
+        "label": "AMD",
+        "pct": -8.86,
+        "decimals": 1
+       },
+       {
+        "label": "Intel",
+        "pct": -8.15,
+        "decimals": 1
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Au lendemain du +31,5 % de Nvidia"
+     }
+    ]
+   },
+   {
+    "kicker": "Les actions",
+    "title": "Wall Street divisée",
+    "title_size": 100,
+    "gap": 44,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Dow",
+        "pct": 0.9,
+        "decimals": 1
+       },
+       {
+        "label": "S&P 500",
+        "pct": -0.5,
+        "decimals": 1
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "pct": -1.17,
+        "decimals": 1
+       },
+       {
+        "label": "Nasdaq",
+        "pct": -1.48,
+        "decimals": 1
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "S&P 500 : 8 baisses en 9 séances"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi la tech recule",
+    "title": "Doutes sur l'IA",
+    "title_size": 112,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "metrics",
+      "metrics": [
+       {
+        "small": "Nvidia",
+        "label": "Lundi",
+        "value": "+31,5 %",
+        "tone": "up"
+       },
+       {
+        "small": "Micron",
+        "label": "Mardi",
+        "value": "−11 %",
+        "tone": "down"
+       }
+      ]
+     },
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Cause",
+      "text": "La demande de mémoire pour l'IA inquiète"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi le pétrole monte",
+    "title": "Ormuz sous tension",
+    "title_size": 100,
+    "gap": 56,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "+2,3 %",
+      "dir": "up",
+      "subtitle": "Brent à 91,40 $"
+     },
+     {
+      "type": "box",
+      "style": "alert",
+      "label": "Iran",
+      "text": "Des pétroliers touchés par des mines"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Barrières sous pression",
+    "title_size": 92,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "Les puces rechutent",
+       "Paniers tech plus fragiles",
+       "Coupons toujours élevés"
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Énergie : un peu d'air pour les barrières"
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "14 h 30",
+        "label": "PIB et inflation PCE"
+       },
+       {
+        "time": "20 h",
+        "label": "Beige Book de la Fed"
+       },
+       {
+        "time": "Jeudi",
+        "label": "Thanksgiving"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris · Fed le 9 décembre"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "AP, Saxo, Capp Notes, Investrade"
+  }
+ },
+ "post": {
+  "hook": "Le rebond de l'IA n'aura duré qu'une séance : Micron perd 11 % et le Nasdaq 1,5 %. Le Brent remonte à 91,40 $ avec les tensions à Ormuz, avant l'inflation PCE de 14 h 30.",
+  "jour_cloture": "mardi",
+  "rendez_vous_court": "14 h 30 : PIB et inflation PCE américains. 20 h : Beige Book de la Fed. Jeudi : Wall Street fermée pour Thanksgiving.",
+  "hashtags": "#bourse #marchésfinanciers #semiconducteurs #finance #macro"
+ }
+}
