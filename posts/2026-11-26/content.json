@@ -1,0 +1,385 @@
+{
+ "date": "2026-11-26",
+ "carnet": {
+  "date_label": "Nov 26, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 182,78",
+    "variation": "−0,25 % (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Jusqu'à −3,2 % en séance (plus bas 6 970,11) avant un net rattrapage. Nasdaq −0,62 % à 23 585,80 (jusqu'à −4,6 % en séance), Dow +0,33 % à 50 182,95 après avoir perdu plus de 1 100 points. Wall Street fermée aujourd'hui (Thanksgiving), séance écourtée vendredi."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "5 894,46",
+    "variation": "−1,82 % (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Plus bas de clôture depuis le 19 mai. ASML −5,8 %, Prosus −4,9 %, Schneider −4,2 % ; Sanofi +4,9 %, BMW +3,7 %. DAX −1,14 % à 24 733, CAC 40 −0,75 % à 7 981."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "≈ 1,097",
+    "variation": "quasi stable (mer.)",
+    "plus_gros": "non",
+    "commentaire": "1,0974 mercredi soir, 1,0961 ce matin en Asie (une seule source). Dollar index à 103,71 (−0,10 %)."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "≈ 4,85 %",
+    "variation": "en baisse (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Repli malgré une inflation PCE plus forte que prévu : −6 pb selon Capp Notes, « peu changé » selon AP. Taux à 2 ans à 4,61 % (−2 pb), 30 ans à 5,24 % (une source)."
+   },
+   {
+    "label": "Brent",
+    "niveau": "94,61 $",
+    "variation": "+3,5 % (mer.)",
+    "plus_gros": "non",
+    "commentaire": "Les Houthis revendiquent une attaque contre Ras Tanura, la plus grande raffinerie saoudienne. WTI à 83,68 $ (+2 %). Niveau de ce matin à vérifier (voir plus bas)."
+   },
+   {
+    "label": "VIX",
+    "niveau": "28,29",
+    "variation": "+7,3 % (mer.)",
+    "plus_gros": "oui",
+    "commentaire": "Plus forte variation des 6 chiffres. Au-dessus de 30 dans la matinée américaine, avant de redescendre avec le rattrapage des indices."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "Inflation PCE plus forte que prévu : le cœur monte à 3,3 % sur un an (3,2 % attendu) ; la croissance du 3e trimestre est révisée à 4,3 %.",
+    "contexte": "Inflation totale à 3,8 %. Le marché voit à environ 98 % une hausse de taux de la Fed le 9 décembre.",
+    "effet": "Des taux courts américains vers 4,6 % gardent attractifs le capital protégé et les reverse convertibles en dollars ; pour un client en euros, couvrir le change.",
+    "source": "Capp Notes, GSM Global News (AP), Motley Fool"
+   },
+   {
+    "titre": "La tech plonge puis se reprend : le Nasdaq a perdu jusqu'à 4,6 % en séance avant de finir à −0,62 % ; Nvidia cède 3,9 %.",
+    "contexte": "Doutes sur les dépenses d'IA, crainte des hausses de taux et droits de douane. À son plus bas, le Nasdaq 100 était 20 % sous son sommet d'octobre. En Europe, ASML perd 5,8 %.",
+    "effet": "Les paniers tech « worst-of » ont frôlé leurs barrières : faire le point avec les clients. Avec un VIX vers 28, les coupons des nouveaux autocalls et Phoenix restent élevés.",
+    "source": "Capp Notes, GSM Global News (AP), Motley Fool, ad-hoc-news"
+   },
+   {
+    "titre": "Washington propose de nouveaux droits de douane sur 14 partenaires, jusqu'à 20 % pour la Chine.",
+    "contexte": "Taux pour l'UE encore flou selon les sources ; mesures pas avant janvier, après une audition publique.",
+    "effet": "Pression sur les exportateurs européens, sous-jacents fréquents des autocalls sur actions européennes ; l'incertitude soutient les coupons à l'émission.",
+    "source": "Capp Notes, political.org (AP), Newsquawk (WSJ)"
+   }
+  ],
+  "geopolitique": "Le Golfe reste sous tension. Les Houthis revendiquent une attaque contre Ras Tanura, la plus grande raffinerie saoudienne, sans précision sur la production. Près d'Ormuz, un porte-conteneurs a été visé par les Gardiens de la révolution. Téhéran dit toutefois disposer d'une marge pour dialoguer. Opep+ le 29 novembre.",
+  "rendez_vous": "Aujourd'hui, Wall Street est fermée pour Thanksgiving : liquidité réduite. En Europe, confiance des consommateurs allemands GfK (attendue à −29, après −30,8), masse monétaire M3 de la zone euro, puis compte rendu de la dernière réunion de la BCE. En Asie, la Corée du Sud a relevé son taux de 25 pb. Vendredi, séance américaine écourtée (clôture à 19 h, heure de Paris), sentiment économique de la zone euro, inflation de Tokyo. Dimanche, Opep+. Fed le 9 décembre.",
+  "heure_impact": "8 h (heure de Paris), GfK : un nouveau recul confirmerait la faiblesse de la consommation allemande. 10 h, M3 de la zone euro. 13 h 30, compte rendu de la BCE : le ton sur l'inflation importée par le pétrole et sur les droits de douane fera bouger l'euro et les taux européens. Sans Wall Street, toute nouvelle sur le Golfe pèsera directement sur le pétrole.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "Asia is bouncing back, led by AI stocks, and US futures are slightly higher. Wall Street is closed today for Thanksgiving, so liquidity will be thin.",
+    "fr": "L'Asie rebondit, portée par les valeurs de l'IA, et les contrats à terme américains sont en légère hausse. Wall Street est fermée aujourd'hui pour Thanksgiving : la liquidité sera faible."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "Yesterday the S&P 500 fell as much as 3.2 % during the session, then recovered to close only 0.25 % lower at 7,183. The VIX still jumped 7 % to 28. Europe closed before the rebound: the Euro Stoxx 50 lost 1.8 %, and Brent gained 3.5 % to 94.61 dollars.",
+    "fr": "Hier, le S&P 500 a perdu jusqu'à 3,2 % en séance, avant de se reprendre pour finir en baisse de 0,25 % seulement, à 7 183 points. Le VIX a tout de même bondi de 7 % à 28. L'Europe a fermé avant le rebond : l'Euro Stoxx 50 a perdu 1,8 %, et le Brent a gagné 3,5 % à 94,61 dollars."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "Core PCE inflation came in at 3.3 %, above forecasts, so a Fed hike in December is now almost certain. Washington also proposed new tariffs, up to 20 % on China. And the Houthis claim an attack on Saudi Arabia's biggest refinery.",
+    "fr": "L'inflation PCE sous-jacente est ressortie à 3,3 %, au-dessus des attentes : une hausse de taux de la Fed en décembre est désormais quasi certaine. Washington a aussi proposé de nouveaux droits de douane, jusqu'à 20 % sur la Chine. Et les Houthis revendiquent une attaque contre la plus grande raffinerie saoudienne."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "Tech baskets came close to their barriers during the session, so check in with those clients. With volatility near 28, coupons on new autocalls stay generous, and high US rates keep capital protected notes attractive.",
+    "fr": "Les paniers tech se sont approchés de leurs barrières en séance : faire le point avec ces clients. Avec une volatilité vers 28, les coupons des nouveaux autocalls restent généreux, et les taux américains élevés gardent le capital protégé attractif."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "German consumer confidence at 8 am, then the ECB meeting accounts at 1.30 pm.",
+    "fr": "La confiance des consommateurs allemands à 8 h, puis le compte rendu de la BCE à 13 h 30."
+   }
+  ],
+  "a_verifier": "Brent : clôture à 94,61 $ (+3,5 %) selon Capp Notes et The Nation, mais AP affiche ce matin 91,11 $ (+0,5 %), ce qui ne colle pas (contrat différent ?) : niveau de ce matin absent des slides. Euro Stoxx 50 : 5 894,46 (−1,82 %, ad-hoc-news) ou 5 891 (−1,88 %, Newsquawk via stocknow). Taux US à 10 ans : 4,85 % et −6 pb selon Capp Notes, « environ 4,86 %, peu changé » selon AP : variation affichée « en baisse » seulement. EUR/USD : une seule source (AP, 1,0974 mercredi soir, 1,0961 ce matin). VIX : 28,29 (+7,32 %), Capp Notes et Yahoo, cohérent. Asie ce matin : AP et political.org divergent (Nikkei +1,3 % ou +1,6 %, Kospi +1,2 % ou +1,9 %, Hang Seng +1,9 % ou +1,5 %) : aucun chiffre sur les slides. Contrats américains (+0,5 % S&P, +0,4 % Nasdaq) : une seule source, absents des slides. Droits de douane sur l'UE : 15 % ou moins (WSJ) ou jusqu'à 20 % (AP). Une seule source pour : l'attaque de Ras Tanura (The Nation, Capp Notes), la hausse de taux coréenne, le calendrier du jour (ActionForex : GfK 8 h, M3 10 h, BCE 13 h 30). Consensus PCE total non trouvé ; biens durables, inscriptions au chômage et logements neufs non trouvés.",
+  "sources": [
+   "Capp Notes, Closing Look du 25 novembre : cappnotes.substack.com/p/closing-look-wednesday-november-25",
+   "GSM Global News (AP), clôtures américaines du 25 novembre : gsmglobalnews.com/article/d20261125-mktclose1.html",
+   "Motley Fool, marchés du 25 novembre : fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-nvidia-slides-3-9-as-the-market-considers-hot-pce-inflation-data-and-new-tariff-proposals/",
+   "ad-hoc-news, clôture de l'Euro Stoxx 50 du 25 novembre : ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-closes-1-82-prozent-lower-at-5-894-46-as-ai-fears-return/70555310",
+   "Stocknow (Newsquawk), clôtures européennes du 25 novembre : stocknow.ai/en/breaking-news/glkjoilbb5xzyf7geyz8e5fm",
+   "The Nation (Reuters), pétrole du 25 novembre : nationthailand.com/news/world/40073934",
+   "AP (Yahoo Finance), Asie du 26 novembre : finance.yahoo.com/markets/stocks/articles/asian-shares-rebound-led-ai-052153058.html",
+   "political.org, Asie et droits de douane : political.org/2026/11/25/asian-shares-stage-rare-rebound-after-wall-street-recovers-from-steep-ai-selloff-with-new-tariffs-looming/",
+   "ActionForex, calendrier du 26 novembre : actionforex.com/economic-calendar/661597-eco-data-11-26-26/"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "S&P 500 · mercredi",
+   "figure": "−3,2 %",
+   "title": "Le grand rattrapage",
+   "subtitle": "Au plus bas en séance, avant de finir à −0,25 %."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "L'Asie rebondit",
+    "title_size": 108,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Tokyo",
+        "dir": "up",
+        "value": "En hausse"
+       },
+       {
+        "label": "Séoul",
+        "dir": "up",
+        "value": "En hausse"
+       },
+       {
+        "label": "Hong Kong",
+        "dir": "up",
+        "value": "En hausse"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Wall Street fermée · Thanksgiving"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de mercredi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 183",
+        "change": "−0,25 %",
+        "dir": "down"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "5 894",
+        "change": "−1,8 %",
+        "dir": "down"
+       },
+       {
+        "label": "EUR/USD",
+        "level": "1,097",
+        "change": "stable",
+        "dir": "flat"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "4,85 %",
+        "change": "baisse",
+        "dir": "down"
+       },
+       {
+        "label": "Brent",
+        "level": "94,61 $",
+        "change": "+3,5 %",
+        "dir": "up"
+       },
+       {
+        "label": "VIX",
+        "level": "28,29",
+        "change": "+7,3 %",
+        "dir": "up",
+        "highlight": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "Aller-retour",
+    "title_size": 112,
+    "gap": 48,
+    "blocks": [
+     {
+      "type": "range",
+      "dir": "down",
+      "points": [
+       {
+        "label": "Mardi",
+        "value": 7201.09,
+        "display": "7 201",
+        "role": "before"
+       },
+       {
+        "label": "Plus bas",
+        "value": 6970.11,
+        "display": "6 970",
+        "role": "main"
+       },
+       {
+        "label": "Clôture",
+        "value": 7182.78,
+        "display": "7 183",
+        "role": "now"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Dow : −1 100 points effacés"
+     }
+    ]
+   },
+   {
+    "kicker": "Les actions",
+    "title": "L'Europe paie",
+    "title_size": 100,
+    "gap": 36,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Dow",
+        "pct": 0.33,
+        "decimals": 2
+       },
+       {
+        "label": "S&P 500",
+        "pct": -0.25,
+        "decimals": 2
+       },
+       {
+        "label": "Nasdaq",
+        "pct": -0.62,
+        "decimals": 2
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "pct": -1.82,
+        "decimals": 1,
+        "display": "−1,8 %"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Nvidia −3,9 % · ASML −5,8 %"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi ça secoue",
+    "title": "Inflation tenace",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "metrics",
+      "metrics": [
+       {
+        "small": "PCE sous-jacent",
+        "label": "Attendu",
+        "value": "3,2 %"
+       },
+       {
+        "small": "PCE sous-jacent",
+        "label": "Publié",
+        "value": "3,3 %",
+        "tone": "down"
+       }
+      ]
+     },
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "Fed",
+      "text": "Hausse de taux en décembre quasi certaine"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi ça secoue",
+    "title": "Douane et pétrole",
+    "title_size": 100,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "box",
+      "style": "alert",
+      "label": "Washington",
+      "text": "Jusqu'à 20 % de droits sur la Chine"
+     },
+     {
+      "type": "box",
+      "style": "blue",
+      "label": "Golfe",
+      "text": "Raffinerie saoudienne visée, Brent +3,5 %"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Coupons en hausse",
+    "title_size": 104,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "Volatilité vers 28",
+       "Coupons plus généreux",
+       "Barrières tech à surveiller"
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Taux US hauts : capital protégé attractif"
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "8 h",
+        "label": "Confiance allemande (GfK)"
+       },
+       {
+        "time": "13 h 30",
+        "label": "Compte rendu de la BCE"
+       },
+       {
+        "time": "Vendredi",
+        "label": "Wall Street écourtée"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris · Fed le 9 décembre"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "AP, Reuters, Capp Notes, ad-hoc-news"
+  }
+ },
+ "post": {
+  "hook": "Wall Street a frôlé la panique avant de se reprendre : le S&P 500 a perdu jusqu'à 3,2 % en séance pour finir à −0,25 %. L'Euro Stoxx 50 recule de 1,8 %, le VIX bondit à 28 et le Brent gagne 3,5 %.",
+  "jour_cloture": "mercredi",
+  "rendez_vous_court": "Wall Street fermée pour Thanksgiving. 8 h : confiance des consommateurs allemands. 13 h 30 : compte rendu de la BCE. Vendredi : séance américaine écourtée.",
+  "hashtags": "#bourse #marchésfinanciers #inflation #finance #macro"
+ }
+}
