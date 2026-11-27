@@ -1,0 +1,405 @@
+{
+ "date": "2026-11-27",
+ "carnet": {
+  "date_label": "Nov 27, 2026",
+  "six": [
+   {
+    "label": "S&P 500",
+    "niveau": "7 182,78",
+    "variation": "−0,25 % (mer.), fermé jeudi",
+    "plus_gros": "non",
+    "commentaire": "Wall Street était fermée jeudi pour Thanksgiving : dernier cours de mercredi, après un plus bas de séance à 6 970,11. Contrats à terme en hausse ce matin (environ +0,9 % selon Bloomberg, +1,4 % selon BigGo, à des heures différentes). Séance écourtée aujourd'hui, clôture à 19 h (heure de Paris)."
+   },
+   {
+    "label": "Euro Stoxx 50",
+    "niveau": "6 014,74",
+    "variation": "+2,04 % (jeu.)",
+    "plus_gros": "oui",
+    "commentaire": "Plus forte hausse en pourcentage parmi les clôtures de jeudi confirmées, à égalité avec le Brent (+2,1 % calculé). Rebond technique après environ −3 % mardi et mercredi : tech, matières premières et automobile en tête. FTSE 100 +1,75 %, SMI +1,04 %."
+   },
+   {
+    "label": "EUR/USD",
+    "niveau": "≈ 1,097",
+    "variation": "quasi stable",
+    "plus_gros": "non",
+    "commentaire": "1,0975 jeudi soir, 1,0967 ce matin (AP) ; 1,0966 selon Bloomberg. Dollar index près de 103,8, proche de son plus haut depuis 22 mois (IC Markets)."
+   },
+   {
+    "label": "Taux US 10 ans",
+    "niveau": "4,90 % ce matin",
+    "variation": "+4 pb ce matin",
+    "plus_gros": "non",
+    "commentaire": "Marché obligataire fermé jeudi. Il était à 4,86 % avant le férié (Saxo, dpa-AFX) ; +4 pb à 4,90 % à la reprise selon Bloomberg, +5 pb à 4,9 % selon BigGo. Une hausse de 25 pb de la Fed le 9 décembre est entièrement anticipée."
+   },
+   {
+    "label": "Brent",
+    "niveau": "96,57 $",
+    "variation": "+1,96 $ (jeu.), soit +2,1 %",
+    "plus_gros": "non",
+    "commentaire": "Troisième hausse d'affilée, environ +8 % depuis le règlement de lundi à 89,37 $ (Reuters). Ce matin 96,29 $ (−0,29 %, AP) ou 96,14 $ (−0,4 %, BigGo). Pas de règlement du WTI jeudi (férié), 85,43 $ ce matin."
+   },
+   {
+    "label": "VIX",
+    "niveau": "28,29",
+    "variation": "+7,3 % (mer.), pas de clôture jeudi",
+    "plus_gros": "non",
+    "commentaire": "Dernière clôture officielle mercredi. Des cotations jeudi autour de 26,8 à 27,3 circulent (SquawkNews), sans clôture officielle un jour férié : non retenues. Courbe toujours inversée (Saxo)."
+   }
+  ],
+  "titres": [
+   {
+    "titre": "L'Euro Stoxx 50 rebondit de 2,04 % à 6 014,74 points, porté par le redressement de Wall Street mercredi soir.",
+    "contexte": "La tech, les matières premières et l'automobile mènent la hausse. Pour eToro, c'est un regain d'appétit pour le risque, pas un retour de la confiance.",
+    "effet": "Les autocalls et Phoenix sur actions européennes s'éloignent de leurs barrières. La volatilité reste élevée : les coupons à l'émission restent généreux.",
+    "source": "ad-hoc-news, dpa-AFX (ariva), finanzen.at"
+   },
+   {
+    "titre": "Le Brent termine à 96,57 $ (+1,96 $), sa troisième hausse d'affilée et environ 8 % de plus depuis lundi.",
+    "contexte": "Les Houthis revendiquent une attaque contre Ras Tanura, sans dégâts confirmés ; la raffinerie de Jazan a suspendu son activité. L'Iran affirme que deux pétroliers ont heurté des mines près d'Ormuz.",
+    "effet": "Pour un autocall sur pétrolières, le sous-jacent s'éloigne de sa barrière. Mais un pétrole cher entretient l'inflation et les taux. Coupons sur l'énergie attractifs.",
+    "source": "Reuters (N Globe, GSM Global News), Bloomberg"
+   },
+   {
+    "titre": "Le taux américain à 10 ans remonte à 4,90 % (+4 pb) à la réouverture ; une hausse de taux de la Fed le 9 décembre est entièrement anticipée.",
+    "contexte": "Effet de l'inflation PCE sous-jacente à 3,3 % publiée mercredi.",
+    "effet": "Capital protégé et reverse convertibles en dollars restent attractifs ; pour un client en euros, couvrir le change.",
+    "source": "Bloomberg (swissinfo), BigGo Finance, Saxo, SquawkNews"
+   }
+  ],
+  "geopolitique": "Le Golfe reste sous tension. Les Houthis revendiquent une attaque contre la raffinerie de Ras Tanura ; celle de Jazan, touchée, a suspendu son activité. Les Gardiens de la révolution affirment que deux pétroliers ont heurté des mines près d'Ormuz, sans confirmation indépendante. Téhéran dit que les médiations du Qatar et du Pakistan continuent. L'Opep+, sans les Émirats, se réunit dimanche et pourrait reconduire ses quotas jusqu'à fin mars 2027.",
+  "rendez_vous": "Aujourd'hui, inflation de novembre en France et en Espagne (estimations rapides), chômage allemand, sentiment économique de la zone euro. Wall Street rouvre pour une séance écourtée. Dimanche, réunion de l'Opep+ sur sa politique de production 2027. Fed le 9 décembre, Banque du Japon le 18 décembre.",
+  "heure_impact": "8 h 45 (heure de Paris), inflation française : un chiffre élevé renforcerait l'idée d'une inflation importée par le pétrole. 9 h, inflation espagnole ; 9 h 55, chômage allemand. 11 h, sentiment économique de la zone euro : un nouveau recul pèserait sur l'euro. 15 h 30, ouverture de Wall Street, qui doit rattraper le rebond européen de jeudi ; 19 h, clôture anticipée. Liquidité faible : les mouvements peuvent être amplifiés, surtout sur le pétrole si le Golfe fait de nouveau l'actualité.",
+  "pitch": [
+   {
+    "etape": "The market this morning (15 s)",
+    "en": "Asia is higher for a second day, led by chip stocks in Seoul and Tokyo. US futures are up ahead of a shortened session after Thanksgiving, and oil is steady near 96 dollars.",
+    "fr": "L'Asie monte pour la deuxième séance, portée par les valeurs des semi-conducteurs à Séoul et à Tokyo. Les contrats à terme américains progressent avant une séance écourtée après Thanksgiving, et le pétrole est stable près de 96 dollars."
+   },
+   {
+    "etape": "The two key moves (30 s)",
+    "en": "Yesterday, with Wall Street closed, the Euro Stoxx 50 jumped 2 % to 6,015, after losing about 3 % in two sessions. Brent rose almost 2 dollars to 96.57, its third gain in a row and about 8 % above Monday's level.",
+    "fr": "Hier, avec Wall Street fermée, l'Euro Stoxx 50 a bondi de 2 % à 6 015 points, après avoir perdu environ 3 % en deux séances. Le Brent a gagné près de 2 dollars à 96,57, sa troisième hausse d'affilée, environ 8 % au-dessus de son niveau de lundi."
+   },
+   {
+    "etape": "Why (20 s)",
+    "en": "Europe caught up with Wednesday evening's rebound on Wall Street, led by tech and autos. Oil is rising on attacks in the Gulf: the Houthis claim a strike on Saudi refineries, and Iran says two tankers hit mines near Hormuz.",
+    "fr": "L'Europe a rattrapé le rebond de Wall Street de mercredi soir, avec la tech et l'automobile en tête. Le pétrole monte sur les attaques dans le Golfe : les Houthis revendiquent une frappe contre des raffineries saoudiennes, et l'Iran affirme que deux pétroliers ont heurté des mines près d'Ormuz."
+   },
+   {
+    "etape": "What it changes (15 s)",
+    "en": "European autocalls move away from their barriers, but volatility stays high, so coupons on new issues remain generous. With the US 10-year back at 4.9 %, capital protected notes in dollars stay attractive, with a currency hedge for euro clients.",
+    "fr": "Les autocalls européens s'éloignent de leurs barrières, mais la volatilité reste élevée : les coupons des nouvelles émissions restent généreux. Avec un taux américain à 10 ans revenu à 4,9 %, le capital protégé en dollars reste attractif, avec une couverture de change pour les clients en euros."
+   },
+   {
+    "etape": "What we watch today (10 s)",
+    "en": "French inflation at 8.45, euro area sentiment at 11, and Wall Street's early close at 7 pm.",
+    "fr": "L'inflation française à 8 h 45, le sentiment économique de la zone euro à 11 h, et la clôture anticipée de Wall Street à 19 h."
+   }
+  ],
+  "a_verifier": "Euro Stoxx 50 : 6 014,74 (+2,04 %) selon ad-hoc-news et dpa-AFX, mais 6 018,65 (+2,11 %) selon finanzen.at (instantané de 17 h 30). DAX et CAC 40 : aucune clôture de jeudi trouvée. Brent : règlement à 96,57 $ (+1,96 $) selon Reuters via deux sites ; un site écrit +1,2 %, ce qui ne colle pas (le calcul donne +2,1 %, Bloomberg dit « plus de 2 % ») : variation affichée en dollars sur les slides. VIX : pas de clôture officielle jeudi (férié) ; seule la clôture de mercredi est retenue. Taux US à 10 ans : +4 pb (Bloomberg) ou +5 pb (BigGo) ce matin : variation absente des slides. Contrats à terme américains : +0,9 % ou +1,4 % selon l'heure : aucun chiffre sur les slides. Asie : Kospi +1,5 %, +2,2 % ou +3 %, Nikkei +0,7 % ou +1,5 % selon l'heure : aucun chiffre sur les slides. Arrêt de la raffinerie de Jazan : Reuters (via GSM Global News) et SquawkNews. Inflation de Tokyo publiée cette nuit : chiffre non confirmé (BigGo parle d'une inflation sous-jacente japonaise à 2,9 %). Confiance des consommateurs allemands GfK de jeudi : résultat non trouvé. Consensus des statistiques du jour non trouvés ; heures du calendrier d'après une seule source (Admirals, dpa-AFX).",
+  "sources": [
+   "ad-hoc-news, clôture de l'Euro Stoxx 50 du 26 novembre : ad-hoc-news.de/boerse/news/marktberichte/euro-stoxx-50-closes-2-04-prozent-higher-as-us-rebound-supports-europe/70559393",
+   "dpa-AFX (ariva), Europe à la clôture du 26 novembre : ariva.de/news/roundup-aktien-europa-schluss-erholung-aber-noch-keine-12221962",
+   "finanzen.at, Euro Stoxx 50 du 26 novembre : finanzen.at/nachrichten/aktien/donnerstagshandel-in-europa-euro-stoxx-50-notiert-zum-handelsende-im-plus-1036803645",
+   "N Globe (Reuters), pétrole du 26 novembre : nglobenews.com/en/article/oil-brent-96-houthi-ras-tanura-hormuz-mines-2026-11-26",
+   "GSM Global News (Reuters), pétrole du 26 novembre : gsmglobalnews.com/article/d20261126-brent96571.html",
+   "AP (WRAL), Asie du 27 novembre : wral.com/news/ap/c7ef1-asian-shares-mostly-rise-ahead-of-wall-streets-reopening-after-the-thanksgiving-holiday/",
+   "Bloomberg (swissinfo), Markets Wrap du 27 novembre : swissinfo.ch/eng/asian-stocks-rise-for-second-day,-treasuries-slip:-markets-wrap/92446051",
+   "BigGo Finance, Asie du 27 novembre : finance.biggo.com/news/7c7f4c86-a5c2-4730-b3f1-504c4aa0484e",
+   "Saxo, Options Brief du 26 novembre : home.saxo/content/articles/options/index-recovers-near-term-fear-stays---options-brief---26-november-2026-26112026",
+   "SquawkNews, fil du 26 novembre : squawknews.com/brief/livecast/2026-11-26",
+   "Admirals, calendrier du 27 novembre : admiralmarkets.com/analytics/traders-blog/ger40-forecast-friday-27-november-2026"
+  ]
+ },
+ "slides": {
+  "cover": {
+   "kicker": "Euro Stoxx 50 · jeudi",
+   "figure": "+2,04 %",
+   "title": "L'Europe rebondit",
+   "subtitle": "Wall Street rouvre aujourd'hui, pour une séance écourtée."
+  },
+  "pages": [
+   {
+    "kicker": "Ce matin",
+    "title": "L'Asie monte",
+    "title_size": 112,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "rows",
+      "rows": [
+       {
+        "label": "Tokyo",
+        "dir": "up",
+        "value": "En hausse"
+       },
+       {
+        "label": "Séoul",
+        "dir": "up",
+        "value": "En hausse"
+       },
+       {
+        "label": "Futures US",
+        "dir": "up",
+        "value": "En hausse"
+       },
+       {
+        "label": "Pétrole",
+        "dir": "flat",
+        "value": "Stable"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Wall Street rouvre · clôture à 19 h"
+     }
+    ]
+   },
+   {
+    "kicker": "Clôtures de jeudi",
+    "title": "Les 6 chiffres",
+    "gap": 52,
+    "blocks": [
+     {
+      "type": "table6",
+      "rows": [
+       {
+        "label": "S&P 500",
+        "level": "7 183",
+        "change": "férié",
+        "dir": "flat"
+       },
+       {
+        "label": "Euro Stoxx 50",
+        "level": "6 015",
+        "change": "+2,04 %",
+        "dir": "up",
+        "highlight": true
+       },
+       {
+        "label": "EUR/USD",
+        "level": "1,097",
+        "change": "stable",
+        "dir": "flat"
+       },
+       {
+        "label": "Taux US 10 ans",
+        "level": "4,90 %",
+        "change": "hausse",
+        "dir": "up"
+       },
+       {
+        "label": "Brent",
+        "level": "96,57 $",
+        "change": "+1,96 $",
+        "dir": "up"
+       },
+       {
+        "label": "VIX",
+        "level": "28,29",
+        "change": "férié",
+        "dir": "flat"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "S&P 500 et VIX : clôture de mercredi · taux : ce matin"
+     }
+    ]
+   },
+   {
+    "kicker": "Le mouvement du jour",
+    "title": "Rebond européen",
+    "title_size": 100,
+    "gap": 48,
+    "blocks": [
+     {
+      "type": "figure",
+      "value": "+2,04 %",
+      "dir": "up",
+      "subtitle": "Après −3 % en deux séances"
+     },
+     {
+      "type": "range",
+      "dir": "up",
+      "points": [
+       {
+        "label": "Mercredi",
+        "value": 5894.46,
+        "display": "5 894",
+        "role": "before"
+       },
+       {
+        "label": "Jeudi",
+        "value": 6014.74,
+        "display": "6 015",
+        "role": "main"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "kicker": "Les actions",
+    "title": "Tout monte",
+    "title_size": 120,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "bars",
+      "bars": [
+       {
+        "label": "Euro Stoxx 50",
+        "pct": 2.04,
+        "decimals": 2
+       },
+       {
+        "label": "FTSE 100",
+        "pct": 1.75,
+        "decimals": 2
+       },
+       {
+        "label": "SMI",
+        "pct": 1.04,
+        "decimals": 2
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Tech et automobile en tête"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi le pétrole monte",
+    "title": "Golfe sous tension",
+    "title_size": 108,
+    "gap": 48,
+    "blocks": [
+     {
+      "type": "range",
+      "dir": "up",
+      "unit": "$",
+      "points": [
+       {
+        "label": "Lundi",
+        "value": 89.37,
+        "display": "89,37 $",
+        "role": "before"
+       },
+       {
+        "label": "Mercredi",
+        "value": 94.61,
+        "display": "94,61 $",
+        "role": "before"
+       },
+       {
+        "label": "Jeudi",
+        "value": 96.57,
+        "display": "96,57 $",
+        "role": "main"
+       }
+      ]
+     },
+     {
+      "type": "box",
+      "style": "alert",
+      "label": "Golfe",
+      "text": "Raffineries saoudiennes visées, mines près d'Ormuz"
+     }
+    ]
+   },
+   {
+    "kicker": "Pourquoi les taux montent",
+    "title": "Fed : hausse actée",
+    "title_size": 100,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "metrics",
+      "metrics": [
+       {
+        "small": "Taux US 10 ans",
+        "label": "Avant le férié",
+        "value": "4,86 %"
+       },
+       {
+        "small": "Taux US 10 ans",
+        "label": "Ce matin",
+        "value": "4,90 %",
+        "tone": "down"
+       }
+      ]
+     },
+     {
+      "type": "box",
+      "style": "dark",
+      "label": "9 décembre",
+      "text": "Hausse de 25 pb entièrement anticipée"
+     }
+    ]
+   },
+   {
+    "kicker": "Ce que ça change",
+    "title": "Barrières soulagées",
+    "title_size": 96,
+    "gap": 64,
+    "blocks": [
+     {
+      "type": "steps",
+      "steps": [
+       "Rebond européen",
+       "Barrières plus loin",
+       "Coupons encore généreux"
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Taux US vers 4,9 % : capital protégé attractif"
+     }
+    ]
+   },
+   {
+    "kicker": "Aujourd'hui",
+    "title": "À surveiller",
+    "title_size": 104,
+    "gap": 72,
+    "blocks": [
+     {
+      "type": "agenda",
+      "rows": [
+       {
+        "time": "8 h 45",
+        "label": "Inflation française"
+       },
+       {
+        "time": "11 h",
+        "label": "Confiance zone euro"
+       },
+       {
+        "time": "19 h",
+        "label": "Clôture de Wall Street"
+       }
+      ]
+     },
+     {
+      "type": "note",
+      "text": "Heures de Paris · Opep+ dimanche"
+     }
+    ]
+   }
+  ],
+  "outro": {
+   "sources": "Reuters, AP, Bloomberg, dpa-AFX, Saxo"
+  }
+ },
+ "post": {
+  "hook": "Wall Street fermée, l'Europe a rebondi : l'Euro Stoxx 50 gagne 2,04 % jeudi après deux séances de baisse. Le Brent monte à 96,57 $ sur les attaques dans le Golfe, et Wall Street rouvre aujourd'hui pour une séance écourtée.",
+  "jour_cloture": "jeudi",
+  "rendez_vous_court": "8 h 45 : inflation française. 11 h : sentiment économique de la zone euro. 19 h : clôture anticipée de Wall Street. Dimanche : réunion de l'Opep+.",
+  "hashtags": "#bourse #marchésfinanciers #pétrole #finance #macro"
+ }
+}
